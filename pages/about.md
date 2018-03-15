@@ -42,9 +42,5 @@ Besides scholarly activities, I am a keen lover of music, films, and stage drama
             Phone: +852-3411-6559
             </div>
         </div>
-
-        <div class="span5">
-        <img src="../assets/xinzhipic.JPG" title="Xinzhi Zhang" alt="Xinzhi Zhang"/>
-        </div>
     </div>
 </div>
