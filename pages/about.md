@@ -38,16 +38,14 @@ Besides scholarly activities, I am a keen lover of music, films, and stage drama
             Hong Kong SAR<br/><br/>
 
             <div id="hide_email">
-            Email: <code>xz</code><b>I</b><code>zhang2</code><b>don't</b><code>@</code><b>want</b><code>gmail</code><b>spam!
-            </b><code>.</code><b>So</b><code>com</code><br/>
+            Email: xzzhang2 [at] gmail [dot] com <br/>
             Phone: +852-3411-6559
             </div>
         </div>
 
         <div class="span2">
-        <a href="../assets/xinzhipic.JPG"">
-            <img src="../assets/xinzhipic.JPG"
-                  title="Xinzhi Zhang" alt="Xinzhi Zhang"/></a>
+        <img src="../assets/xinzhipic.JPG"
+                  title="Xinzhi Zhang" alt="Xinzhi Zhang"/>
         </div>
     </div>
 </div>
