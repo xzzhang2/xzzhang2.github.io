@@ -8,6 +8,6 @@ Xinzhi Zhang is a Research Assistant Professor at the Department of Journalism a
 
 ---
 
-![Xinzhi's picture]({{ BASE_PATH }}/assets/xinzhipic.jpg)  
+![Xinzhi's picture](/assets/xinzhipic.JPG)  
 
 ---
