@@ -43,9 +43,8 @@ Besides scholarly activities, I am a keen lover of music, films, and stage drama
             </div>
         </div>
 
-        <div class="span2">
-        <img src="../assets/xinzhipic.JPG"
-                  title="Xinzhi Zhang" alt="Xinzhi Zhang"/>
+        <div class="span5">
+        <img src="../assets/xinzhipic.JPG" title="Xinzhi Zhang" alt="Xinzhi Zhang"/>
         </div>
     </div>
 </div>
