@@ -25,22 +25,16 @@ Besides scholarly activities, I am a keen lover of music, films, and stage drama
 
 ---
 
-<div class="container">
 <h4><a name="contact"></a>contact</h4>
 
-    <div class="row-fluid">
-        <div class="span5">
-            Xinzhi Zhang<br/>
-            <a href="http://www.jour.hkbu.edu.hk">Department of Journalism</a><br/>
-            <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University</a><br/>
-            <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University Road</a><br/>
-            Kowloon Tong<br/>
-            Hong Kong SAR<br/><br/>
+ - Xinzhi Zhang<br/>
+ - <a href="http://www.jour.hkbu.edu.hk">Department of Journalism</a><br/>
+ - <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University</a><br/>
+ - <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University Road</a><br/>
+ - Kowloon Tong<br/>
+ - Hong Kong SAR<br/><br/>
 
-            <div id="hide_email">
-            Email: xzzhang2 [at] gmail [dot] com <br/>
-            Phone: +852-3411-6559
-            </div>
-        </div>
-    </div>
-</div>
+ - Email: xzzhang2 [at] gmail [dot] com <br/>
+ - Phone: +852-3411-6559
+
+ 
