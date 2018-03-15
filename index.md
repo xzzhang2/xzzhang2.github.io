@@ -1,0 +1,39 @@
+---
+layout: frontpage
+title: Xinzhi Zhang
+description: Xinzhi Zhang works in the areas of comparative political communication, media and social change, emerging technologies and the sociology of news, computational social science, and digital humanities.
+keywords: R, Python, statistics, comparative political communication, social movements, social change, digital humanities
+---
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/CV_XinzhiZhang_Git_201801.pdf">cv</a></li>
+          <li><a href="https://github.com/xzzhang2">Github</a></li>
+          <li><a href="about:blank">blog [pending]</a></li>
+          <li><a href="https://twitter.com/xin_zhi_zhang">@xin_zhi_zhang</a></li>
+      </ul>
+  </div>
+</div>
+
+---
+
+Welcome! I am Xinzhi Zhang. This is my profile page.
+
+My research areas include comparative political communication, new media and social change, social movements, and emerging media and the sociology of news. I am also expending the research repertoire to computational social science and digital humanities.
+
+I have published 16 peer-reviewed academic research articles (among which 12 are SCI/SSCI journals), all since 2013, including Computers in Human Behavior, International Political Science Review, International Journal of Communication, Digital Journalism, Telecommunications Policy, International Communication Gazette, and Policy & Internet.
+
+Currently I am a Research Assistant Professor at the Department of Journalism of Hong Kong Baptist University. It is my honor to serve as the inaugural Associate Programme Director of the Interdisciplinary Concentration on Data and Media Communication. Before joining the Baptist U in 2016, I was a Lecturer and the Co-Convener of the Academic Discipline of Humanities at the School of Professional Education and Executive Development at the Hong Kong Polytechnic University (2014-16). I obtained both Ph.D. in Media and Communication (2013) and M.A. with Distinction in Communication and New Media (2009) from City University of Hong Kong.
+
+Besides scholarly activities, I am a keen lover of music, films, and stage drama. I play piano and jazz drum.
+
+(Site updated at 14 March 2018).
+
+---
+
+More on Xinzhi:
+ - [Google Scholar](https://sites.google.com/site/xzzhang2/cv)
+ - [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3)
+ - [Twitter](https://twitter.com/xin_zhi_zhang)
+ - [Github](https://github.com/xzzhang2)
