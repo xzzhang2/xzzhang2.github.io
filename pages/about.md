@@ -6,12 +6,11 @@ description: Xinzhi Zhang description
 
 My name is Xinzhi Zhang. Currently I am a Research Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/eng/people/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
 
-My research areas include comparative political communication, new media and social change, social movements, data-driven journalism, and emerging media and the sociology of news. As a social scientist by taining, I am also expending the research repertoire to computational social science and digital humanities, as a coder with [R](http://www.r-project.org), Python, Javascript, D3, and Gephi. 
+My research areas include comparative political communication, new media and social change, social movements, data-driven journalism, and emerging media and the sociology of news. As a social scientist by taining, I am also expending the research repertoire to computational social science and digital humanities, with data analytics toolkits including [R](http://www.r-project.org), Python, HTML, CSS, Javascript, and Gephi. 
 
 I obtained both Ph.D. in Media and Communication (2013) and M.A. with Distinction in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I obtained B.A. in Broadcasting Journalism (Internet Communicatino Stream) (2008) at Guangzhou University. I am from Shenzhen, China. 
 
 I am the Associate Programme Director of the Interdisciplinary Concentration on [Data and Media Communication](http://bu-dmc.hkbu.edu.hk). Before joining the Baptist U in 2016, I was a Lecturer and the Co-Convener of the Academic Discipline of Humanities at the [School of Professional Education and Executive Development at the Hong Kong Polytechnic University](https://www.speed-polyu.edu.hk) (2014-16). 
-
 
 Besides scholarly activities, I am a keen lover of music, films, and stage drama. I play piano and jazz drum.
 
@@ -25,16 +24,16 @@ Besides scholarly activities, I am a keen lover of music, films, and stage drama
 
 ---
 
-<h4><a name="contact"></a>contact</h4>
+<h4>contact</h4>
 
- - Xinzhi Zhang<br/>
- - <a href="http://www.jour.hkbu.edu.hk">Department of Journalism</a><br/>
- - <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University</a><br/>
- - <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University Road</a><br/>
- - Kowloon Tong<br/>
- - Hong Kong SAR<br/><br/>
+  Xinzhi Zhang
+  <a href="http://www.jour.hkbu.edu.hk">Department of Journalism</a>
+  <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University</a>
+  <a href="http://www.hkbu.edu.hk">Hong Kong Baptist University Road</a>
+  Kowloon Tong
+  Hong Kong SAR
 
- - Email: xzzhang2 [at] gmail [dot] com <br/>
- - Phone: +852-3411-6559
+  Email: xzzhang2 [at] gmail [dot] com
+  Phone: +852-3411-6559
 
- 
+
