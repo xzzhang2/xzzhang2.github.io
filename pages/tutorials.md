@@ -4,8 +4,6 @@ title: tutorials and cases
 description: Xinzhi Zhang's tutorials
 ---
 
-### R & Python for Journalism, Communication, and Humanities
-
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
