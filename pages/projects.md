@@ -7,25 +7,25 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#gallery">gallery</a></li>   	
-            <li><a href="#researchprojs">research grants</a></li>
-            <li><a href="#othergrants">other grants</a></li>
+            <li><a href="#gallery">1. gallery</a></li>   	
+            <li><a href="#researchprojs">2. research grants</a></li>
+            <li><a href="#othergrants">3. other grants</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="gallery"></a>gallery
+### <a name="gallery"></a>1. gallery
 
 *formatted gallery information to be added* 
 
 
-### <a name="researchprojs"></a>research grants
+### <a name="researchprojs"></a>2. research grants
 
   - Dec 2016. *Effects of Freedom Restoration, Language Variety, and Issue Type on Psychological Reactance: An Experimental Study of Health Promotion Messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). (49,752 HKD). Completed 
 
  - Jan 2012. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). [15,000 HKD]. 
 
-### <a name="othergrants"></a>other grants 
+### <a name="othergrants"></a>3. other grants 
 
  - Feb 2017. Staff Development Grant, School of Communication, Hong Kong Baptist University. [15,000 HKD]
 
