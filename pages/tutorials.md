@@ -12,7 +12,7 @@ description: Xinzhi Zhang's tutorials
             <li><a href="#textmining">text mining</a></li>
             <li><a href="#SNA">social network analysis</a></li>
             <li><a href="#dataviz">data visualization</a></li>
-            <li><a href="#honproj">writing honorous projects </a></li>
+            <li><a href="#honproj">writing project preparation</a></li>
         </ul>
     </div>
 </div>
@@ -21,4 +21,15 @@ description: Xinzhi Zhang's tutorials
 
 *to be added* 
 
+### <a name="SNA"></a>social network analysis 
+
 *to be added*  
+
+### <a name="dataviz"></a>data visualization 
+
+*to be added*  
+
+### <a name="honproj"></a>writing and other project preparation 
+
+*to be added*  
+

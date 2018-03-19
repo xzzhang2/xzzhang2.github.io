@@ -18,52 +18,117 @@ description: Xinzhi Zhang's publications
 
 ### <a name="publications"></a>publications
 
-### Section A: Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus) 
+#### Section A: Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus) 
 
-1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement - press dynamics and news diffusion: A typology of activism in digital China. *China Review*. (Q1 in **SSCI** – Area Studies) [Full text](about:blank) 
+1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement - press dynamics and news diffusion: A typology of activism in digital China. *China Review*. (**Q1 in SSCI** – Area Studies) [[Full text](about:blank)]    
 
-2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. Computers in Human Behavior. 79, 217-226. doi: 10.1016/j.chb.2017.10.036 (Q1 in SSCI - Psychology) [Full text](about:blank) 
+2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior*. 79, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 in SSCI** - Psychology) [[Full text](about:blank)]  
 
-3. Lin, W.-Y., Cao, B., & Zhang, X. (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. International Journal of Communication, 11, 3704-3720. [Q2 in SSCI - Communication]
+3. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. *International Journal of Communication*, 11, 3704-3720. (**Q2 in SSCI** - Communication) [[Full text](about:blank)]  
 
-4. Zhang, X. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774, 308-318. Springer, Singapore. doi: https://doi.org/10.1007/978-981-10-6805-8_25 [EI].
+4. **Zhang, X**. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: https://doi.org/10.1007/978-981-10-6805-8_25 (**EI**) [[Full text](about:blank)]  
 
-4. Zhang, X. (2017). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. Digital Journalism. Online first, doi: 10.1080/21670811.2017.1340094. [Web of Science ESCI, Scopus] 
+4. **Zhang, X.** (2017). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism*. Online first, doi: 10.1080/21670811.2017.1340094. (Web of Science **ESCI**, **Scopus**) [[Full text](about:blank)] 
 
-5. Zhong, Z.-J., & Zhang, X.* (2017). A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion. China: An International Journal, 15(2), 22-43. [SSCI - Area Studies; * corresponding author]  
+5. Zhong, Z.-J., & **Zhang, X.** (2017). A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion. *China: An International Journal*, 15(2), 22-43. (**SSCI** - Area Studies; corresponding author) [[Full text](about:blank)] 
 
-6. Cui, L., & Zhang, X. (2017). What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015). Critical Studies in Media Communication. online first, doi: 10.1080/15295036.2017.1319070. [SSCI - Communication] 
+6. Cui, L., & **Zhang, X.** (2017). What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015). *Critical Studies in Media Communication*. 34(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** - Communication])[[Full text](about:blank)]
 
-7. Zhang, X., & Lin, W.-Y. (2016). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. International Political Science Review. Online first, doi: 10.1177/0192512116641842. [Q2 in SSCI - Political Science]
+7. **Zhang, X.**, & Lin, W.-Y. (2016). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review*. 39(2), 273-289, doi: 10.1177/0192512116641842. (**Q2 in SSCI** - Political Science) [[Full text](about:blank)] 
 
-8. Lin, W.-Y., Zhang, X., Song, H.-Y., & Omori, K.  (2016). Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure. Computers in Human Behavior, 56, 289–294. doi: 10.1016/j.chb.2015.11.055. [Q1 in SSCI - Psychology]
+8. Lin, W.-Y., **Zhang, X.**, Song, H.-Y., & Omori, K.  (2016). Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure. *Computers in Human Behavior*, 56, 289–294. doi: 10.1016/j.chb.2015.11.055. [**Q1 in SSCI** - Psychology] [[Full text](about:blank)]
 
-9. Zhang, X. (2015). Voting with dollars: A cross-polity and multilevel analysis of political consumerism. International Journal of Consumer Studies, 39(5), 422-436. doi: 10.1111/ijcs.12181. [SSCI - Business]
+9. **Zhang, X.** (2015). Voting with dollars: A cross-polity and multilevel analysis of political consumerism. *International Journal of Consumer Studies*, 39(5), 422-436. doi: 10.1111/ijcs.12181. [**SSCI** - Business] [[Full text](about:blank)]
 
-10. Lin, F., Chang, T.-K., & Zhang, X. (2014). After the spillover effect: News flows and power relations in Chinese mainstream media. Asian Journal of Communication, 25(3), 235-254. doi: 10.1080/01292986.2014.955859. [SSCI - Communication]
+10. Lin, F., Chang, T.-K., & **Zhang, X.** (2014). After the spillover effect: News flows and power relations in Chinese mainstream media. *Asian Journal of Communication*, 25(3), 235-254. doi: 10.1080/01292986.2014.955859. [**SSCI** - Communication] [[Full text](about:blank)]
 
-11. Liu, N. & Zhang, X. (2014). The influence of group communication, government-citizen interaction, and perceived importance of new media on online political discussion. Policy & Internet, 5(4), 444-461. doi: 10.1002/1944-2866.POI348. [Web of Science ESCI, Scopus]
+11. Liu, N. & **Zhang, X.** (2014). The influence of group communication, government-citizen interaction, and perceived importance of new media on online political discussion. *Policy & Internet*, 5(4), 444-461. doi: 10.1002/1944-2866.POI348. [Web of Science **ESCI**, **Scopus**] [[Full text](about:blank)]
 
-12. Zhang, X. & Lin, W.-Y. (2014). Political participation in an unlikely place: How individuals engage in politics through social networking sites in China. International Journal of Communication, 8, 21-42. Link to the Article: http://ijoc.org/index.php/ijoc/article/view/2003/1047. [Q2 in SSCI - Communication]
+12. **Zhang, X.** & Lin, W.-Y. (2014). Political participation in an unlikely place: How individuals engage in politics through social networking sites in China. *International Journal of Communication*, 8, 21-42. Link to the Article: http://ijoc.org/index.php/ijoc/article/view/2003/1047. [**Q2 in SSCI** - Communication] [[Full text](about:blank)]
 
-13. Lin, W.-Y., Zhang, X., & Lee, F. L. F. (2013). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. International Communication Gazette, 75(8), 715-731. doi: 10.1177/1748048513497160. [SSCI - Communication]
+13. Lin, W.-Y., **Zhang, X.**, & Lee, F. L. F. (2013). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. *International Communication Gazette*, 75(8), 715-731. doi: 10.1177/1748048513497160. [**SSCI** - Communication] [[Full text](about:blank)]
 
-14. Lin, W.-Y., Zhang, X., Jung, J.-Y., & Kim, Y.-C. (2013). From the wired to wireless generation: Investigating teens’ internet use through the mobile phone. Telecommunications Policy, 37(8), 651-661. doi:10.1016/j.telpol.2012.09.008. [Q1 in SSCI - Communication]
+14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). From the wired to wireless generation: Investigating teens’ internet use through the mobile phone. *Telecommunications Policy*, 37(8), 651-661. doi:10.1016/j.telpol.2012.09.008. [**Q1 in SSCI** - Communication] [[Full text](about:blank)]
 
-### Section B: Peer-reviewed publications in Chinese
+#### Section B: Peer-reviewed publications in Chinese
 
-1. Lin, W.-Y. & Zhang, X. (2012). Seeking the “invisible youth”: Examining the Otaku’s online-offline social capital construction in Hong Kong (「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探). Mass Communication Research (新聞學研究), 2012(7), 233-270. Link to the Article: http://mcr.nccu.edu.tw/word/1314522013.pdf. [in Chinese, TSSCI, Taiwan]. 
+1. Lin, W.-Y. & **Zhang, X.** (2012). Seeking the “invisible youth”: Examining the Otaku’s online-offline social capital construction in Hong Kong (「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探). *Mass Communication Research (新聞學研究)*, 2012(7), 233-270. Link to the Article: http://mcr.nccu.edu.tw/word/1314522013.pdf. [in Chinese, **TSSCI**, Taiwan]. 
 
-2. Zhang, X. (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China （社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例）. In G. Zhang (Ed.), Communication in e-Society: Innovation, collaboration, and responsibility （張國良主編：e社會傳播：創新·合作·責任） (pp. 95-115). Shanghai: Shanghai People’s Press （上海人民出版社）, in Chinese.  
+2. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China （社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例）. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* （張國良主編：e社會傳播：創新·合作·責任） (pp. 95-115). Shanghai: Shanghai People’s Press （上海人民出版社）, in Chinese.  
 
 
 ### <a name="conferences"></a>peer-reviewed conference presentations
 
-*TO be added* 
+1. Zhang, X., Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper accepted to be presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 29 May, 2018. 
+
+2. Zhang, X. (2017). Exploring the country co-occurrence network in the Twittersphere at an international economic event. Paper to be presented at the 6th China National Social Media Processing Conference (SMP2017), Beijing, China, 14 – 17 September, 2017.
+
+3. Zhang, X. (2017) Visualization, technologies, or the public?  A text mining analysis of the articulation of data-driven journalism in the Twittersphere. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017. 
+
+4. Zhang, X. & Lin, W.-Y. (2017). Extending the Gamson hypothesis on social media use and elite-challenging political participation: A cross-polity study. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
+
+5. Zhang, X. (2016). The effects of freedom restoration, message frames, and language variety on psychological reactance. Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016. 
+
+6. Cui, L., & Zhang, X. (2016). What happened to those tomboys several years later?: Empowerment from Super Girls' Voice for girls in mainland China (2007-2015). Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
+
+7. Lin, W.-Y., Cao, B., & Zhang, X. (2016). To speak or not to speak: Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
+
+8. Zhang, X., & Zhong, Z.-J. (2015). Mapping the boundary of media effects on environmental concerns: Evidence from 37 societies. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
+
+9. Lin, W.-Y., & Zhang, X. (2015). From spectators to participants: A study of affective intelligence, media uses, and political participation in Hong Kong. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
+
+10. Wang, C.-J., Chen, H.X., & Zhang, X. (2015) The landscape of information diffusion on Sina Weibo: Investigating the rich-club effect. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
+
+11. Zhang, X., & Lin, W.-Y. (2014) The cynics in action: Social networking sites use, political attitudes, and political participation in mainland China and Hong Kong. Paper presented at the 64th Annual Conference of International Communication Association (**ICA**). Seattle, Washington, the U.S., May 2014. [Political Communication Division Travel Grant]
+
+12. Zhang, X., & Lin, W.-Y. (2014) Bowling alone or together? Social media uses, organizational membership, and political participation. Paper presented at the **ICA** 2014 Pre-conference: New Media and Citizenship in Asia: Values, Digital Politics, and Civic Well-Being, Seattle, Washington, the U.S., May 2014. [Division Travel Grant]
+
+13. Zhong, Z.-J., & Zhang, X. (2014). Media and psychological predictors of civic engagement: Uses of news, motivation, political efficacy, and relative deprivation. Paper presented at the 64th Annual Conference of International Communication Association (**ICA**). Seattle, Washington, the U.S., May 2014.
+
+14. Zhang, X., & Zhang, F. (2013). Powered by democracy? - A multilevel model of media uses and political participation across Asian countries. Paper presented at the Annual Conference of Association for Education in Journalism and Mass Communication (**AEJMC**), D.C., the U.S., Aug 8 – 11, 2013. [Best Student Paper Award, the Political Communication Interest Group] 
+
+15. Zhang, X., & Zhang, W. (2013). The willingness to fight for the People’s Republic of China? The individual determinants of political support in the post-colonial Hong Kong. Paper accepted to be presented at the 99th Annual Convention of National Communication Association (**NCA**). D.C., the U.S., Nov 21-24, 2013. 
+
+16. Zhang, X. (2013). The myth of “voting with dollars”: A cross-polity and multilevel analysis of political consumerism. Paper presented at the 63rd Annual Conference of International Communication Association (**ICA**). London, the U.K., June 17-21, 2013.
+
+17. Lin, W.-Y., Zhang, X., & Lee, F. L. F. (2013). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. Paper presented at the 63rd Annual Conference of International Communication Association (**ICA**). London, the U.K., June 17-21, 2013.
+
+18. Liu, N., & Zhang, X. (2012). Talking as communicators: Effects of group communication, government-citizen interaction, and perceived media importance on online political discussion. Paper presented at the 100th Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). Chicago, the U.S., Aug 9-12, 2012.
+
+19. Lin, F., & Zhang, X. (2012). Contextualizing inter-media influence: Diffusion of online news about three collective actions in China. Paper presented at the 62nd Annual Conference of International Communication Association (**ICA**). Phoenix, Arizona, the U.S., May 24-28, 2012.
+
+20. Lin, F., & Zhang, X. (2011). Bureaucratic nature of news websites and online activism in China. Paper presented at the 106th Convention of American Sociological Association (**ASA**). Las Vegas, the U.S., 13-16 August 2011.
+
+21. Lin, W.-Y., Zhang, X., Kim, Y.-C., & Jung, J.-Y. (2011). Religion on the line: Investigating communication and action through youths’ online religious participation. Paper presented at the 97th Annual Convention of National Communication Association (**NCA**). New Orleans, United States, Nov 17-19, 2011.
+
+22. Lin, W.-Y., & Zhang, X. (2011). Demystifying collective identities in Hong Kong and Taiwan: The effects of media and communication. Paper presented at the 97th Annual Convention of National Communication Association (**NCA**). New Orleans, the U.S., Nov 17-19, 2011.
+
+23. Zhang, X. (2011). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011. 
 
 
 ### <a name="reviews"></a>reviews/editorials
 
-*TO be added* 
+*Selected Professional Publications (Professional Journal Articles, Book Reviews, Media Contributions)*
+
+1. Zhang, X. (2014). A Book Review on "Democracy on Trial: Social Movements and Cultural Politics in Postauthoritarian Taiwan," by Ya-Chung Chuang. Hong Kong: The Chinese University Press, 2013. The China Review, 14(2), (Fall 2014), 265-269. 
+
+2. Zhang, X. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer” (“誰是歌手？”對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). [Fulltext](http://app3.rthk.hk/mediadigest/content.php?aid=1484)
+
+3. Zhang, X. (2013). Four theoretical frameworks to analyze the Edward Snowden Incident (斯諾登事件之四重邏輯：政府-公民關係，政治表達，國際關係，與隱私權利). Media Digest [Hong Kong: Radio Television Hong Kong], 2013(7), 4-5. [Fulltext](http://rthk.hk/mediadigest/20130715_76_123002.html)
+
+4. Zhang, X. (2012). The analyze on the appreciation index and cognition rates of Hong Kong TV Drama: 1998-2009 (從電視欣賞指數歷年數據概述香港電視劇集特徵與收視情況). Media Digest [Hong Kong: Radio Television Hong Kong], 2012(6), 16-17. [Fulltext](http://rthk.hk/mediadigest/20120613_76_122880.html)
+
+5. Zhang, X. (2012). On the banned TV drama When the Heaven Burns in mainland China (簡評香港劇集《天與地》在內地禁播事件). Media Digest [Hong Kong: Radio Television Hong Kong], 2012(1), 6-7. [Fulltext](http://rthk.hk/mediadigest/20120113_76_122823.html) 
+
+6. Zhang, X. (16 Aug, 2011). When people from mainland China like to donate in Hong Kong?   (內地人爲何去香港捐款). Southern Metapolitan Daily [南方都市報 – 南都早茶評論]. p. 2. [Fulltext](http://gcontent.oeeee.com/8/65/86530f307772e956/Blog/a28/e1dfee.html) 
+
+7. Zhang, X. (2010). A review on the media’s performance during Manila hostage incident (媒體、挾持者、政府 ─ 「8•23」菲律賓人質事件反思). Media Digest [Hong Kong: Radio Television Hong Kong], 2010(9), 3-4. [Fulltext](http://www.rthk.org.hk/mediadigest/20100914_76_122652.html)
+
+8. Zhang, X. (2010). Comparing the content regulations of TV drama between mainland China and Hong Kong: A case of criminal drama (中港電視劇內容管理管窺：以警匪、犯罪、涉案題材為例). Media Digest [Hong Kong: Radio Television Hong Kong], 2010(4), 4-5. [Fulltext](http://rthk.hk/mediadigest/20100422_76_122599.html) 
+
+9. Zhang, X. (2009). The media coverage of “Green Dam” software incident in mainland China (中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈). Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. [Fulltext](http://rthk.hk/mediadigest/20090715_76_122313.html)
+
+10. Zhang, X. (2009). On the citizen journalism during the “Aug. 8th” Typhoon & Flood Disaster in Taiwan (風雨同舟．守衛家園—試析台灣公民媒體對「八八水災」的報導). Media Digest [Hong Kong: Radio Television Hong Kong], 2009(9), 10-11. [Fulltext](http://rthk.hk/mediadigest/20090915_76_122370.html) 
+
 
 

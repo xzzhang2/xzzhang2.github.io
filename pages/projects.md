@@ -1,18 +1,46 @@
 ---
 layout: page
 title: research projects
-description: Xinzhi Zhang's research projects
+description: Xinzhi Zhang's research projects, show cases, and grants record 
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">project1</a></li>
-            <li><a href="#articles">project2</a></li>
-            <li><a href="#editorials">project3</a></li>
-            <li><a href="#letters">project4</a></li>
+            <li><a href="#gallery">gallery</a></li>   	
+            <li><a href="#researchprojs">research grants</a></li>
+            <li><a href="#othergrants">other grants</a></li>
         </ul>
     </div>
 </div>
 
-*to be added* 
+### <a name="gallery"></a>gallery
+
+*formatted gallery information to be added* 
+
+
+### <a name="researchprojs"></a>research grants
+
+  - Dec 2016. *Effects of Freedom Restoration, Language Variety, and Issue Type on Psychological Reactance: An Experimental Study of Health Promotion Messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). (49,752 HKD). Completed 
+
+ - Jan 2012. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). [15,000 HKD]. 
+
+### <a name="othergrants"></a>other grants 
+
+ - Feb 2017. Staff Development Grant, School of Communication, Hong Kong Baptist University. [15,000 HKD]
+
+ - Mar 2016. Short-term Staff Development Activities Grant, College of Professional and Continuing Education, The Hong Kong Polytechnic University. [10,000 HKD] 
+
+ - Mar 2014. Travel Grant, “New Media and Citizenship in Asia,” 2014 International Communication Association (**ICA**) Preconference, Seattle, the U.S. [800 USD].
+
+ - Mar 2014. Travel Grant, Political Communication Division, International Communication Association (**ICA**), the Annual Convention, Seattle, the U.S. [500 USD]. 
+
+ - Jun 2013. Travel Grant, Department of Media and Communication, City University of Hong Kong, for the 2013 Annual Conference of the International Communication Association (**ICA**), London, England [12,000 HKD]. 
+
+ - May 2012. Travel Grant, Department of Media and Communication, City University of Hong Kong, for the 2012 Annual Conference of the International Communication Association (**ICA**), Phoenix, Arizona, the U.S. [12,000 HKD].
+
+ - Nov 2011. Research Activities Fund, Chow Yei Ching School of Graduate Studies, City University of Hong Kong, for the 2011 Annual Conference of the National Communication Association (**NCA**), New Orleans, the U.S. [10,000 HKD].
+
+ - Sep 2009 - Aug 2013. University Grants Council (UGC) Scholarship, Hong Kong. 
+
+--
