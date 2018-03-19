@@ -10,7 +10,7 @@ description: Xinzhi Zhang's tutorials
             <li><a href="#textmining">text mining</a></li>
             <li><a href="#SNA">social network analysis</a></li>
             <li><a href="#dataviz">data visualization</a></li>
-            <li><a href="#honproj">writing project preparation</a></li>
+            <li><a href="#honproj">project preparation</a></li>
         </ul>
     </div>
 </div>
