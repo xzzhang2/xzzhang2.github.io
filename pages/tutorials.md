@@ -15,19 +15,6 @@ description: Xinzhi Zhang's tutorials
     </div>
 </div>
 
-### <a name="textmining"></a>text mining 
+*tutorials to be added* 
 
-*to be added* 
-
-### <a name="SNA"></a>social network analysis 
-
-*to be added*  
-
-### <a name="dataviz"></a>data visualization 
-
-*to be added*  
-
-### <a name="honproj"></a>writing and other project preparation 
-
-*to be added*  
 

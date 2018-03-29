@@ -16,7 +16,7 @@ description: Xinzhi Zhang's teaching experience
 
 ### <a name="hkbu_course"></a>courses @ HK BaptistU (2016 - present)
 
- - Master of Communication Graduation Research Project Supervision 
+ - Master of Arts in Communication Graduation Research Project Supervision 
  - COMM7190 Issues and Cases in Mass Communication (postgraduate level, for MA in Communication)
  - COMM7xxx Big Data Analytics for Media and Communication (postgraduate level, for MA in Communication, course proposer)
  - JOUR4xxx Integrated Data-Driven Storytelling (undergraduate level, for the Data and Media Communication Concentration, Concentration core course, course propoer)

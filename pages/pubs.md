@@ -20,7 +20,7 @@ description: Xinzhi Zhang's publications
 
 #### 1A. Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus) 
 
-1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement - press dynamics and news diffusion: A typology of activism in digital China. *China Review*. (**Q1 in SSCI** – Area Studies)     
+1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement-press dynamics and news diffusion: A typology of activism in digital China. *The China Review*. (**Q1 in SSCI** – Area Studies)     
 
 2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior*. 79, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 in SSCI** - Psychology)   
 
