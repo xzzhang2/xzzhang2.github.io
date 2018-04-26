@@ -20,7 +20,9 @@ description: Xinzhi Zhang's publications
 
 #### 1A. Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus) 
 
-1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement-press dynamics and news diffusion: A typology of activism in digital China. *The China Review*. (**Q1 in SSCI** – Area Studies)     
+1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement-press dynamics and news diffusion: A typology of activism in digital China. *The China Review*. (**Q1 in SSCI** – Area Studies)
+
+2. **Zhang, X.** & Lin, W.-Y. (2018). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review*, 39(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 in SSCI** - Political Science)       
 
 2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior*. 79, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 in SSCI** - Psychology)   
 
@@ -33,8 +35,6 @@ description: Xinzhi Zhang's publications
 5. Zhong, Z.-J., & **Zhang, X.** (2017). A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion. *China: An International Journal*, 15(2), 22-43. (**SSCI** - Area Studies; corresponding author)  
 
 6. Cui, L., & **Zhang, X.** (2017). What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015). *Critical Studies in Media Communication*. 34(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** - Communication])
-
-7. **Zhang, X.**, & Lin, W.-Y. (2016). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review*. 39(2), 273-289, doi: 10.1177/0192512116641842. (**Q2 in SSCI** - Political Science)  
 
 8. Lin, W.-Y., **Zhang, X.**, Song, H.-Y., & Omori, K.  (2016). Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure. *Computers in Human Behavior*, 56, 289–294. doi: 10.1016/j.chb.2015.11.055. [**Q1 in SSCI** - Psychology] 
 
