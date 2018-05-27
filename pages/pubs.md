@@ -65,8 +65,6 @@ description: Xinzhi Zhang's publications
 
 2.	Zhang, X. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. The China Review. 14(2), 265-269.  
 
-3.	Zhang, X. (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), Communication in e-Society: Innovation, collaboration, and responsibility, pp. 95-115). Shanghai: Shanghai People’s Press.  [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].  
-
 4.	Zhang, X. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期]  
 
 5.	Zhang, X. (2013). Four interpretive frames to make sense of Snowden incident: Government-citizen relation, political expression, international relation, and privacy. Media Digest [Hong Kong: Radio Television Hong Kong], 2013(7), 4-5. Full text: http://rthk.hk/mediadigest/20130715_76_123002.html. [張昕之 (2013)。〈斯諾登事件之四重邏輯：政府-公民關係，政治表達，國際關係，與隱私權利〉。 香港電台《傳媒透視》，2013年第7期，頁4-5] 
