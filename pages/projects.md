@@ -7,17 +7,11 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#gallery">1. gallery</a></li>   	
-            <li><a href="#researchprojs">2. research grants</a></li>
-            <li><a href="#othergrants">3. other grants</a></li>
+            <li><a href="#researchprojs">1. research grants</a></li>
+            <li><a href="#othergrants">2. other grants</a></li>
         </ul>
     </div>
 </div>
-
-### <a name="gallery"></a>1. gallery
-
-*formatted gallery information to be added* 
-
 
 ### <a name="researchprojs"></a>2. research grants
 
