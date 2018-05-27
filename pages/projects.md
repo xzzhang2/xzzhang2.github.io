@@ -13,7 +13,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
     </div>
 </div>
 
-### <a name="researchprojs"></a>2. research grants
+### <a name="researchprojs"></a>1. research grants
 
  - May 2018. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). (44,100 HKD). On-going. 
 
@@ -21,7 +21,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
  - Jan 2012. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). (15,000 HKD). Completed.  
 
-### <a name="othergrants"></a>3. other grants 
+### <a name="othergrants"></a>2. other grants 
 
  - Mar 2018. Staff Development Grant, School of Communication, Hong Kong Baptist University. [22,900 HKD]
 
