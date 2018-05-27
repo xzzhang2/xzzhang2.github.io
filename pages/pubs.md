@@ -8,8 +8,8 @@ description: Xinzhi Zhang's publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#publications">1. publications</a></li>
-            <li><a href="#conferences">2. reviews/editorials</a></li>
-            <li><a href="#reviews">3. conferences</a></li>
+            <li><a href="#reviews">2. reviews/editorials</a></li>
+            <li><a href="#conferences">3. conferences</a></li>
         </ul>
     </div>
 </div>
