@@ -88,9 +88,7 @@ description: Xinzhi Zhang's publications
 
 1. Zhang, X., Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 28 May, 2018. 
 
-2. Zhang, X. (2017). Exploring the country co-occurrence network in the Twittersphere at an international economic event. Paper presented at the 6th China National Social Media Processing Conference (**SMP2017**), Beijing, China, 14 – 17 September, 2017.
-
-3. Zhang, X. (2017) Visualization, technologies, or the public?  A text mining analysis of the articulation of data-driven journalism in the Twittersphere. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017. 
+2. Zhang, X. (2017) Visualization, technologies, or the public?  A text mining analysis of the articulation of data-driven journalism in the Twittersphere. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017. 
 
 4. Zhang, X. & Lin, W.-Y. (2017). Extending the Gamson hypothesis on social media use and elite-challenging political participation: A cross-polity study. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
 
