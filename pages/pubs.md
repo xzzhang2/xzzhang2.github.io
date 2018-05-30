@@ -8,7 +8,7 @@ description: Xinzhi Zhang's publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#publications">1. publications</a></li>
-            <li><a href="#reviews">2. professional contributions/reviews</a></li>
+            <li><a href="#reviews">2. professional contributions</a></li>
             <li><a href="#conferences">3. conferences</a></li>
         </ul>
     </div>
@@ -23,8 +23,7 @@ description: Xinzhi Zhang's publications
 1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement-press dynamics and news diffusion: A typology of activism in digital China. *The China Review*. (**Q1 in SSCI** – Area Studies)
 
 2. **Zhang, X.** & Lin, W.-Y. (2018). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review*, 39(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 in SSCI** - Political Science)       
-
-2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior*. 79, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 in SSCI** - Psychology)   
+3. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior*. 79, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 in SSCI** - Psychology)   
 
 3. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. *International Journal of Communication*, 11, 3704-3720. (**Q2 in SSCI** - Communication)   
 
@@ -44,7 +43,7 @@ description: Xinzhi Zhang's publications
 
 11. Liu, N. & **Zhang, X.** (2014). The influence of group communication, government-citizen interaction, and perceived importance of new media on online political discussion. *Policy & Internet*, 5(4), 444-461. doi: 10.1002/1944-2866.POI348. (Web of Science **ESCI**, **Scopus**)
 
-12. **Zhang, X.** & Lin, W.-Y. (2014). Political participation in an unlikely place: How individuals engage in politics through social networking sites in China. *International Journal of Communication*, 8, 21-42. Link to the Article: http://ijoc.org/index.php/ijoc/article/view/2003/1047. (**Q2 in SSCI** - Communication)
+12. **Zhang, X.** & Lin, W.-Y. (2014). Political participation in an unlikely place: How individuals engage in politics through social networking sites in China. *International Journal of Communication*, 8, 21-42. Full text: http://ijoc.org/index.php/ijoc/article/view/2003/1047. (**Q2 in SSCI** - Communication)
 
 13. Lin, W.-Y., **Zhang, X.**, & Lee, F. L. F. (2013). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. *International Communication Gazette*, 75(8), 715-731. doi: 10.1177/1748048513497160. (**SSCI** - Communication)
 
@@ -57,31 +56,31 @@ description: Xinzhi Zhang's publications
 2. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社]. 
 
 
-### <a name="reviews"></a>2. professional contributions/reviews
+### <a name="reviews"></a>2. professional contributions
 
 *Professional Journal Articles, Book Reviews, Media Contributions* 
 
-1.	Zhu, J. J. H., Huang, Y., & Zhang, X. (2018). Dialogue on computational communication research: Origins, theories, methods, and research questions. *Communication & Society*, 44, 1–24.  [祝建華、黃煜、張昕之（2018）。〈對談計算傳播學：起源、理論、 方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24]. Full text: http://cschinese.com/word/15554202018.pdf 
+1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). Dialogue on computational communication research: Origins, theories, methods, and research questions. *Communication & Society*, 44, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24]. Full text: http://cschinese.com/word/15554202018.pdf 
 
-2.	Zhang, X. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269.  
+2.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269.  
 
-4.	Zhang, X. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期]  
+4.	**Zhang, X**. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期]  
 
-5.	Zhang, X. (2013). Four interpretive frames to make sense of Snowden incident: Government-citizen relation, political expression, international relation, and privacy. Media Digest [Hong Kong: Radio Television Hong Kong], 2013(7), 4-5. Full text: http://rthk.hk/mediadigest/20130715_76_123002.html. [張昕之 (2013)。〈斯諾登事件之四重邏輯：政府-公民關係，政治表達，國際關係，與隱私權利〉。 香港電台《傳媒透視》，2013年第7期，頁4-5] 
+5.	**Zhang, X**. (2013). Four interpretive frames to make sense of Snowden incident: Government-citizen relation, political expression, international relation, and privacy. Media Digest [Hong Kong: Radio Television Hong Kong], 2013(7), 4-5. Full text: http://rthk.hk/mediadigest/20130715_76_123002.html. [張昕之 (2013)。〈斯諾登事件之四重邏輯：政府-公民關係，政治表達，國際關係，與隱私權利〉。 香港電台《傳媒透視》，2013年第7期，頁4-5] 
 
-6.	Zhang, X. (2012). The analyze on the TV appreciation index and cognition ratings of Hong Kong TV Drama: 1998-2009. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(6), 16-17. Full text: http://rthk.hk/mediadigest/20120613_76_122880.html. [張昕之 (2012)。〈從電視欣賞指數歷年數據概述香港電視劇集特徵與收視情況〉。 香港電台《傳媒透視》，2012年第6期，頁16-17]
+6.	**Zhang, X**. (2012). The analyze on the TV appreciation index and cognition ratings of Hong Kong TV Drama: 1998-2009. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(6), 16-17. Full text: http://rthk.hk/mediadigest/20120613_76_122880.html. [張昕之 (2012)。〈從電視欣賞指數歷年數據概述香港電視劇集特徵與收視情況〉。 香港電台《傳媒透視》，2012年第6期，頁16-17]
 
-7.	Zhang, X. (2012). On the banned TV drama When the Heaven Burns in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(1), 6-7. Full text: http://rthk.hk/mediadigest/20120113_76_122823.html. [張昕之 (2012)。〈簡評香港劇集《天與地》在內地禁播事件〉。 香港電台《傳媒透視》，2012年第1期，頁6-7]
+7.	**Zhang, X**. (2012). On the banned TV drama When the Heaven Burns in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(1), 6-7. Full text: http://rthk.hk/mediadigest/20120113_76_122823.html. [張昕之 (2012)。〈簡評香港劇集《天與地》在內地禁播事件〉。 香港電台《傳媒透視》，2012年第1期，頁6-7]
 
-8.	Wang, C., & Zhang, X. (2011). The rising cacophony or dominated opinions? Public discussions about Gaddafi on micro-blog. Media Digest [Hong Kong: Radio Television Hong Kong], 2011(9), 12-13. Full text: http://rthk.hk/mediadigest/20110915_76_122789.html. [王成軍，張昕之 (2011)。〈「眾說紛紜」抑或「一言九鼎」〉。 香港電台《傳媒透視》，2011年第9期，頁12-13] 
+8.	Wang, C., & **Zhang, X**. (2011). The rising cacophony or dominated opinions? Public discussions about Gaddafi on micro-blog. Media Digest [Hong Kong: Radio Television Hong Kong], 2011(9), 12-13. Full text: http://rthk.hk/mediadigest/20110915_76_122789.html. [王成軍，張昕之 (2011)。〈「眾說紛紜」抑或「一言九鼎」〉。 香港電台《傳媒透視》，2011年第9期，頁12-13] 
 
-9.	Zhang, X. (2010). A review on the media’s performance during Manila hostage incident. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(9), 3-4. Full text: http://www.rthk.org.hk/mediadigest/20100914_76_122652.html. [張昕之 (2010)。〈媒體、挾持者、政府 ─ 「8•23」菲律賓人質事件反思〉。 香港電台《傳媒透視》，2010年第9期，頁3-4] Note: After the publication of this contribution, this article was featured and cited extensively in a popular deliberation radio program of Radio-1, Radio Television Hong Kong, the Millennium, on September 21, 2010. 
+9.	**Zhang, X**. (2010). A review on the media’s performance during Manila hostage incident. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(9), 3-4. Full text: http://www.rthk.org.hk/mediadigest/20100914_76_122652.html. [張昕之 (2010)。〈媒體、挾持者、政府 ─ 「8•23」菲律賓人質事件反思〉。 香港電台《傳媒透視》，2010年第9期，頁3-4] Note: After the publication of this contribution, this article was featured and cited extensively in a popular deliberation radio program of Radio-1, Radio Television Hong Kong, the Millennium, on September 21, 2010. 
 
-10.	Zhang, X. (2010). Comparing the content regulations of TV drama between mainland China and Hong Kong: A case of criminal drama. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(4), 4-5. Full text: http://rthk.hk/mediadigest/20100422_76_122599.html. [張昕之 (2010)。〈中港電視劇內容管理管窺：以警匪、犯罪、涉案題材為例〉。 香港電台《傳媒透視》，2010年第4期，頁4-5]
+10.	**Zhang, X**. (2010). Comparing the content regulations of TV drama between mainland China and Hong Kong: A case of criminal drama. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(4), 4-5. Full text: http://rthk.hk/mediadigest/20100422_76_122599.html. [張昕之 (2010)。〈中港電視劇內容管理管窺：以警匪、犯罪、涉案題材為例〉。 香港電台《傳媒透視》，2010年第4期，頁4-5]
 
-11.	Zhang, X. (2009). On the citizen journalism during the “Aug. 8th” Typhoon & Flood Disaster in Taiwan. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(9), 10-11. Full text: http://rthk.hk/mediadigest/20090915_76_122370.html. [張昕之 (2009)。〈風雨同舟．守衛家園—試析台灣公民媒體對「八八水災」的報導〉。 香港電台《傳媒透視》，2009年第9期, 頁10-11] 
+11.	**Zhang, X**. (2009). On the citizen journalism during the “Aug. 8th” Typhoon & Flood Disaster in Taiwan. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(9), 10-11. Full text: http://rthk.hk/mediadigest/20090915_76_122370.html. [張昕之 (2009)。〈風雨同舟．守衛家園—試析台灣公民媒體對「八八水災」的報導〉。 香港電台《傳媒透視》，2009年第9期, 頁10-11] 
 
-12.	Zhang, X. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
+12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
 ### <a name="conferences"></a>3. peer-reviewed international major conference presentations
