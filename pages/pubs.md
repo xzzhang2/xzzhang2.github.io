@@ -22,12 +22,13 @@ description: Xinzhi Zhang's publications
 
 1. Lin, F. & **Zhang, X.** (2018, forthcoming). Movement-press dynamics and news diffusion: A typology of activism in digital China. *The China Review*. (**Q1 in SSCI** – Area Studies)
 
-2. **Zhang, X.** & Lin, W.-Y. (2018). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review*, 39(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 in SSCI** - Political Science)       
+2. **Zhang, X.** & Lin, W.-Y. (2018). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review*, 39(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 in SSCI** - Political Science)
+
 3. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior*. 79, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 in SSCI** - Psychology)   
 
-3. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. *International Journal of Communication*, 11, 3704-3720. (**Q2 in SSCI** - Communication)   
+4. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. *International Journal of Communication*, 11, 3704-3720. (**Q2 in SSCI** - Communication)   
 
-4. **Zhang, X**. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**)   
+5. **Zhang, X**. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**)   
 
 4. **Zhang, X.** (2017). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism*. Online first, doi: 10.1080/21670811.2017.1340094. (Web of Science **ESCI**, **Scopus**)  
 
