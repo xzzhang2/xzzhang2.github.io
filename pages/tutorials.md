@@ -1,20 +1,9 @@
 ---
 layout: page
-title: tutorials and cases
-description: Xinzhi Zhang's tutorials
+title: workshops & tutorials
+description: Xinzhi Zhang's workshops and tutorials
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#textmining">text mining</a></li>
-            <li><a href="#SNA">social network analysis</a></li>
-            <li><a href="#dataviz">data visualization</a></li>
-            <li><a href="#honproj">project preparation</a></li>
-        </ul>
-    </div>
-</div>
+## Workshops and tutorials
 
-*tutorials to be added* 
-
-
+- 2018 Data-driven Journalism Workshop @ CUCN | 中国传媒大学南广学院2018数据新闻工作坊 (Co-lectured by Xinzhi Zhang & Pili Hu, HKBU) [Workshop Main Page](https://github.com/xzzhang2/201806_cucnddj)  
