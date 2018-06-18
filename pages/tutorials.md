@@ -10,4 +10,4 @@ description: Xinzhi Zhang's workshops, talks, and tutorials
 
 - Oct 2017. Public faculty forum: *The Representation of Data-driven Journalism in the Twittersphere.* School of Communication, Hong Kong Baptist University. Friday 13 October, 12:30–2:00pm, Room 1022, CVA Building. [ [A snapshot](https://mailchi.mp/32742cef043f/research-news-for-our-communication-school?e=bdebb12f53) ]
 
-- Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China. [ [Poster](assets/DMS2017Poster_Github.jpg) ]
+- Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China. [ [Poster]({{ BASE_PATH }}/assets/DMS2017Poster_Github.jpg) ]
