@@ -30,7 +30,7 @@ description: Xinzhi Zhang's publications
 
 5. **Zhang, X**. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)   
 
-4. **Zhang, X.** (2017). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism*. Online first, doi: 10.1080/21670811.2017.1340094. (Accepted and edited by Prof. Bob Franklin at Cardiff University. Indexed in Web of Science **ESCI**, **SCOPUS**, Routledge Journals, Taylor & Francis Ltd.)  
+4. **Zhang, X.** (2017). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism*. Online first, doi: 10.1080/21670811.2017.1340094. (Indexed in Web of Science **ESCI**, **SCOPUS**, Routledge Journals, Taylor & Francis Ltd.)  
 
 5. Zhong, Z.-J., & **Zhang, X.** (2017). A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion. *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore)  
 
