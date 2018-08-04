@@ -20,7 +20,7 @@ description: Xinzhi Zhang's publications
 
 #### 1A. Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus)
 
-1. Lin, W.-Y., **Zhang, X.**, * Cao, B. (forthcoming). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) 
+1. Lin, W.-Y., **Zhang, X.**, Cao, B. (forthcoming). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) 
 
 1. Lin, F. & **Zhang, X.** (2018). Movement-press dynamics and news diffusion: A typology of activism in digital China. *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
 
