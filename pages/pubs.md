@@ -20,9 +20,11 @@ description: Xinzhi Zhang's publications
 
 #### 1A. Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus)
 
-1. Lin, W.-Y., **Zhang, X.**, Cao, B. (forthcoming). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) 
+1. Lin, W.-Y., **Zhang, X.**, Cao, B. (forthcoming). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 
-1. Lin, F. & **Zhang, X.** (2018). Movement-press dynamics and news diffusion: A typology of activism in digital China. *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
+2. **Zhang, X.** (2018). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**SSCI** - Communication, Routledge Journals, Taylor & Francis Ltd.)  
+
+3. Lin, F. & **Zhang, X.** (2018). Movement-press dynamics and news diffusion: A typology of activism in digital China. *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
 
 2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2016 JCR IF = 3.435, Elsevier)
 
@@ -31,8 +33,6 @@ description: Xinzhi Zhang's publications
 4. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
 
 5. **Zhang, X**. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)   
-
-4. **Zhang, X.** (2017). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism*. Online first, doi: 10.1080/21670811.2017.1340094. (Indexed in Web of Science **ESCI**, **SCOPUS**, Routledge Journals, Taylor & Francis Ltd.)  
 
 5. Zhong, Z.-J., & **Zhang, X.** (2017). A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion. *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore)  
 
