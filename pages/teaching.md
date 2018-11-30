@@ -16,12 +16,15 @@ description: Xinzhi Zhang's teaching experience
 
 ### <a name="hkbu_course"></a>courses @ HK BaptistU (2016 - present)
 
- - Master of Arts in Communication Graduation Research Project Supervision (Supervisor)
- - COMM7190 Issues and Cases in Mass Communication (postgraduate level, for MA in Communication)
- - COMM7780 Big Data Analytics for Media and Communication (postgraduate level, for MA in Communication, course proposer)
- - JOUR4046 Integrated Data-Driven Storytelling (undergraduate level, for the Data and Media Communication Concentration, Concentration core course, course proposer)
- - JOUR4036 Communication Theory (undergraduate level, major core course for all the Journalism major students)
- - JORM 4204 Journalism and Society (associated degree, for the College of International Education)
+ - COM5507 (at City University of Hong Kong, guest lecturer - with special approval) *Social Media Data Acquisition and Processing with Python* ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) (postgraduate level, core course for the **Media and Data Analytics Stream**)
+ - COMM7840 Algorithmic Culture (postgraduate level, course proposer, for all the postgraduate students at the School of Communication).
+ - COMM7210 Research Project (Supervisor)
+ - COMM7190 Issues and Cases in Mass Communication (postgraduate level, for all the postgraduate students at the School of Communication)
+ - COMM7780 Big Data Analytics for Media and Communication (postgraduate level, course proposer, for all the postgraduate students at the School of Communication)
+ - JOUR4046 Integrated Data-Driven Storytelling (undergraduate level, course proposer, for Data and Media Communication Concentration, Concentration core course)
+ - JOUR4036/JOUR3137 Communication Theory (undergraduate level, major core course for all the Journalism major students)
+ - JORM4204 Journalism and Society (associated degree, for the College of International Education)
+ - COMM2xxx AI and Digital Communication (School course, undergraduate level, course proposer).
 
 ### <a name="polyu_course"></a>courses @ PolyU SPEED (2014 - 2016)
 
