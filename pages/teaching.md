@@ -10,6 +10,7 @@ description: Xinzhi Zhang's teaching experience
             <li><a href="#hkbu_course">courses @ HK BaptistU (2016 - present)</a></li>
             <li><a href="#polyu_course">courses @ PolyU SPEED (2014 - 2016)</a></li>
             <li><a href="#cityu_courese">courses @ CityU (2013 - 2014) </a></li>
+            <li><a href="#thesis">thesis supervision (2014 - present) </a></li>
         </ul>
     </div>
 </div>
@@ -41,3 +42,14 @@ description: Xinzhi Zhang's teaching experience
 
  - COM3109 International Communication (undergraduate level, for BA (Hons) in Media and Communication)
  - COM5502 Multimedia Communication (postgraduate level compulsory subject for the postgraduate program of MA in Communication and New Media)
+
+### <a name="thesis"></a>dissertation & research project supervision (2014 - present, selected topics)
+1. Wang Yuling (Master of Arts, HKBU, 2018). Thesis title: Algorithm-assisted editorial decision-making: A comparison of seven publishing houses in mainland China
+2. Wang Yuejiao (Master of Arts, HKBU, 2018). Thesis title: Telling stories with numbers:  A content analysis of data-driven journalism reports in mainland China
+3. Liu Wanyin (Master of Arts, HKBU, 2018). Thesis title: Framing sexual harassment in the mainstream media: A case of New York Times
+4. Chan Lok Tung (Bachelor of Social Science in Communication, HKBU, 2018). Thesis title: A study of the young Hong Kongers’ tagging (#) behaviors on social media
+5. Koo Chi Hang (Bachelor of Social Science in Communication, HKBU, 2018). Thesis title: One world, different dreams? A discourse analysis of three Hong Kong newspapers on the coverage of Olympic Games in 2008 and 2016
+6. Chan Wing Sze (Bachelor of Social Science in Communication, HKBU, 2018). Thesis title: A discourse analysis of three Hong Kong newspapers on the coverage of CE Elections in 2012 and 2017
+7. Kong Ka Yi (Bachelor of Arts, PolyU SPEED, 2016). Thesis title: Media coverage on refugees crisis: Difference in Western and Eastern Europe newspapers
+8. Lam Ka Sin (Bachelor of Arts, PolyU SPEED, 2016). Thesis title: Comparing the interpretation of the moon between Americans and Hong Kongers
+9. Lau Hon Yin (Bachelor of Arts, PolyU SPEED, 2016). Thesis title: Code-switching as a strategy of embarrassment avoidance:  Evidence from an in-depth interview in Hong Kong
