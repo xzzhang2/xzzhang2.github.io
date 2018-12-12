@@ -17,7 +17,7 @@ description: Xinzhi Zhang's teaching experience
 
 ### <a name="hkbu_course"></a>courses @ HK BaptistU (2016 - present)
 
- - COM5507 (at City University of Hong Kong, as a guest lecturer) *Social Media Data Acquisition and Processing with Python* ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) (postgraduate level, core course for the **Media and Data Analytics Stream**)
+ - COM5507 (at City University of Hong Kong, as the guest lecturer) *Social Media Data Acquisition and Processing with Python* ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) (postgraduate level, core course for the **Media and Data Analytics Stream**)
  - COMM7840 Algorithmic Culture (postgraduate level, course proposer, for all the postgraduate students at the School of Communication).
  - COMM7210 Research Project (postgraduate level)
  - COMM7190 Issues and Cases in Mass Communication (postgraduate level, for all the postgraduate students at the School of Communication)
