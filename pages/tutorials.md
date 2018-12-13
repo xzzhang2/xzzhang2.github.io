@@ -4,7 +4,7 @@ title: workshops, talks, & tutorials
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-- Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University ([Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).  
+- Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University ([Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).   
 
 - Oct 2018. Invited talk: *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
 
