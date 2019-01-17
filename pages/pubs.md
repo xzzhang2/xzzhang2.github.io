@@ -88,7 +88,11 @@ description: Xinzhi Zhang's publications
 
 ### <a name="conferences"></a>3. peer-reviewed international major conference presentations
 
-1. Zhang, X., Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 28 May, 2018.
+1. Zhang, X. (2019). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper accepted by the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24-28 May 2019.
+
+2. Ho, J. C. F. & Zhang, X. (2019). Marketing Virtual Reality Games with Text: A Text Mining Analysis of Game Descriptions on Steam. Paper accepted by the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24-28 May 2019.
+
+2. Zhang, X., Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 28 May, 2018.
 
 2. Zhang, X. (2017) Visualization, technologies, or the public?  A text mining analysis of the articulation of data-driven journalism in the Twittersphere. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
 
