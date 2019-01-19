@@ -8,7 +8,7 @@ keywords: R, Python, statistics, text mining, social network analysis, comparati
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/2_CV_XinzhiZhang_20180925.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_Xinzhi Zhang_201901.pdf">cv</a></li>
           <li><a href="https://scholar.google.com/citations?user=iOFeIDIAAAAJ&hl=en">Google Scholar</a></li>          
           <li><a href="https://twitter.com/xin_zhi_zhang">@xin_zhi_zhang</a></li>
           <li><a href="https://github.com/xzzhang2">GitHub</a></li>

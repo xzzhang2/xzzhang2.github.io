@@ -15,7 +15,7 @@ Currently I am the Programme Director of the Interdisciplinary Concentration on 
 
 ---
 
- - [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/2_CV_XinzhiZhang_20180925.pdf)<br/>
+ - [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Xinzhi Zhang_201901.pdf)<br/>
  - [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en)<br/>
  - [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3)<br/>
  - [Twitter](https://twitter.com/xin_zhi_zhang)<br/>

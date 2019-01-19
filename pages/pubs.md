@@ -61,9 +61,11 @@ description: Xinzhi Zhang's publications
 
 ### <a name="reviews"></a>2. professional contributions
 
-*Professional Journal Articles, Book Reviews, Media Contributions*
+*Professional Journal Articles, Book Reviews, & Selected Media Contributions*
 
 1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). Dialogue on computational communication research: Origins, theories, methods, and research questions. *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24]. Full text: http://cschinese.com/word/15554202018.pdf 
+
+2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 
 2.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
