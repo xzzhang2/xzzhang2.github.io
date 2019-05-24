@@ -18,7 +18,7 @@ description: Xinzhi Zhang's publications
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. Peer-reviewed academic publications
+#### 1A. peer-reviewed academic publications
 
 1. **Zhang, X.** (forthcoming). Effects of freedom restoration, language variety, and issue type on psychological reactance. *Health Communication.* (**Q2 in SSCI** - Communication, 2016 JCR IF = 1.487, Routledge Journals, Taylor & Francis Ltd).
 
@@ -54,14 +54,14 @@ description: Xinzhi Zhang's publications
 
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). From the wired to wireless generation: Investigating teens’ internet use through the mobile phone. *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
-#### 1B. Peer-reviewed publications in Chinese
+#### 1B. peer-reviewed publications in Chinese
 
 1. Lin, W.-Y., & **Zhang, X.** (2012). Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong. *Mass Communication Research, 2012*(7), 233-270. Full text: http://mcr.nccu.edu.tw/word/1314522013.pdf. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
 2. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
-### <a name="reviews"></a>2. Professional contributions
+### <a name="reviews"></a>2. professional contributions
 
 *Professional Journal Articles, Book Reviews, & Selected Media Contributions*
 
@@ -90,7 +90,7 @@ description: Xinzhi Zhang's publications
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-### <a name="conferences"></a>3. Peer-reviewed international major conference presentations
+### <a name="conferences"></a>3. peer-reviewed international major conference presentations
 
 1. Zhang, X. (2019). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper accepted by the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
