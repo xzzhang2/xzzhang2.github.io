@@ -18,7 +18,9 @@ description: Xinzhi Zhang's publications
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. Peer-reviewed academic publications (SSCI/SCI/Web of Science ESCI/EI/Scopus)
+#### 1A. Peer-reviewed academic publications
+
+1. **Zhang, X.** (forthcoming). Effects of freedom restoration, language variety, and issue type on psychological reactance. *Health Communication.* (**Q2 in SSCI** - Communication, 2016 JCR IF = 1.487, Routledge Journals, Taylor & Francis Ltd).
 
 1. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* Online first: https://doi.org/10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -59,7 +61,7 @@ description: Xinzhi Zhang's publications
 2. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
-### <a name="reviews"></a>2. professional contributions
+### <a name="reviews"></a>2. Professional contributions
 
 *Professional Journal Articles, Book Reviews, & Selected Media Contributions*
 
@@ -88,7 +90,7 @@ description: Xinzhi Zhang's publications
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-### <a name="conferences"></a>3. peer-reviewed international major conference presentations
+### <a name="conferences"></a>3. Peer-reviewed international major conference presentations
 
 1. Zhang, X. (2019). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper accepted by the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
