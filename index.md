@@ -25,10 +25,10 @@ I am a Research Assistant Professor at the [Department of Journalism](http://www
 I obtained both Ph.D. in Media and Communication (2013) and M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk).
 
 As a social scientist by training, I am now fully devoted into the research and teaching on computational social science and digital humanities. My four research niches are:
-    - 1. comparative political communication, new media and social change;
-    - 2. the representation of pubic knowledge on social media, with big data analytics and digital traces;
-    - 3. the sociology of news in the digital age, focusing on the production and effects of multimedia- multiplatform digital journalism, and
-    - 4. digital humanities and popular culture.
+    1. comparative political communication, media and social change;
+    2. the representation of pubic knowledge on social media, with big data analytics and digital traces;
+    3. the sociology of news in the digital age, the production and effects of multimedia- multiplatform digital journalism, and
+    4. digital humanities and popular culture.
 
 I have published 16 peer-reviewed research articles, all since 2014, on top-tier SSCI journals such as *Computers in Human Behavior*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, *Telecommunications Policy*, and *Policy & Internet*.
 
