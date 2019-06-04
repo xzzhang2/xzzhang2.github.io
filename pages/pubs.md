@@ -20,7 +20,7 @@ description: Xinzhi Zhang's publications
 
 #### 1A. peer-reviewed academic publications
 
-1. **Zhang, X.** (forthcoming). Effects of freedom restoration, language variety, and issue type on psychological reactance. *Health Communication.* (**Q2 in SSCI** - Communication, 2016 JCR IF = 1.487, Routledge Journals, Taylor & Francis Ltd).
+1. **Zhang, X.** (forthcoming). Effects of freedom restoration, language variety, and issue type on psychological reactance. *Health Communication.* (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
 
 1. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* Online first: https://doi.org/10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -28,7 +28,7 @@ description: Xinzhi Zhang's publications
 
 3. Lin, F. & **Zhang, X.** (2018). Movement-press dynamics and news diffusion: A typology of activism in digital China. *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
 
-2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2016 JCR IF = 3.435, Elsevier)
+2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier)
 
 3. **Zhang, X.** & Lin, W.-Y. (2018). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review, 39*(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 (top 33%) in SSCI** – Political Science, 2016 JCR IF = 1.588, Sage Publications Ltd., the flagship journal of the International Political Science Association (IPSA))
 
