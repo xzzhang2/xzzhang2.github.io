@@ -24,22 +24,21 @@ I am a Research Assistant Professor at the [Department of Journalism](http://www
 
 I obtained both Ph.D. in Media and Communication (2013) and M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk).
 
-As a social scientist by training, I am now devoted into the research and teaching on computational social science and digital humanities. My major research areas include:
+As a social scientist by training, I am now devoted to the research and teaching on computational social science and digital humanities. My major research streams are:
 
-    1. comparative political communication, media and social change;
-    2. the representation of pubic knowledge on social media, with big data analytics and digital traces;
-    3. the sociology of news in the digital age, the production and effects of multimedia- multiplatform digital journalism, and
-    4. digital humanities and digital popular culture.
+  1. comparative political communication, focusing on media and social change, political engagement, expression and resistance;
+  2. the sociology of journalism in the digital age, with computational methods (social network analysis, text mining, and machine learning);
+  3. health communication, focusing on how cultural and political factors, and medium and message features affect the effectiveness of health promotional messages in a multimedia communication environment, and
+  4. digital popular culture, particularly the reflection of gender and power in entertainment programmes.
 
-I have published 16 peer-reviewed research articles, all since 2014, on top-tier SSCI journals such as *Computers in Human Behavior*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, *Telecommunications Policy*, and *Policy & Internet*.
+I have published 17 peer-reviewed research articles, all since 2013, on top-tier journals such as *Computers in Human Behavior*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, *Telecommunications Policy*, *Policy & Internet*, among others.
 
-I have taught several interdisciplinary courses on digital media, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Multimedia Communication*, *Languages, Cultures, and Communications*, and *Social Media Data Acquisition and Processing with Python.* I have organized several workshops and seminars on Python programming, data visualization, and data journalism production.
+I teach interdisciplinary courses on digital media, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Multimedia Communication*, and *Social Media Data Acquisition and Processing with Python.* I have organized several workshops and seminars on Python programming, data visualization, and data journalism production.
 
-Currently I am the founding Director of [Master of Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm), offered by the School of Communication and supported by the Department of Computer Science, which is the first postgraduate programme of its kind in Hong Kong. I have also served as one of the founding members and later the Director of [Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk), an interdisciplinary concentration jointly offered by the Department of Computer Science and the Department of Journalism from 2017 - 2019.
+I am the founding Director of [Master of Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm), offered by the School of Communication and supported by the Department of Computer Science, which is the first postgraduate programme of its kind in Hong Kong. I have also served as one of the founding members—and later the Director—of [Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk) from 2017 - 2019, which is an interdisciplinary undergraduate concentration on computational journalism and data-driven storytelling, jointly offered by the Department of Computer Science and the Department of Journalism.
 
 Before joining the Baptist U in 2016, I was a Lecturer and the Co-Convener of the Academic Discipline of Humanities at the [School of Professional Education and Executive Development at the Hong Kong Polytechnic University](https://www.speed-polyu.edu.hk) (2014-16).
 
-I am a keen lover of classic music, films, and stage drama. I play piano and jazz drum.
 
 ---
 
