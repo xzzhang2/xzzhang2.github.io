@@ -26,7 +26,7 @@ I obtained both Ph.D. in Media and Communication (2013) and M.A. *with Distincti
 
 As a social scientist by training, I am now devoted to the research and teaching on computational social science and digital humanities. My major research streams are:
 
-  1. comparative political communication—focusing on media and social change, political engagement, expression and resistance—from a cross-polity and cross-discipline perspective;
+  1. comparative political communication—media and social change, political engagement, expression and resistance—from a cross-polity and cross-disciplinary perspective;
   2. the sociology of journalism in the digital age, with computational methods (social network analysis, text mining, and machine learning);
   3. health communication, focusing on how cultural and political factors, and medium and message features affect the effectiveness of health promotional messages in a multimedia communication environment, and
   4. digital popular culture, particularly the reflection of gender and power in entertainment programmes.
