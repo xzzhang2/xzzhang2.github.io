@@ -18,7 +18,7 @@ keywords: R, Python, statistics, text mining, social network analysis, comparati
 
 ---
 
-Welcome! I am Xinzhi Zhang. This is my personal webpage.
+Welcome! I am Xinzhi Zhang. This is my personal webpage. 
 
 I am a Research Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk).
 
