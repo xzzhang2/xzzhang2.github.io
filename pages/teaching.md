@@ -53,13 +53,13 @@ I have taught and proposed several interdisciplinary courses on digital media st
 
 |Name | Programme & level | Project title |   
 |--- | --- | --- | 
-| Tsang Poying | Broadcasting Journalism Concentration, BCommunication, HKBU, 2019 | Effects of message contents and presentation styles on people’s evaluation of online video news: An experimental study in Hong Kong | 
+| Tsang Poying | Broadcasting Journalism Concentration, HKBU, 2019 | Effects of message contents and presentation styles on people’s evaluation of online video news: An experimental study in Hong Kong | 
 | Wang Yuling | MA in Communication, HKBU, 2018 | Algorithm-assisted editorial decision-making: A comparison of seven publishing houses in mainland China | 
 | Wang Yuejiao | MA in Communication, HKBU, 2018 | Telling stories with numbers: A content analysis of data-driven journalism reports in mainland China | 
 | Liu Wanyin | MA in Communication, HKBU, 2018 | Framing sexual harassment in the mainstream media: A case of New York Times | 
-| Chan Lok Tung | Chinese Journalism Concentration, BSSc in Communication, HKBU, 2018 | A study of the young Hong Kongers’ tagging (#) behaviors on social media | 
-| Koo Chi Hang | Chinese Journalism Concentration, BSSc in Communication, HKBU, 2018 |  One world, different dreams? A discourse analysis of three Hong Kong newspapers on the coverage of Olympic Games in 2008 and 2016 | 
-| Chan Wing Sze | Chinese Journalism Concentration, BSSc in Communication, HKBU, 2017 | A discourse analysis of three Hong Kong newspapers on the coverage of CE Elections in 2012 and 2017 | 
+| Chan Lok Tung | Chinese Journalism Concentration, HKBU, 2018 | A study of the young Hong Kongers’ tagging (#) behaviors on social media | 
+| Koo Chi Hang | Chinese Journalism Concentration, HKBU, 2018 |  One world, different dreams? A discourse analysis of three Hong Kong newspapers on the coverage of Olympic Games in 2008 and 2016 | 
+| Chan Wing Sze | Chinese Journalism Concentration, HKBU, 2017 | A discourse analysis of three Hong Kong newspapers on the coverage of CE Elections in 2012 and 2017 | 
 | Kong Ka Yi | BA in Professional Communication, PolyU SPEED, 2016 | Media coverage on refugees crisis: Difference in Western and Eastern Europe newspapers | 
 | Lam Ka Sin | BA in Professional Communication, PolyU SPEED, 2016 | Comparing the interpretation of the moon between Americans and Hong Kongers | 
 | Lau Hon Yin | BA in Professional Communication, PolyU SPEED, 2016 | Code-switching as a strategy of embarrassment avoidance:  Evidence from an in-depth interview in Hong Kong | 
