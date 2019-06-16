@@ -32,7 +32,8 @@ favicon:
   theme: ffffff
 
 # Build settings
-markdown: redcarpet
+# markdown: redcarpet
+markdown: kramdown 
 redcarpet:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
 gems:
