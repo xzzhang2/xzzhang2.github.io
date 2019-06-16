@@ -6,12 +6,14 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 
 <ul>
-    <li><a href="#researchprojs">1. research grants</a></li>
-    <li><a href="#othergrants">2. study & travel grants</a></li>
+    <li><a href="#researchprojs">1. funded research projects</a></li>
+    <li><a href="#collaboration">2. research collaborators</a></li>
+	<li><a href="#ra">3. research supervision </a></li>
+    <li><a href="#othergrants">4. study & travel grants</a></li>
 </ul>
 
 
-### <a name="researchprojs"></a>1. research grants
+### <a name="researchprojs"></a>1. funded research projects
 
  1. May 2018. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). (44,100 HKD). Completed.
 
@@ -22,7 +24,35 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  4. Jan 2012. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). (15,000 HKD). Completed.  
 
 
-### <a name="othergrants"></a>2. study & travel grants
+### <a name="collaboration"></a>2. recnet research collaborators
+
+1. (2019) Dr. Jeffrey C. F. Ho. School of Design, Hong Kong Polytechnic University (*A text mining analysis of large-scale text on game promotion*) 
+
+2. (2018) Dr. Lun Zhang, School of Communication and Arts, Beijing Normal University, China (*Mapping the animation consumption pattern in mainland China*)
+
+3. (2017) Prof. Zhi-Jin Zhong, School of Communication and Design, Sun-Yet-Sen University, CHina (*The impacts of news use on enviornmentalism*) 
+
+4. (2017) Dr. Li Cui, School of Journalism and Communication, Southeastern University, China (*The effects of reality shows programmes in mainland China*)
+
+
+### <a name="ra"></a>3. researh supervision (2016 - present)
+
+1. Research students
+ - Wenshu Li (Ph.D., 2018 - )
+
+2. Research/project assistants
+ - Can He (2018 - 2019)
+ - Chen Xu (2018 - 2019)
+ - Jiaxuan Jiang (2019)
+ - Yucan Xu (2019)
+ - Qile Wang (2018 - 2019)
+ - Jiehu Yuan (2018 - 2019)
+ - Mengyi Zhang (2017 - 2018)
+ - Wanting Xu (2017 - 2018)
+ - Ge Song (2016 - 2017)
+
+
+### <a name="othergrants"></a>4. study & travel grants
 
 
 - External competitive grant 
@@ -33,13 +63,13 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 - Internal development grant 
 
- 1. May 2019. Staff Development Grant, School of Communication, Hong Kong Baptist University. [24,000 HKD]
+ 1. May 2019. Staff Development Grant, School of Communication, Hong Kong Baptist University, for the 2019 Annual Conference of the International Communication Association (**ICA**), DC, the US. [24,000 HKD]
 
- 2. Mar 2018. Staff Development Grant, School of Communication, Hong Kong Baptist University. [19,200 HKD]
+ 2. Mar 2018. Staff Development Grant, School of Communication, Hong Kong Baptist University, for the 2018 Annual Conference of the International Communication Association (**ICA**), Prague, Czech. [19,200 HKD]
  
- 3. Feb 2017. Staff Development Grant, School of Communication, Hong Kong Baptist University. [15,000 HKD]
+ 3. Feb 2017. Staff Development Grant, School of Communication, Hong Kong Baptist University, for the 2017 Annual Conference of the International Communication Association (**ICA**), San Diego, the US. [15,000 HKD]
 
- 4. Mar 2016. Staff Development Activities Grant, College of Professional and Continuing Education, The Hong Kong Polytechnic University. [10,000 HKD]
+ 4. Mar 2016. Staff Development Activities Grant, College of Professional and Continuing Education, The Hong Kong Polytechnic University, for the 2016 Annual Conference of the International Communication Association (**ICA**), Fukuoka, Japan. [10,000 HKD]
 
  5. Jun 2013. Conference Travel Grant, Department of Media and Communication, City University of Hong Kong, for the 2013 Annual Conference of the International Communication Association (**ICA**), London, England [12,000 HKD].
 

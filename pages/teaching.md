@@ -4,9 +4,7 @@ title: teaching
 description: Xinzhi Zhang's teaching record
 ---
 
-I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Social Media Data Acquisition and Processing with Python*, and *Integrated Data-Driven Storytelling*. 
-
-I also supervise postgraduate and undergraduate resesrch dissertations. 
+I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Social Media Data Acquisition and Processing with Python*, and *Integrated Data-Driven Storytelling*. I also supervise postgraduate and undergraduate resesrch dissertations. 
 
 --- 
 
@@ -15,7 +13,6 @@ I also supervise postgraduate and undergraduate resesrch dissertations.
     <li><a href="#polyu_course">@ PolyU SPEED (2014 - 2016)</a></li>
     <li><a href="#cityu_courese">@ CityU (2013 - 2014) </a></li>
     <li><a href="#thesis">dissertation supervision (2014 - present) </a></li>
-	<li><a href="#ra">research supervision (2016 - present) </a></li>
 </ul>
 
 
@@ -67,15 +64,5 @@ I also supervise postgraduate and undergraduate resesrch dissertations.
 | Lam Ka Sin | BA in Professional Communication, PolyU SPEED, 2016 | Comparing the interpretation of the moon between Americans and Hong Kongers | 
 | Lau Hon Yin | BA in Professional Communication, PolyU SPEED, 2016 | Code-switching as a strategy of embarrassment avoidance:  Evidence from an in-depth interview in Hong Kong | 
 
-
-### <a name="ra"></a>researh assistant supervision (2016 - present)
- - Can He
- - Chen Xu
- - Jiaxuan Jiang
- - Yucan Xu
- - Qile Wang
- - Mengyi Zhang
- - Wanting Xu
- - Ge Song 
 
 
