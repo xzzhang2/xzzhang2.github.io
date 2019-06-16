@@ -4,6 +4,15 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
+As a social scientist by training, I am now devoted to the research and teaching on computational social science and digital humanities. My four major research streams are:
+
+  1. **comparative political communication** from a cross-polity and cross-disciplinary perspective;
+  2. **the sociology of news** in the digital age, using computational methods (social network analysis, text mining, and machine learning); 
+  3. **health communication**, focusing on how cultural and political factors, as well as medium and message features affect the effectiveness of health promotional messages in a multimedia communication environment, and
+  4. **digital popular culture**, focusing on the reflection of gender and power in entertainment programmes.
+
+ Below please find my publication list in three categories.  
+
 <ul>
     <li><a href="#publications">1. publications</a></li>
     <li><a href="#reviews">2. professional contributions</a></li>
@@ -17,43 +26,43 @@ description: Xinzhi Zhang's publications
 
 #### 1A. peer-reviewed academic publications
 
-1. **Zhang, X.** (forthcoming). Effects of freedom restoration, language variety, and issue type on psychological reactance. *Health Communication.* (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
+1. **Zhang, X.** (in press). Effects of freedom restoration, language variety, and issue type on psychological reactance. *Health Communication.* (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
 
-1. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy. *International Journal of Sexual Health.* Online first: https://doi.org/10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
+1. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health.* 30(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 
-2. **Zhang, X.** (2018). Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere. *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**SSCI** - Communication, Routledge Journals, Taylor & Francis Ltd.)  
+2. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**SSCI** - Communication, Routledge Journals, Taylor & Francis Ltd.)  
 
-3. Lin, F. & **Zhang, X.** (2018). Movement-press dynamics and news diffusion: A typology of activism in digital China. *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
+3. Lin, F. & **Zhang, X.** (2018). [Movement-press dynamics and news diffusion: A typology of activism in digital China](https://www.jstor.org/stable/26435647). *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
 
-2. **Zhang, X.** & Lin, W.-Y. (2018). Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement. *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier)
+2. **Zhang, X.** & Lin, W.-Y. (2018). [Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement](https://doi.org/10.1016/j.chb.2017.10.036). *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier)
 
-3. **Zhang, X.** & Lin, W.-Y. (2018). Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions. *International Political Science Review, 39*(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 (top 33%) in SSCI** – Political Science, 2016 JCR IF = 1.588, Sage Publications Ltd., the flagship journal of the International Political Science Association (IPSA))
+3. **Zhang, X.** & Lin, W.-Y. (2018). [Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions](https://doi.org/10.1177%2F0192512116641842). *International Political Science Review, 39*(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 (top 33%) in SSCI** – Political Science, 2016 JCR IF = 1.588, Sage Publications Ltd., the flagship journal of the International Political Science Association (IPSA))
 
-4. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
+4. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). [To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong](https://ijoc.org/index.php/ijoc/article/view/6723). *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
 
-5. **Zhang, X**. (2017) Exploring the country co-occurrence network in the Twittersphere at an international economic event. In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)   
+5. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)   
 
-5. Zhong, Z.-J., & **Zhang, X.** (2017). A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion. *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore)  
+5. Zhong, Z.-J., & **Zhang, X.** (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore)  
 
-6. Cui, L., & **Zhang, X.** (2017). What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
+6. Cui, L., & **Zhang, X.** (2017). [What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015)](https://doi.org/10.1080/15295036.2017.1319070). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
 
-8. Lin, W.-Y., **Zhang, X.**, Song, H.-Y., & Omori, K.  (2016). Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure. *Computers in Human Behavior, 56*, 289–294. doi: 10.1016/j.chb.2015.11.055. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2016 JCR IF = 3.435, Elsevier)
+8. Lin, W.-Y., **Zhang, X.**, Song, H.-Y., & Omori, K.  (2016). [Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure](https://www.sciencedirect.com/science/article/pii/S0747563215302697). *Computers in Human Behavior, 56*, 289–294. doi: 10.1016/j.chb.2015.11.055. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2016 JCR IF = 3.435, Elsevier)
 
-9. **Zhang, X.** (2015). Voting with dollars: A cross-polity and multilevel analysis of political consumerism. *International Journal of Consumer Studies, 39*(5), 422-436. doi: 10.1111/ijcs.12181. (**SSCI** – Business, 2015 JCR IF = 1.086, John Wiley & Sons, Inc.)
+9. **Zhang, X.** (2015). [Voting with dollars: A cross-polity and multilevel analysis of political consumerism](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcs.12181). *International Journal of Consumer Studies, 39*(5), 422-436. doi: 10.1111/ijcs.12181. (**SSCI** – Business, 2015 JCR IF = 1.086, John Wiley & Sons, Inc.)
 
-10. Lin, F., Chang, T.-K., & **Zhang, X.** (2014). After the spillover effect: News flows and power relations in Chinese mainstream media. *Asian Journal of Communication, 25*(3), 235-254. doi: 10.1080/01292986.2014.955859. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
+10. Lin, F., Chang, T.-K., & **Zhang, X.** (2014). [After the spillover effect: News flows and power relations in Chinese mainstream media](https://www.tandfonline.com/doi/full/10.1080/01292986.2014.955859). *Asian Journal of Communication, 25*(3), 235-254. doi: 10.1080/01292986.2014.955859. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
 
-11. Liu, N. & **Zhang, X.** (2014). The influence of group communication, government-citizen interaction, and perceived importance of new media on online political discussion. *Policy & Internet, 5*(4), 444-461. doi: 10.1002/1944-2866.POI348. (Web of Science **ESCI**, **SCOPUS**, John Wiley & Sons, Inc.)
+11. Liu, N. & **Zhang, X.** (2014). [The influence of group communication, government-citizen interaction, and perceived importance of new media on online political discussion](https://onlinelibrary.wiley.com/doi/abs/10.1002/1944-2866.POI348). *Policy & Internet, 5*(4), 444-461. doi: 10.1002/1944-2866.POI348. (Web of Science **ESCI**, **SCOPUS**, John Wiley & Sons, Inc.)
 
-12. **Zhang, X.** & Lin, W.-Y. (2014). Political participation in an unlikely place: How individuals engage in politics through social networking sites in China. *International Journal of Communication, 8*, 21-42. Full text: http://ijoc.org/index.php/ijoc/article/view/2003/1047. (**Q2 in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)
+12. **Zhang, X.** & Lin, W.-Y. (2014). [Political participation in an unlikely place: How individuals engage in politics through social networking sites in China](https://ijoc.org/index.php/ijoc/article/view/2003). *International Journal of Communication, 8*, 21-42. Full text: http://ijoc.org/index.php/ijoc/article/view/2003/1047. (**Q2 in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)
 
-13. Lin, W.-Y., **Zhang, X.**, & Lee, F. L. F. (2013). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. *International Communication Gazette, 75*(8), 715-731. doi: 10.1177/1748048513497160. (**SSCI** – Communication, Sage Publications Ltd.)
+13. Lin, W.-Y., **Zhang, X.**, & Lee, F. L. F. (2013). [Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong](https://journals.sagepub.com/doi/full/10.1177/1748048513497160). *International Communication Gazette, 75*(8), 715-731. doi: 10.1177/1748048513497160. (**SSCI** – Communication, Sage Publications Ltd.)
 
-14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). From the wired to wireless generation: Investigating teens’ internet use through the mobile phone. *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
+14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
 #### 1B. peer-reviewed publications in Chinese
 
-1. Lin, W.-Y., & **Zhang, X.** (2012). Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong. *Mass Communication Research, 2012*(7), 233-270. Full text: http://mcr.nccu.edu.tw/word/1314522013.pdf. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
+1. Lin, W.-Y., & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
 2. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
@@ -62,7 +71,7 @@ description: Xinzhi Zhang's publications
 
 *Professional Journal Articles, Book Reviews, & Selected Media Contributions*
 
-1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). Dialogue on computational communication research: Origins, theories, methods, and research questions. *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24]. Full text: http://cschinese.com/word/15554202018.pdf 
+1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf ). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
 2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 
@@ -89,9 +98,9 @@ description: Xinzhi Zhang's publications
 
 ### <a name="conferences"></a>3. peer-reviewed international major conference presentations
 
-1. Zhang, X. (2019). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper accepted by the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
+1. Zhang, X. (2019). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
-2. Ho, J. C. F. & Zhang, X. (2019). Marketing virtual reality games with text: A text mining analysis of game descriptions on *Steam*. Paper accepted by the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
+2. Ho, J. C. F. & Zhang, X. (2019). Marketing virtual reality games with text: A text mining analysis of game descriptions on *Steam*. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
 2. Zhang, X., Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 28 May, 2018.
 
