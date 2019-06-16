@@ -6,7 +6,7 @@ seo:
   title: Xinzhi Zhang
 ---
 
-Welcome. I am a Research Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk). 
+Welcome. I am currently a Research Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk). 
 
 As a social scientist by training, my research focuses on computational communication studies and digital humanities. My major research themes include (1) comparative political communication; (2) the sociology of digital journalism; (3) media and public health; and (4) digital popular culture. 
 

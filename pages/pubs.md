@@ -4,7 +4,7 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
-As a social scientist by training, I am now devoted to the research and teaching on computational social science and digital humanities. My four major research streams are:
+As a social scientist by training, I am now devoted to the research on computational communication studies, digital journalism, and digital humanities. My four major research streams are:
 
   1. **comparative political communication** from a cross-polity and cross-disciplinary perspective;
   2. **the sociology of news** in the digital age, using computational methods (social network analysis, text mining, and machine learning); 

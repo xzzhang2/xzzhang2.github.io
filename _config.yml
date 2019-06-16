@@ -13,13 +13,13 @@ langs: ["en"]
 author: Xinzhi Zhang
 email: xzzhang2@gmail.com
 curriculum:
-  name: Curriculum Vitae.
-  url: assets/cv.pdf
+  name: Curriculum Vitae 
+  url: assets/CV_Xinzhi Zhang_201905.pdf
 shortbio: Xinzhi Zhang is a researher on digital politics and computational communication research.
 twitter_username: xin_zhi_zhang
 github_username: xzzhang2
 linkedin_username: xinzhi-zhang-0621a77b
-author_website: www.drxinzhizhang.com
+#author_website:
 
 
 # Nav menu
