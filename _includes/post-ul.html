@@ -1,0 +1,19 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "none" %}
+{% assign nblang = site.langs | size %}
+{% if include.limit %}
+  {% assign limit = site.nb_posts_page %}
+{% else %}
+  {% assign limit = 1000000 %}
+{% endif %}
+
+<ul class="post-list">
+  {% if plang != "none" and nblang > 1 %}
+    {% assign posts = site.posts | where:"lang",plang %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {% for post in posts limit:limit %}
+    {% include post-li.html %}
+  {% endfor %}
+</ul>

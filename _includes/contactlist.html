@@ -1,0 +1,25 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+<span class="contact-list-title">
+  {{ site.data.academic_i18n.links[plang] }}
+</span>
+<ul class="contact-list {{ include.class }}">
+
+  {% if site.github_username %}
+  <li>
+    {% include _icons/github.html username=site.github_username %}
+  </li>
+  {% endif %}
+
+  {% if site.twitter_username %}
+  <li>
+    {% include _icons/twitter.html username=site.twitter_username %}
+  </li>
+  {% endif %}
+
+  {% if site.linkedin_username %}
+  <li>
+    {% include _icons/linkedin.html username=site.linkedin_username %}
+  </li>
+  {% endif %}
+
+</ul>

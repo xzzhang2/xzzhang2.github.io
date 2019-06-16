@@ -1,5 +1,7 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/twitter/page.html %}
+
+<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+
+{{ content }}

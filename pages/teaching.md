@@ -1,19 +1,18 @@
 ---
 layout: page
 title: teaching
-description: Xinzhi Zhang's teaching experience
+description: Xinzhi Zhang's teaching record
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#hkbu_course">courses @ HK BaptistU (2016 - present)</a></li>
-            <li><a href="#polyu_course">courses @ PolyU SPEED (2014 - 2016)</a></li>
-            <li><a href="#cityu_courese">courses @ CityU (2013 - 2014) </a></li>
-            <li><a href="#thesis">thesis supervision (2014 - present) </a></li>
-        </ul>
-    </div>
-</div>
+
+<ul class="nav">
+    <li><a href="#hkbu_course">@ HK BaptistU (2016 - present)</a></li>
+    <li><a href="#polyu_course">@ PolyU SPEED (2014 - 2016)</a></li>
+    <li><a href="#cityu_courese">@ CityU (2013 - 2014) </a></li>
+    <li><a href="#thesis">thesis supervision (2014 - present) </a></li>
+	<li><a href="#ra">research supervision (2016 - present) </a></li>
+</ul>
+
 
 ### <a name="hkbu_course"></a>courses @ HK BaptistU (2016 - present)
 
@@ -52,3 +51,16 @@ description: Xinzhi Zhang's teaching experience
 7. Kong Ka Yi (BA in Professional Communication, PolyU SPEED, 2016). Thesis title: Media coverage on refugees crisis: Difference in Western and Eastern Europe newspapers
 8. Lam Ka Sin (BA in Professional Communication, PolyU SPEED, 2016). Thesis title: Comparing the interpretation of the moon between Americans and Hong Kongers
 9. Lau Hon Yin (BA in Professional Communication, PolyU SPEED, 2016). Thesis title: Code-switching as a strategy of embarrassment avoidance:  Evidence from an in-depth interview in Hong Kong
+
+
+### <a name="ra"></a>researh supervision (2016 - present)
+ - Can He
+ - Chen Xu
+ - Jiaxuan Jiang
+ - Yucan Xu
+ - Qile Wang
+ - Mengyi Zhang
+ - Wanting Xu
+ - Ge Song 
+
+

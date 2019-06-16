@@ -1,6 +1,6 @@
 ---
 layout: page
-title: workshops, talks, & tutorials
+title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 

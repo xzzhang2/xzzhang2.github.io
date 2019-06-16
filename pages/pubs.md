@@ -4,15 +4,12 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#publications">1. publications</a></li>
-            <li><a href="#reviews">2. professional contributions</a></li>
-            <li><a href="#conferences">3. conferences</a></li>
-        </ul>
-    </div>
-</div>
+<ul>
+    <li><a href="#publications">1. publications</a></li>
+    <li><a href="#reviews">2. professional contributions</a></li>
+    <li><a href="#conferences">3. conferences</a></li>
+</ul>
+
 
 ---
 
