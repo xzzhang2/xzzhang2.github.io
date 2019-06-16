@@ -6,6 +6,7 @@ description: Xinzhi Zhang's workshops, talks, and tutorials
 
 I have lectured and organized several workshops and senimars on the application of programming and data analytics in digital media. 
 
+---
 
 - Apr 2019. *Python for data visualization* A Python workshop organized by Hong Kong Baptist University Library, 10 Apr 2019, 14:30 - 16:30. Collaborative Data Lab, HKBU Library ([Workshop Repo](https://github.com/xzzhang2/201904_HKBULib_Py)).
 
