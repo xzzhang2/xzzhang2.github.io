@@ -4,7 +4,7 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
-My research focuses on comparative political communication, digital journalism, media and public healh, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My four major research streams are:
+My research focuses on comparative political communication, digital journalism, media and public health, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My four major research streams are:
 
   1. **comparative political communication** with a cross-polity and cross-disciplinary perspective; 
   2. **the sociology of news** in the digital age, focusing on the production and effects of digital news when disruptive technologies such as big data and AI algorithms are introduced in the newsrooms; 

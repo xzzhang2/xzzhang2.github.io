@@ -4,7 +4,7 @@ title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-I have lectured and organized several workshops and senimars on the application of programming and data analytics in digital media. 
+I have lectured and organized several events, workshops, and senimars on the application of programming and data analytics in digital media. 
 
 ---
 

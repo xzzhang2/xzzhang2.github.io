@@ -12,7 +12,7 @@ As a social scientist by training, my research focuses on computational communic
 
 I have published 17 peer-reviewed research articles on top-tier journals such as *Computers in Human Behavior*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, among others.
 	
-I am the founding Programme Director of [Master of Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm), which is the first postgraduate programme of its kind in Hong Kong. I was one of the founding members—and later the Programme Director—of [Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk) (2017 - 19), an interdisciplinary undergraduate concentration on data-driven storytelling and computational journalism. 
+I am appointed as the founding Programme Director of [Master of Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm), which is the first postgraduate programme of its kind in Hong Kong. I was one of the founding members—and later being appointed as the Programme Director—of [Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk) (2017 - 19), an interdisciplinary undergraduate concentration on data-driven storytelling and computational investigative reporting. 
 
 I obtained Ph.D. in Media and Communication (2013) and M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk).
 
