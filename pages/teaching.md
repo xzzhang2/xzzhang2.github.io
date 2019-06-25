@@ -4,7 +4,7 @@ title: teaching
 description: Xinzhi Zhang's teaching record
 ---
 
-I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Social Media Data Acquisition and Processing with Python*, and *Integrated Data-Driven Storytelling*. I also supervise postgraduate and undergraduate resesrch dissertations. 
+I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Social Media Data Acquisition and Processing with Python*, and *Integrated Data-Driven Storytelling*. I also supervise postgraduate and undergraduate research projects and dissertations. 
 
 --- 
 
@@ -24,7 +24,7 @@ I have taught and proposed several interdisciplinary courses on digital media st
 |2019 Spring | COMM7190 Issues and Cases in Mass Communication | Postgraduate (elective) |
 |2018 Fall | COM5507 (guest at City University of Hong Kong) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate (core course for the **Media and Data Analytics Stream**) | 
 |2018 Spring | COMM7210 Research Project | Postgraduate (elective) | 
-|2017-2018 | JOUR4036/JOUR3137 Communication Theory | Undergraduate (journailsm major core) | 
+|2017-2018 | JOUR4036/JOUR3137 Communication Theory | Undergraduate (journalism major core) | 
 |Proposed | COMM7840 Algorithmic Culture | Postgraduate (elective) | 
 |Proposed | COMM7780 Big Data Analytics for Media and Communication | Postgraduate (elective) |
 |Proposed | JOUR4046 Integrated Data-Driven Storytelling | Undergraduate (core course for Data and Media Communication Concentration) | 

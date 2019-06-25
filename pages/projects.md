@@ -24,18 +24,18 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  4. Jan 2012. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). (15,000 HKD). Completed.  
 
 
-### <a name="collaboration"></a>2. recnet research collaborators
+### <a name="collaboration"></a>2. research collaborators
 
 1. (2019) Dr. Jeffrey C. F. Ho. School of Design, Hong Kong Polytechnic University (*A text mining analysis of large-scale text on game promotion*) 
 
 2. (2018) Dr. Lun Zhang, School of Communication and Arts, Beijing Normal University, China (*Mapping the animation consumption pattern in mainland China*)
 
-3. (2017) Prof. Zhi-Jin Zhong, School of Communication and Design, Sun-Yet-Sen University, CHina (*The impacts of news use on enviornmentalism*) 
+3. (2017) Prof. Zhi-Jin Zhong, School of Communication and Design, Sun-Yet-Sen University, China (*The impacts of news use on environmentalism*) 
 
 4. (2017) Dr. Li Cui, School of Journalism and Communication, Southeastern University, China (*The effects of reality shows programmes in mainland China*)
 
 
-### <a name="ra"></a>3. researh supervision (2016 - present)
+### <a name="ra"></a>3. research supervision (2016 - present)
 
 1. Research students
  - Wenshu Li (Ph.D., 2018 - )
