@@ -4,16 +4,11 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
-- Web of Science ResearcherID: S-9610-2019
 - ORCID: 0000-0003-3479-9327
-
-**Recent publications** (updated: June 2019)
-
-1. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
-
-2. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1 (top 18.2%) in SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
-
-3. **Zhang, X.** & Lin, W.-Y. (2018). [Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement](https://doi.org/10.1016/j.chb.2017.10.036). *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier)
+- Web of Science ResearcherID: S-9610-2019
+- Research profile on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en)
+- Research profile on [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3)
+- Research profile on [Publons](https://publons.com/researcher/1613458/xinzhi-zhang)
 
 ---
 
@@ -32,10 +27,17 @@ My research focuses on comparative political communication, digital journalism, 
     <li><a href="#conferences">3. conferences</a></li>
 </ul>
 
-
 ---
 
 ### <a name="publications"></a>1. publications
+
+#### Recent selected publications (June 2019)
+
+1. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
+
+2. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1 (top 18.2%) in SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
+
+3. **Zhang, X.** & Lin, W.-Y. (2018). [Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement](https://doi.org/10.1016/j.chb.2017.10.036). *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier)
 
 #### 1A. peer-reviewed academic publications
 
