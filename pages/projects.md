@@ -15,16 +15,15 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. funded research projects
 
- 1. Sep 2019 - June 2021. General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319, Role: Principal Investigator (PI), *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* 445,520 HKD (approved). On-going.
+ 1. Sep 2019 - June 2021. General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319, Role: Principal Investigator (PI), *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* [445,520 HKD] (approved). On-going.
 
- 2. May 2018 - May 2019. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). (44,100 HKD). Completed.
+ 2. May 2018 - May 2019. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). [44,100 HKD]. Completed.
 
- 2. Jan 2017 - Jan 2018. *Effects of freedom restoration, language variety, and issue type on psychological reactance: An experimental study of health promotion messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). (49,752 HKD). Completed.
+ 3. Jan 2017 - Jan 2018. *Effects of freedom restoration, language variety, and issue type on psychological reactance: An experimental study of health promotion messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (PI). [49,752 HKD]. Completed.
 
- 3. Oct 2016. *The social and political impacts of digital media on public expression.* Start-up Grant for New Academics, Hong Kong Baptist University. Role: Principal Investigator (PI). (100,000 HKD). Completed.
+ 4. Oct 2016 - Sep 2018. *The social and political impacts of digital media on public expression.* Start-up Grant for New Academics, Hong Kong Baptist University. Role: Principal Investigator (PI). [100,000 HKD]. Completed.
 
- 4. Jan 2012. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan.* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). (15,000 HKD). Completed.  
-
+ 5. Jan 2012 - Feb 2013. *Social media use, political attitudes, and political participation: A comparison of mainland China, Hong Kong, and Taiwan.* Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. Role: Principal Investigator (PI). [15,000 HKD]. Completed.  
 
 ### <a name="collaboration"></a>2. research collaborators
 
