@@ -4,10 +4,23 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
+- Web of Science ResearcherID: S-9610-2019
+- ORCID: 0000-0003-3479-9327
+
+**Recent publications** (updated: June 2019)
+
+1. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
+
+2. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1 (top 18.2%) in SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
+
+3. **Zhang, X.** & Lin, W.-Y. (2018). [Stoking the fires of participation: Extending the Gamson Hypothesis on social media use and elite-challenging political engagement](https://doi.org/10.1016/j.chb.2017.10.036). *Computers in Human Behavior. 79*, 217-226. doi: 10.1016/j.chb.2017.10.036. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier)
+
+---
+
 My research focuses on comparative political communication, digital journalism, media and public health, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My four major research streams are:
 
-  1. **comparative political communication** and digital politics, with a cross-polity and cross-disciplinary perspective; 
-  2. **the sociology of news** in the digital age, focusing on the production and effects of digital news when disruptive technologies such as big data and AI algorithms are introduced in the newsrooms; 
+  1. **comparative political communication** and digital politics, with a cross-polity and cross-disciplinary perspective;
+  2. **the sociology of news** in the digital age, focusing on the production and effects of digital news when disruptive technologies such as big data and AI algorithms are introduced in the newsrooms;
   3. **health communication**, focusing on how cultural and political factors, as well as medium and message features affect the effectiveness of health promotional messages in a multimedia environment, and
   4. **digital popular culture**, especially the reflection of gender and power in entertainment programmes.
 
@@ -30,7 +43,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 1. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health.* 30(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 
-2. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**SSCI** - Communication, Routledge Journals, Taylor & Francis Ltd.)  
+2. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1** (top 18.2%) in **SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
 
 3. Lin, F. & **Zhang, X.** (2018). [Movement-press dynamics and news diffusion: A typology of activism in digital China](https://www.jstor.org/stable/26435647). *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q1 (top 23%) in SSCI** – Area Studies, 2016 JCR IF = 0.906, The Chinese University Press) 
 
