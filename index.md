@@ -10,7 +10,7 @@ Welcome. I am Xinzhi Zhang. I am currently a Research Assistant Professor at the
 
 As a social scientist by training, I am devoted to the interdisciplinary research on computational communication studies, digital politics, and digital humanities. My major research foci are (1) comparative political communication; (2) the sociology of digital journalism; (3) media and public health; and (4) digital popular culture. My research profile can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [Publons](https://publons.com/researcher/1613458/xinzhi-zhang), and [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3).
 
-I have published **18** peer-reviewed research articles on top-tier journals such as *Computers in Human Behavior*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, among others. [[Here is my publication list]](http://drxinzhizhang.com/pages/pubs.html)]
+I have published **18** peer-reviewed research articles on top-tier journals such as *Computers in Human Behavior*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, among others. [[Here is my publication list](http://drxinzhizhang.com/pages/pubs.html)]
 
 My research project has been funded by the General Research Fund (**GRF**) by the University Grants Committee (UGC), the Hong Kong SAR, an internationally competitive annual funding scheme (2019-2021). I also completed two projects supported by the Faculty Research Grant in Hong Kong Baptist University. [[Here is the list of my research projects](http://drxinzhizhang.com/pages/projects.html)]
 
