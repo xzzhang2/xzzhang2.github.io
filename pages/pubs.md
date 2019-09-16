@@ -15,9 +15,9 @@ description: Xinzhi Zhang's publications
 My research focuses on comparative political communication, digital journalism, media and public health, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My four major research streams are:
 
   1. **comparative political communication** and digital politics, with a cross-polity and cross-disciplinary perspective;
-  2. **the sociology of news** in the digital age, focusing on the production and effects of digital news when disruptive technologies such as big data and AI algorithms are introduced in the newsrooms;
+  2. **the sociology of news** in the digital age, focusing on the production and effects of digital news when emerging and disruptive information and communication technologies are introduced to the newsrooms;
   3. **health communication**, focusing on how cultural and political factors, as well as medium and message features affect the effectiveness of health promotional messages in a multimedia environment, and
-  4. **digital popular culture**, especially the reflection of gender and power in entertainment programmes.
+  4. **digital popular culture**, especially the reflection of gender and power in the digital public sphere.
 
  Below please find my research outputs in three categories.  
 
@@ -33,7 +33,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1A. peer-reviewed academic publications
 
-1. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 30%) in SSCI** - Communication, 2017 JCR IF = 1.710, Routledge Journals, Taylor & Francis Ltd).
+1. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
 1. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health.* 30(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 

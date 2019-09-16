@@ -39,7 +39,8 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 ### <a name="ra"></a>3. research supervision (2016 - present)
 
 1. Research students
- - Wenshu Li (Ph.D., 2018 - )
+ - Wenshu Li (co-supervision, Ph.D., 2018 - )
+ - Lewei Chen (co-supervision, Ph.D., 2018 - )
 
 2. Research/project assistants
  - Can He (2018 - 2019)
