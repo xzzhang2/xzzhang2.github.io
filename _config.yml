@@ -13,8 +13,8 @@ langs: ["en"]
 author: Xinzhi Zhang
 email: xzzhang2@gmail.com
 curriculum:
-  name: Curriculum Vitae 
-  url: assets/CV_Xinzhi Zhang_201905.pdf
+  name: Curriculum Vitae
+  url: assets/CV_Xinzhi Zhang_201908.pdf
 shortbio: Xinzhi Zhang is a researher on digital politics and computational communication research.
 twitter_username: xin_zhi_zhang
 github_username: xzzhang2
@@ -33,7 +33,7 @@ favicon:
 
 # Build settings
 # markdown: redcarpet
-markdown: kramdown 
+markdown: kramdown
 redcarpet:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
 gems:
