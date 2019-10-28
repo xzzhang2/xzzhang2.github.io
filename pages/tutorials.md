@@ -4,7 +4,7 @@ title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-I have lectured and organized several events, workshops, and seminars on the application of programming and big data analytics in digital media. 
+I have lectured and organized several events, workshops, and seminars on the application of programming and big data analytics in digital media.
 
 ---
 
@@ -22,4 +22,4 @@ I have lectured and organized several events, workshops, and seminars on the app
 
 - Oct 2017. Public faculty forum: *The Representation of Data-driven Journalism in the Twittersphere.* Friday 13 October, 12:30–2:00pm, CVA 1022, School of Communication, Hong Kong Baptist University ([A snapshot](https://mailchi.mp/32742cef043f/research-news-for-our-communication-school?e=bdebb12f53)).  
 
-- Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China. 
+- Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China.

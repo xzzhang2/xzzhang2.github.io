@@ -6,7 +6,7 @@ seo:
   title: Xinzhi Zhang
 ---
 
-Welcome. I am Xinzhi Zhang. I am currently a Research Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk).
+Welcome. I am Xinzhi Zhang. I am currently an Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk), and attached to the [University Research Cluster on Data Analytics and Artificial Intelligence](http://hkbu.ai). 
 
 As a social scientist by training, I am devoted to the interdisciplinary research on computational communication studies, digital politics, and digital humanities. My major research foci are (1) comparative political communication; (2) the sociology of digital journalism; (3) media and public health; and (4) digital popular culture. My research profile can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [Publons](https://publons.com/researcher/1613458/xinzhi-zhang), and [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3).
 
