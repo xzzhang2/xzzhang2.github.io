@@ -33,7 +33,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1A. peer-reviewed academic publications
 
-1. **Zhang, X.**. & Li, Wenshu # (in press). From social media with news: Journalists’ social media use for sourcing and verification. *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] (# graduate student co-author)
+1. **Zhang, X.**. & Li, W. # (in press). From social media with news: Journalists’ social media use for sourcing and verification. *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] (# graduate student co-author)
 
 2. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
