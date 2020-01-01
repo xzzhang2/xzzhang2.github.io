@@ -12,10 +12,10 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My research focuses on comparative political communication, digital journalism, media and public health, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My four major research streams are:
+My research focuses on comparative political communication, digital journalism, media and public health, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My major research streams are:
 
   1. **comparative political communication** and digital politics, with a cross-polity and cross-disciplinary perspective;
-  2. **the sociology of news** in the digital age, focusing on the production and effects of digital news when emerging and disruptive information and communication technologies are introduced to the newsrooms;
+  2. **the sociology of digital news**, focusing on the production and effects of digital journalism when emerging and disruptive technologies are introduced to the newsrooms;
   3. **health communication**, focusing on how cultural and political factors, as well as medium and message features affect the effectiveness of health promotional messages in a multimedia environment, and
   4. **digital popular culture**, especially the reflection of gender and power in the digital public sphere.
 
@@ -33,9 +33,11 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1A. peer-reviewed academic publications
 
-1. **Zhang, X.**. & Li, W. # (in press). From social media with news: Journalists’ social media use for sourcing and verification. *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] (# graduate student co-author)
+1. Ho, J. C. F. & **Zhang, X.** (2019). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**]
 
-2. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
+2. **Zhang, X.**. & Li, W. # (in press). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] (# graduate student co-author)
+
+3. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
 3. Lin, W.-Y., **Zhang, X.**, Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health.* 30(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.)
 
