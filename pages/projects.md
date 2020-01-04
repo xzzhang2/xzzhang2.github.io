@@ -27,22 +27,19 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="collaboration"></a>2. research collaborators
 
-1. (2019) Dr. Jeffrey C. F. Ho. School of Design, Hong Kong Polytechnic University (*A text mining analysis of large-scale text on game promotion*)
-
-2. (2018) Dr. Lun Zhang, School of Communication and Arts, Beijing Normal University, China (*Mapping the animation consumption pattern in mainland China*)
-
-3. (2017) Prof. Zhi-Jin Zhong, School of Communication and Design, Sun-Yet-Sen University, China (*The impacts of news use on environmentalism*)
-
-4. (2017) Dr. Li Cui, School of Journalism and Communication, Southeastern University, China (*The effects of reality shows programmes in mainland China*)
-
+Having collaborated with scholars from several universities, including University of Oxford, City University of Hong Kong, Hong Kong Polytechnic University, Beijing Normal University, Sun-Yet-Sen University, and Southeastern University.
 
 ### <a name="ra"></a>3. research supervision (2016 - present)
 
-1. Research students
+1. Research students under supervision
  - Wenshu Li (co-supervision, Ph.D., 2018 - )
  - Lewei Chen (co-supervision, Ph.D., 2018 - )
 
-2. Research/project assistants
+2. Research intern and project assistants
+ - Chang Ding (2019 - 2020)
+ - Xiaohang Deng (2019 - 2020)
+ - Yizhu Zhu (2019 - 2020)
+ - Jingwen Ma (2019 - 2020)
  - Can He (2018 - 2019)
  - Chen Xu (2018 - 2019)
  - Jiaxuan Jiang (2019)
@@ -53,13 +50,12 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  - Wanting Xu (2017 - 2018)
  - Ge Song (2016 - 2017)
 
-
 ### <a name="othergrants"></a>4. study & travel grants
 
 
 - External competitive grant
 
-  1. Mar 2014. Conference Travel Grant, “New Media and Citizenship in Asia,” 2014 International Communication Association (**ICA**) Preconference, Seattle, the U.S. [800 USD].
+  1. Mar 2014. Conference Travel Grant, “New Media and Citizenship in Asia,” 2014 International Communication Association (**ICA**) Pre-conference, Seattle, the U.S. [800 USD].
 
   2. Mar 2014. Conference Travel Grant, Political Communication Division, International Communication Association (**ICA**), the Annual Convention, Seattle, the U.S. [500 USD].
 
