@@ -32,9 +32,9 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1A. peer-reviewed journal articles (SCI/SSCI-indexed)
 
-1. **Zhang, X.** & Ho, J. C. F. (forthcoming). Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach. *Social Science Computer Review.* [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2019 JCR IF = 2.922, Sage Publications Ltd.] [[Replication codes]](https://github.com/xzzhang2/202001_DDJNetwork_codes)
+1. **Zhang, X.** & Ho, J. C. F. (forthcoming). Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach. *Social Science Computer Review.* [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2019 JCR IF = 2.922, Sage Publications Ltd.]
 
-2. **Zhang, X.**. & Li, W. # (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] (# graduate student co-author)
+2. **Zhang, X.**. & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author) 
 
 3. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
@@ -72,11 +72,11 @@ My research focuses on comparative political communication, digital journalism, 
 
 1. Ho, J. C. F. & **Zhang, X.** (2019). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**]
 
-5. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
+2. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
 
-1. Lin, W.-Y., & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
+3. Lin, W.-Y., & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
-2. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
+4. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
 ### <a name="reviews"></a>2. professional contributions
