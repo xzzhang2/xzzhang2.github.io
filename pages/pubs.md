@@ -34,7 +34,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 1. **Zhang, X.** & Ho, J. C. F. (forthcoming). Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach. *Social Science Computer Review.* [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2019 JCR IF = 2.922, Sage Publications Ltd.]
 
-2. **Zhang, X.**. & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author) 
+2. **Zhang, X.**. & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
 
 3. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
@@ -108,54 +108,56 @@ My research focuses on comparative political communication, digital journalism, 
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-### <a name="conferences"></a>3. peer-reviewed international major conference presentations
+### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations
 
-1. Zhang, X. (2019). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
+1. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-2. Ho, J. C. F. & Zhang, X. (2019). Marketing virtual reality games with text: A text mining analysis of game descriptions on *Steam*. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
+2. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-2. Zhang, X., Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 28 May, 2018.
+3. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-2. Zhang, X. (2017) Visualization, technologies, or the public?  A text mining analysis of the articulation of data-driven journalism in the Twittersphere. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
+4. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-4. Zhang, X. & Lin, W.-Y. (2017). Extending the Gamson hypothesis on social media use and elite-challenging political participation: A cross-polity study. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
+5. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-5. Zhang, X. (2016). The effects of freedom restoration, message frames, and language variety on psychological reactance. Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
+6. **Zhang, X.** (2019, May). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
-6. Cui, L., & Zhang, X. (2016). What happened to those tomboys several years later?: Empowerment from Super Girls' Voice for girls in mainland China (2007-2015). Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
+5. Ho, J. C. F. & **Zhang, X.** (2019, May). Marketing virtual reality games with text: A text mining analysis of game descriptions on *Steam*. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
-7. Lin, W.-Y., Cao, B., & Zhang, X. (2016). To speak or not to speak: Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
+6. **Zhang, X.**, Zhang, L., Zhang, M., Liu, Y., He, W., & Zhou, W. (2018, May). Monkey King, Naruto, and Mickey Mouse: Mapping the co-consumption network of animation protagonists in mainland China. Paper presented at the 68th Annual Conference of International Communication Association (**ICA**), Prague, The Czech Republic, 24 - 28 May, 2018.
 
-8. Zhang, X., & Zhong, Z.-J. (2015). Mapping the boundary of media effects on environmental concerns: Evidence from 37 societies. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
+7. **Zhang, X.** (2017, May) Visualization, technologies, or the public?  A text mining analysis of the articulation of data-driven journalism in the Twittersphere. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
 
-9. Lin, W.-Y., & Zhang, X. (2015). From spectators to participants: A study of affective intelligence, media uses, and political participation in Hong Kong. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
+4. **Zhang, X.** & Lin, W.-Y. (2017, May). Extending the Gamson hypothesis on social media use and elite-challenging political participation: A cross-polity study. Paper presented at the 67th Annual Conference of International Communication Association (**ICA**), San Diego, USA, 25 – 29 May, 2017.
 
-10. Wang, C.-J., Chen, H.X., & Zhang, X. (2015) The landscape of information diffusion on Sina Weibo: Investigating the rich-club effect. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
+5. **Zhang, X.** (2016, May). The effects of freedom restoration, message frames, and language variety on psychological reactance. Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
 
-11. Zhang, X., & Lin, W.-Y. (2014) The cynics in action: Social networking sites use, political attitudes, and political participation in mainland China and Hong Kong. Paper presented at the 64th Annual Conference of International Communication Association (**ICA**). Seattle, Washington, the U.S., May 2014. [**Political Communication Division Travel Grant Awardee**]
+6. Cui, L. & **Zhang, X.** (2016, May). What happened to those tomboys several years later?: Empowerment from Super Girls' Voice for girls in mainland China (2007-2015). Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
 
-12. Zhang, X., & Lin, W.-Y. (2014) Bowling alone or together? Social media uses, organizational membership, and political participation. Paper presented at the **ICA** 2014 Pre-conference: New Media and Citizenship in Asia: Values, Digital Politics, and Civic Well-Being, Seattle, Washington, the U.S., May 2014. [**Division Travel Grant Awardee**]
+7. Lin, W.-Y., Cao, B., & **Zhang, X.** (2016, May). To speak or not to speak: Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong. Paper presented at the 66th Annual Conference of International Communication Association (**ICA**), Fukuoka, Japan, 9-13 June, 2016.
 
-13. Zhong, Z.-J., & Zhang, X. (2014). Media and psychological predictors of civic engagement: Uses of news, motivation, political efficacy, and relative deprivation. Paper presented at the 64th Annual Conference of International Communication Association (**ICA**). Seattle, Washington, the U.S., May 2014.
+8. **Zhang, X.**, & Zhong, Z.-J. (2015, May). Mapping the boundary of media effects on environmental concerns: Evidence from 37 societies. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
 
-14. Zhang, X., & Zhang, F. (2013). Powered by democracy? - A multilevel model of media uses and political participation across Asian countries. Paper presented at the Annual Conference of Association for Education in Journalism and Mass Communication (**AEJMC**), D.C., the U.S., Aug 8 – 11, 2013. [**McCombs & Shaw Best Paper Award, the Political Communication Interest Group**]
+9. Lin, W.-Y., & **Zhang, X.** (2015, May). From spectators to participants: A study of affective intelligence, media uses, and political participation in Hong Kong. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
 
-15. Zhang, X., & Zhang, W. (2013). The willingness to fight for the People’s Republic of China? The individual determinants of political support in the post-colonial Hong Kong. Paper accepted to be presented at the 99th Annual Convention of National Communication Association (**NCA**). D.C., the U.S., Nov 21-24, 2013.
+10. Wang, C.-J., Chen, H.X., & **Zhang, X.** (2015, May) The landscape of information diffusion on Sina Weibo: Investigating the rich-club effect. Paper presented at the 65th Annual Conference of International Communication Association (**ICA**), San Juan, Puerto Rico, 21-25 May 2015.
 
-16. Zhang, X. (2013). The myth of “voting with dollars”: A cross-polity and multilevel analysis of political consumerism. Paper presented at the 63rd Annual Conference of International Communication Association (**ICA**). London, the U.K., June 17-21, 2013.
+11. **Zhang, X.** & Lin, W.-Y. (2014, May) The cynics in action: Social networking sites use, political attitudes, and political participation in mainland China and Hong Kong. Paper presented at the 64th Annual Conference of International Communication Association (**ICA**). Seattle, Washington, the U.S., May 2014. [**Political Communication Division Travel Grant Awardee**]
 
-17. Lin, W.-Y., Zhang, X., & Lee, F. L. F. (2013). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. Paper presented at the 63rd Annual Conference of International Communication Association (**ICA**). London, the U.K., June 17-21, 2013.
+12. **Zhang, X.**, & Lin, W.-Y. (2014, May) Bowling alone or together? Social media uses, organizational membership, and political participation. Paper presented at the **ICA** 2014 Pre-conference: New Media and Citizenship in Asia: Values, Digital Politics, and Civic Well-Being, Seattle, Washington, the U.S., May 2014. [**Division Travel Grant Awardee**]
 
-18. Liu, N., & Zhang, X. (2012). Talking as communicators: Effects of group communication, government-citizen interaction, and perceived media importance on online political discussion. Paper presented at the 100th Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). Chicago, the U.S., Aug 9-12, 2012.
+13. Zhong, Z.-J., & **Zhang, X.** (2014, May). Media and psychological predictors of civic engagement: Uses of news, motivation, political efficacy, and relative deprivation. Paper presented at the 64th Annual Conference of International Communication Association (**ICA**). Seattle, Washington, the U.S., May 2014.
 
-19. Lin, F., & Zhang, X. (2012). Contextualizing inter-media influence: Diffusion of online news about three collective actions in China. Paper presented at the 62nd Annual Conference of International Communication Association (**ICA**). Phoenix, Arizona, the U.S., May 24-28, 2012.
+14. **Zhang, X.**, & Zhang, F. (2013, August). Powered by democracy? - A multilevel model of media uses and political participation across Asian countries. Paper presented at the Annual Conference of Association for Education in Journalism and Mass Communication (**AEJMC**), D.C., the U.S., Aug 8 – 11, 2013. [**McCombs & Shaw Best Paper Award, the Political Communication Interest Group**]
 
-20. Lin, F., & Zhang, X. (2011). Bureaucratic nature of news websites and online activism in China. Paper presented at the 106th Convention of American Sociological Association (**ASA**). Las Vegas, the U.S., 13-16 August 2011.
+16. **Zhang, X.** (2013, June). The myth of “voting with dollars”: A cross-polity and multilevel analysis of political consumerism. Paper presented at the 63rd Annual Conference of International Communication Association (**ICA**). London, the U.K., June 17-21, 2013.
 
-21. Lin, W.-Y., Zhang, X., Kim, Y.-C., & Jung, J.-Y. (2011). Religion on the line: Investigating communication and action through youths’ online religious participation. Paper presented at the 97th Annual Convention of National Communication Association (**NCA**). New Orleans, United States, Nov 17-19, 2011.
+17. Lin, W.-Y., **Zhang, X.**, & Lee, F. L. F. (2013, June). Making the world a distant place? How foreign TV news affects individual cynicism in post-colonial Hong Kong. Paper presented at the 63rd Annual Conference of International Communication Association (**ICA**). London, the U.K., June 17-21, 2013.
 
-22. Lin, W.-Y., & Zhang, X. (2011). Demystifying collective identities in Hong Kong and Taiwan: The effects of media and communication. Paper presented at the 97th Annual Convention of National Communication Association (**NCA**). New Orleans, the U.S., Nov 17-19, 2011.
+19. Lin, F., & **Zhang, X.** (2012, May). Contextualizing inter-media influence: Diffusion of online news about three collective actions in China. Paper presented at the 62nd Annual Conference of International Communication Association (**ICA**). Phoenix, Arizona, the U.S., May 24-28, 2012.
 
-23. Zhang, X. (2011). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
+20. Lin, F., & **Zhang, X.** (2011, August). Bureaucratic nature of news websites and online activism in China. Paper presented at the 106th Convention of American Sociological Association (**ASA**). Las Vegas, the U.S., 13-16 August 2011.
+
+23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 --
