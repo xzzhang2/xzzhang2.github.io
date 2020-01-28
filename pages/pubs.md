@@ -32,13 +32,13 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1A. peer-reviewed journal articles (SCI/SSCI-indexed)
 
-1. **Zhang, X.** & Ho, J. C. F. (forthcoming). Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach. *Social Science Computer Review.* [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2019 JCR IF = 2.922, Sage Publications Ltd.]
+1. **Zhang, X.** & Ho, J. C. F. (2020, forthcoming). Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach. *Social Science Computer Review.* [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2019 JCR IF = 2.922, Sage Publications Ltd.]
 
-2. **Zhang, X.**. & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
+2. **Zhang, X.** & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
 
 3. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
-3. Lin, W.-Y., **Zhang, X.***, Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health.* 30(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
+3. Lin, W.-Y., **Zhang, X.***, & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health.* 30(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
 
 4. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1** (top 18.2%) in **SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -70,7 +70,9 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1B. peer-reviewed publications
 
-1. Ho, J. C. F. & **Zhang, X.** (2019). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**]
+1. Lin, W.-Y. & **Zhang, X.** (in print). Digital politics in mainland China: Participation in an unlikely place, forthcoming in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar.
+
+2. Ho, J. C. F. & **Zhang, X.** (2019). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**]
 
 2. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
 
