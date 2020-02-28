@@ -30,7 +30,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. peer-reviewed journal articles (SCI/SSCI-indexed)
+#### 1A. peer-reviewed journal articles (SCI/SSCI-indexed, 19)
 
 1. **Zhang, X.** & Zhong, Z.-J. (in press). Extending media system dependency theory to informational media use and environmentalism: A cross-national study. *Telematics & Informatics.* [Q1 (top 12%) in SSCI – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.]
 
@@ -70,7 +70,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
-#### 1B. peer-reviewed publications
+#### 1B. peer-reviewed publications (5)
 
 1. Lin, W.-Y. & **Zhang, X.** (in print). Digital politics in mainland China: Participation in an unlikely place, forthcoming in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar.
 
@@ -83,7 +83,7 @@ My research focuses on comparative political communication, digital journalism, 
 4. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
-### <a name="reviews"></a>2. professional contributions
+### <a name="reviews"></a>2. professional contributions (12)
 
 *Professional Journal Articles, Book Reviews, & Selected Media Contributions*
 
