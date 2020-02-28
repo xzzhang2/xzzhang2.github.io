@@ -40,7 +40,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 4. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
-5. Lin, W.-Y., **Zhang, X.***, & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
+5. Lin, W.-Y., **Zhang, X.** * , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
 
 6. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1** (top 18.2%) in **SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -52,7 +52,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 10. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). [To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong](https://ijoc.org/index.php/ijoc/article/view/6723). *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
 
-11. Zhong, Z.-J. & **Zhang, X.*** (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author)  
+11. Zhong, Z.-J. & **Zhang, X.** * (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author)  
 
 12. Cui, L. & **Zhang, X.** (2017). [What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015)](https://doi.org/10.1080/15295036.2017.1319070). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
 
