@@ -32,7 +32,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1A. peer-reviewed journal articles (SCI/SSCI-indexed, 19)
 
-1. **Zhang, X.** & Zhong, Z.-J. (in press). Extending media system dependency theory to informational media use and environmentalism: A cross-national study. *Telematics & Informatics.* [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.]
+1. **Zhang, X.** & Zhong, Z.-J. (in press). Extending media system dependency theory to informational media use and environmentalism: A cross-national study. *Telematics & Informatics.* Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.] 
 
 2. **Zhang, X.** & Ho, J. C. F. (2020). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review.* Online first. doi: 10.1177/0894439320905522. [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2018 JCR IF = 2.922, Sage Publications Ltd.]
 
