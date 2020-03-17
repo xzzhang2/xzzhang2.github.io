@@ -15,8 +15,8 @@ description: Xinzhi Zhang's publications
 My research focuses on comparative political communication, digital journalism, media and public health, and digital humanities, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My major research streams are:
 
   1. **comparative political communication**, focusing on digital politics, digital humanities and popular culture, with a cross-polity and cross-disciplinary perspective;
-  2. **computational journalism**, focusing on the production and effects of digital journalism when emerging and disruptive technologies are introduced to the newsrooms, and
-  3. **health communication**, focusing on how cultural and political factors, as well as medium and message features affect the effectiveness of health promotional messages in a multimedia and big data environment
+  2. **computational journalism**, focusing on the sociotechnical aspects of digital journalism when emerging technologies are introduced to the newsrooms;
+  3. **health communication**, focusing on how cultural and political factors, as well as medium and message features affect the effectiveness of health promotional messages in the age of big data and information disorder
 
  Below please find my research outputs in three categories.  
 
