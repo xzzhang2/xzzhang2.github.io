@@ -15,9 +15,11 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. funded research projects
 
- 1. Sep 2019 - June 2021. General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319, Role: Principal Investigator (**PI**), *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* [445,520 HKD] (approved). On-going.
+ 1. May 2020 - Apr 2022. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. Role: Co-Investigator (**Co-I**). [937,500 HKD]. On-going.  
 
- 2. May 2018 - May 2019. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [44,100 HKD]. Completed.
+ 2. Sep 2019 - June 2021. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319, Role: Principal Investigator (**PI**).  [445,520 HKD]. On-going.
+
+ 3. May 2018 - May 2019. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [44,100 HKD]. Completed.
 
  3. Jan 2017 - Jan 2018. *Effects of freedom restoration, language variety, and issue type on psychological reactance: An experimental study of health promotion messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [49,752 HKD]. Completed.
 
