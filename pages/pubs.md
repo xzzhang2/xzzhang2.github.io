@@ -30,15 +30,17 @@ My research focuses on comparative political communication, digital journalism, 
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. peer-reviewed journal articles (SCI/SSCI-indexed, 19)
+#### 1A. peer-reviewed journal articles (SCI/SSCI-indexed, 20)
 
-1. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics.* Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.]
+1. **Zhang, X.** (in press). Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US. *International Communication Gazette.* [**SSCI** - Communication, 2019 JCR IF = 1.197, Sage Publications Ltd.] 
 
-2. **Zhang, X.** & Ho, J. C. F. (2020). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review.* Online first. doi: 10.1177/0894439320905522. [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2018 JCR IF = 2.922, Sage Publications Ltd.]
+2. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics.* Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.]
 
-3. **Zhang, X.** & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
+3. **Zhang, X.** & Ho, J. C. F. (2020). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review.* Online first. doi: 10.1177/0894439320905522. [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2018 JCR IF = 2.922, Sage Publications Ltd.]
 
-4. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
+4. **Zhang, X.** & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
+
+5. **Zhang, X.** (2019). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication.*  Online first. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
 5. Lin, W.-Y., **Zhang, X.** * , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
 
