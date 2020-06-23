@@ -74,7 +74,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 #### 1B. peer-reviewed publications (5)
 
-1. Lin, W.-Y. & **Zhang, X.** (in print). Digital politics in mainland China: Participation in an unlikely place, forthcoming in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar.
+1. Lin, W.-Y. & **Zhang, X.** (2020). Digital politics in mainland China: Participation in an unlikely place, forthcoming in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
 2. Ho, J. C. F. & **Zhang, X.** (2019). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**]
 

@@ -21,7 +21,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
  3. May 2018 - May 2019. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [44,100 HKD]. Completed.
 
- 3. Jan 2017 - Jan 2018. *Effects of freedom restoration, language variety, and issue type on psychological reactance: An experimental study of health promotion messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [49,752 HKD]. Completed.
+ 4. Jan 2017 - Jan 2018. *Effects of freedom restoration, language variety, and issue type on psychological reactance: An experimental study of health promotion messages in Hong Kong.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [49,752 HKD]. Completed.
 
  4. Oct 2016 - Sep 2018. *The social and political impacts of digital media on public expression.* Start-up Grant for New Academics, Hong Kong Baptist University. Role: Principal Investigator (**PI**). [100,000 HKD]. Completed.
 
