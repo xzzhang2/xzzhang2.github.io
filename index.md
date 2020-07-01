@@ -12,7 +12,7 @@ As a social scientist by training, I am devoted to the interdisciplinary researc
 
 I have published **23** peer-reviewed research articles on top-tier journals such as *Computers in Human Behavior*, *Social Science Computer Review*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, among others. [[Here is my full publication list](http://drxinzhizhang.com/pages/pubs.html)]
 
-My research project has been funded by the General Research Fund (**GRF**) by the University Grants Committee (**UGC**), the Hong Kong SAR, an internationally competitive funding scheme. I have also completed three projects supported by Hong Kong Baptist University. [[Here is the list of my research projects](http://drxinzhizhang.com/pages/projects.html)]
+My two research projects have been funded by the General Research Fund (**GRF**) by the University Grants Committee (**UGC**), the Hong Kong SAR, an internationally competitive funding scheme. I have also completed three projects supported by Hong Kong Baptist University. [[Here is the list of my research projects](http://drxinzhizhang.com/pages/projects.html)]
 
 I have been appointed as the founding Programme Director of [Master of Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm) (2019 - Present), which is the first postgraduate programme of its kind in Hong Kong. I was one of the founding members—and later being appointed as the Programme Director—of [Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk) (2017 - 19), a pioneering interdisciplinary undergraduate concentration on data-driven storytelling and computational journalism. 
 

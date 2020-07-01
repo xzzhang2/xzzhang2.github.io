@@ -15,9 +15,11 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. funded research projects
 
- 1. May 2020 - Apr 2022. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. Role: Co-Investigator (**Co-I**). [937,500 HKD]. On-going.  
+ 1. Sep 2020 - Feb 2022. *Why fact-checking fails? Factors influencing the effectiveness of corrective messages countering misinformation on social media: A comparison of Hong Kong, the United States, and the Netherlands.* The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420, Role: Principal Investigator (**PI**).  [408,256 HKD]. On-going.
 
- 2. Sep 2019 - June 2021. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319, Role: Principal Investigator (**PI**).  [445,520 HKD]. On-going.
+ 2. May 2020 - Apr 2022. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. Role: Co-Investigator (**Co-I**). [937,500 HKD]. On-going.  
+
+ 3. Sep 2019 - June 2021. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319, Role: Principal Investigator (**PI**).  [445,520 HKD]. On-going.
 
  3. May 2018 - May 2019. *Codes and coders in the newsrooms: New technology adoption and interdisciplinary collaboration in Hong Kong’s local news organizations.* Faculty Research Grant (**FRG**), Hong Kong Baptist University. Role: Principal Investigator (**PI**). [44,100 HKD]. Completed.
 
@@ -35,9 +37,13 @@ Having collaborated with scholars from several universities, including Universit
 
 1. Research students under supervision
  - Wenshu Li (co-supervision, Ph.D., 2018 - )
- - Lewei Chen (co-supervision, Ph.D., 2018 - )
+ - Lewei Chen (co-supervision, Ph.D., 2017 - )
+ - Zhi Lin (co-supervision, M.Phil., 2019 - )
+ - Xiaohang Deng (co-supervision, M.Phil., 2020 - )
 
 2. Research intern and project assistants
+ - Rui Zhu (2020 - 2021)
+ - Minyi Chen (2019 - 2020)
  - Chang Ding (2019 - 2020)
  - Xiaohang Deng (2019 - 2020)
  - Yizhu Zhu (2019 - 2020)
