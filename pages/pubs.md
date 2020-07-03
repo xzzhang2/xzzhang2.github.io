@@ -30,13 +30,15 @@ My research focuses on comparative political communication, digital journalism, 
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. peer-reviewed journal articles (SCI/SSCI-indexed, 20)
+#### 1A. peer-reviewed journal articles (total: 22; SCI/SSCI-indexed, 20)
 
-1. **Zhang, X.** (in press). Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US. *International Communication Gazette.* [**SSCI** - Communication, 2019 JCR IF = 1.197, Sage Publications Ltd.] 
+1. **Zhang, X.** (in press). Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US. *International Communication Gazette.* [**Q2 (top 38%) in SSCI** - Communication, 2019 JCR IF = 1.877, Sage Publications Ltd.] 
 
 2. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics.* Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.]
 
 3. **Zhang, X.** & Ho, J. C. F. (2020). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review.* Online first. doi: 10.1177/0894439320905522. [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2018 JCR IF = 2.922, Sage Publications Ltd.]
+
+4. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
 
 4. **Zhang, X.** & Li, W. * (2019). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
 
@@ -52,15 +54,15 @@ My research focuses on comparative political communication, digital journalism, 
 
 9. **Zhang, X.** & Lin, W.-Y. (2018). [Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions](https://doi.org/10.1177%2F0192512116641842). *International Political Science Review, 39*(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 (top 33%) in SSCI** – Political Science, 2016 JCR IF = 1.588, Sage Publications Ltd., the flagship journal of the International Political Science Association (IPSA))
 
-10. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). [To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong](https://ijoc.org/index.php/ijoc/article/view/6723). *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
+11. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). [To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong](https://ijoc.org/index.php/ijoc/article/view/6723). *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
 
-11. Zhong, Z.-J. & **Zhang, X.** * (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author)  
+12. Zhong, Z.-J. & **Zhang, X.** * (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author)  
 
-12. Cui, L. & **Zhang, X.** (2017). [What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015)](https://doi.org/10.1080/15295036.2017.1319070). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
+13. Cui, L. & **Zhang, X.** (2017). [What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015)](https://doi.org/10.1080/15295036.2017.1319070). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
 
-8. Lin, W.-Y., **Zhang, X.**, Song, H.-Y., & Omori, K.  (2016). [Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure](https://www.sciencedirect.com/science/article/pii/S0747563215302697). *Computers in Human Behavior, 56*, 289–294. doi: 10.1016/j.chb.2015.11.055. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2016 JCR IF = 3.435, Elsevier)
+14. Lin, W.-Y., **Zhang, X.**, Song, H.-Y., & Omori, K.  (2016). [Health information seeking in the Web 2.0 age: Trust in social media, uncertainty reduction, and self-disclosure](https://www.sciencedirect.com/science/article/pii/S0747563215302697). *Computers in Human Behavior, 56*, 289–294. doi: 10.1016/j.chb.2015.11.055. (**Q1 (top 12%) in SSCI** – Psychology (multidisciplinary), 2016 JCR IF = 3.435, Elsevier)
 
-9. **Zhang, X.** (2015). [Voting with dollars: A cross-polity and multilevel analysis of political consumerism](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcs.12181). *International Journal of Consumer Studies, 39*(5), 422-436. doi: 10.1111/ijcs.12181. (**SSCI** – Business, 2015 JCR IF = 1.086, John Wiley & Sons, Inc.)
+15. **Zhang, X.** (2015). [Voting with dollars: A cross-polity and multilevel analysis of political consumerism](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcs.12181). *International Journal of Consumer Studies, 39*(5), 422-436. doi: 10.1111/ijcs.12181. (**SSCI** – Business, 2015 JCR IF = 1.086, John Wiley & Sons, Inc.)
 
 10. Lin, F., Chang, T.-K., & **Zhang, X.** (2014). [After the spillover effect: News flows and power relations in Chinese mainstream media](https://www.tandfonline.com/doi/full/10.1080/01292986.2014.955859). *Asian Journal of Communication, 25*(3), 235-254. doi: 10.1080/01292986.2014.955859. (**SSCI** – Communication, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -72,17 +74,15 @@ My research focuses on comparative political communication, digital journalism, 
 
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
-#### 1B. peer-reviewed publications (5)
+15. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
+
+#### 1B. peer-reviewed publications (3)
 
 1. Lin, W.-Y. & **Zhang, X.** (2020). Digital politics in mainland China: Participation in an unlikely place, forthcoming in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
-2. Ho, J. C. F. & **Zhang, X.** (2019). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**]
-
 2. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
 
-3. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
-
-4. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
+3. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
 ### <a name="reviews"></a>2. professional contributions (12)
