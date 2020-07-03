@@ -74,7 +74,7 @@ My research focuses on comparative political communication, digital journalism, 
 
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
-15. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
+15. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
 #### 1B. peer-reviewed publications (3)
 
