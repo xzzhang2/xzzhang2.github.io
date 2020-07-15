@@ -4,13 +4,15 @@ title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-I have lectured and organized several events, workshops, and seminars on the application of programming and big data analytics in digital media.
+I have lectured and organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media.
 
 ---
 
+- Apr 2020. Member of the Organizing Committee and Workshop Speaker for *2020 Global Virtual Hack and Design Challenge – Empower Community during and after COVID-19* - A virtual design hackathon on the application of digital media, design thinking, computational thinking, and group collaboration for society well-being. The first  ([Event page](https://www.comp.hkbu.edu.hk/designworkshop/2020virtualhack/)) and ([News release](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-virtual-competition-connects-global-youth-to-counter-the-pandemic-with-innovative-ideas/)).  
+
 - Apr 2019. *Python for data visualization* A Python workshop organized by Hong Kong Baptist University Library, 10 Apr 2019, 14:30 - 16:30. Collaborative Data Lab, HKBU Library ([Workshop Repo](https://github.com/xzzhang2/201904_HKBULib_Py)).
 
-- Jan 2019. Member of the Organizing Committee, Workshop Speaker, and Tutor for *The Data and Media Hack* A hackathon on the application of digital media, coding, and design. The first media-related hackathon in the Hong Kong region. ([Event page](http://bu-dmc.hkbu.edu.hk/dmh/)).
+- Jan 2019. Member of the Organizing Committee, Workshop Speaker, and Tutor for *The Data and Media Hack*  - A hackathon on the application of digital media, coding, and design. The first media-related hackathon in the Hong Kong region. ([Event page](http://bu-dmc.hkbu.edu.hk/dmh/)).
 
 - Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University ([Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).   
 

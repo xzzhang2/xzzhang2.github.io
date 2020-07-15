@@ -4,7 +4,10 @@ title: teaching
 description: Xinzhi Zhang's teaching record
 ---
 
-I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Computational Journalism*, *Social Media Data Acquisition and Processing with Python*, and *Integrated Data-Driven Storytelling*. I also supervise postgraduate and undergraduate research projects and dissertations.
+I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Computational Journalism*, *Social Media Data Acquisition and Processing*, and *Integrated Data-Driven Storytelling*. I also supervise postgraduate and undergraduate research projects.
+
+I am looking for PhD/Mphil students and research assistants working for interdisciplinary projects related to computational journalism and data-driven storytelling, social media data analytics, and digital popular culture. Please email me your CV and credentials. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).  
+
 
 ---
 
@@ -12,7 +15,6 @@ I have taught and proposed several interdisciplinary courses on digital media st
     <li><a href="#hkbu_course">@ HK BaptistU (2016 - present)</a></li>
     <li><a href="#polyu_course">@ PolyU SPEED (2014 - 2016)</a></li>
     <li><a href="#cityu_courese">@ CityU (2013 - 2014) </a></li>
-    <li><a href="#thesis">dissertation supervision (2014 - present) </a></li>
 </ul>
 
 
@@ -50,17 +52,3 @@ I have taught and proposed several interdisciplinary courses on digital media st
 | 2014 Spring | COM5502 Multimedia Communication (core course for MA in Communication and New Media) |
 
 
-### <a name="thesis"></a>dissertation supervision (2014 - present, selected topics)
-
-|Name | Programme & level | Project title |   
-|--- | --- | --- |
-| Tsang Poying | Broadcasting Journalism Concentration, HKBU, 2019 | Effects of message contents and presentation styles on people’s evaluation of online video news: An experimental study in Hong Kong |
-| Wang Yuling | MA in Communication, HKBU, 2018 | Algorithm-assisted editorial decision-making: A comparison of seven publishing houses in mainland China |
-| Wang Yuejiao | MA in Communication, HKBU, 2018 | Telling stories with numbers: A content analysis of data-driven journalism reports in mainland China |
-| Liu Wanyin | MA in Communication, HKBU, 2018 | Framing sexual harassment in the mainstream media: A case of New York Times |
-| Chan Lok Tung | Chinese Journalism Concentration, HKBU, 2018 | A study of the young Hong Kongers’ tagging (#) behaviors on social media |
-| Koo Chi Hang | Chinese Journalism Concentration, HKBU, 2018 |  One world, different dreams? A discourse analysis of three Hong Kong newspapers on the coverage of Olympic Games in 2008 and 2016 |
-| Chan Wing Sze | Chinese Journalism Concentration, HKBU, 2017 | A discourse analysis of three Hong Kong newspapers on the coverage of CE Elections in 2012 and 2017 |
-| Kong Ka Yi | BA in Professional Communication, PolyU SPEED, 2016 | Media coverage on refugees crisis: Difference in Western and Eastern Europe newspapers |
-| Lam Ka Sin | BA in Professional Communication, PolyU SPEED, 2016 | Comparing the interpretation of the moon between Americans and Hong Kongers |
-| Lau Hon Yin | BA in Professional Communication, PolyU SPEED, 2016 | Code-switching as a strategy of embarrassment avoidance:  Evidence from an in-depth interview in Hong Kong |
