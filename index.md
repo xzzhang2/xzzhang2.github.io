@@ -6,9 +6,10 @@ seo:
   title: Xinzhi Zhang
 ---
 
-Welcome. I am Xinzhi Zhang, currently an Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk), and in University's [Lab of Augmented Creativity](https://interdisciplinary-research.hkbu.edu.hk/cluster-and-lab/lab/augmented-creativity), one of the six interdisciplinary research laboratories of the Hong Kong Baptist University. 
+Welcome. I am Xinzhi Zhang, currently an Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk), and in University's [Augmented Creativity Lab
+](https://interdisciplinary-research.hkbu.edu.hk/cluster-and-lab/lab/augmented-creativity), one of the six interdisciplinary research laboratories of the Hong Kong Baptist University. 
 
-As a social scientist by training, I am devoted to the interdisciplinary research on computational communication research, digital politics, computational journalism, and digital humanities. My major research areas include (1) comparative political communication, digital politics, and digital culture; (2) the sociology of computational journalism; and (3) digital media and public health. My research profiles can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [Publons](https://publons.com/researcher/1613458/xinzhi-zhang), and [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3).
+As a social scientist by training, I am devoted to the interdisciplinary research on computational communication research and digital media. My major research areas include (1) comparative political communication, digital politics, and digital popular culture; (2) the sociology of computational journalism; and (3) digital media and public health. My research profiles can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [Publons](https://publons.com/researcher/1613458/xinzhi-zhang), and [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3).
 
 I have published **23** peer-reviewed articles on top-tier journals such as *Computers in Human Behavior*, *Social Science Computer Review*, *Health Communication*, *Digital Journalism*, *International Political Science Review*, *International Journal of Communication*, among others. [[Here is my full publication list](http://drxinzhizhang.com/pages/pubs.html)]
 
