@@ -15,19 +15,21 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. funded research projects
 
- 1. Sep 2020 - Feb 2022. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420. *Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.* [408,256 HKD]. On-going.  
+ 1. Jan 2021 - Aug 2021. Role: Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the Policy Innovation and Co-ordination Office (**PICO**) of the Government of the Hong Kong SAR, *Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.* [356,972 HKD]. (on-going).
 
- 2. May 2020 - Apr 2022. Role: Co-Investigator (**Co-I**). The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* [937,500 HKD]. On-going.
+ 2. Sep 2020 - Feb 2022. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420. *Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.* [408,256 HKD]. On-going.  
+
+ 3. May 2020 - Apr 2022. Role: Co-Investigator (**Co-I**). The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* [937,500 HKD]. On-going.
   
- 3. Sep 2019 - June 2021. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* [445,520 HKD]. On-going.
+ 4. Sep 2019 - June 2021. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* [445,520 HKD]. On-going.
 
- 4. May 2018 - May 2019. Role: Principal Investigator (**PI**). Faculty Research Grant (**FRG**), Hong Kong Baptist University. *Codes and Coders in the Newsrooms: New Technology Adoption and Interdisciplinary Collaboration in Hong Kong’s Local News Organizations.* [44,100 HKD]. Completed. 
+ 5. May 2018 - May 2019. Role: Principal Investigator (**PI**). Faculty Research Grant (**FRG**), Hong Kong Baptist University. *Codes and Coders in the Newsrooms: New Technology Adoption and Interdisciplinary Collaboration in Hong Kong’s Local News Organizations.* [44,100 HKD]. Completed. 
 
- 5. Jan 2017 - Jan 2018. Role: Principal Investigator (**PI**). Faculty Research Grant (**FRG**), Hong Kong Baptist University. *Effects of Freedom Restoration, Language Variety, and Issue Type on Psychological Reactance: An Experimental Study of Health Promotion Messages in Hong Kong.* [49,752 HKD]. Completed. 
+ 6. Jan 2017 - Jan 2018. Role: Principal Investigator (**PI**). Faculty Research Grant (**FRG**), Hong Kong Baptist University. *Effects of Freedom Restoration, Language Variety, and Issue Type on Psychological Reactance: An Experimental Study of Health Promotion Messages in Hong Kong.* [49,752 HKD]. Completed. 
 
- 6. Oct 2016 - Sep 2018. Role: Principal Investigator (**PI**). Start-up Grant for New Academics, Hong Kong Baptist University. *The Social and Political Impacts of Digital Media on Public Expression.* [100,000 HKD]. Completed.
+ 7. Oct 2016 - Sep 2018. Role: Principal Investigator (**PI**). Start-up Grant for New Academics, Hong Kong Baptist University. *The Social and Political Impacts of Digital Media on Public Expression.* [100,000 HKD]. Completed.
 
- 7. Jan 2012 - Feb 2013. Role: Principal Investigator (**PI**). Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. *Social Media Use, Political Attitudes, and Political Participation: A Comparison of Mainland China, Hong Kong, and Taiwan.* [15,000 HKD]. Completed.  
+ 8. Jan 2012 - Feb 2013. Role: Principal Investigator (**PI**). Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. *Social Media Use, Political Attitudes, and Political Participation: A Comparison of Mainland China, Hong Kong, and Taiwan.* [15,000 HKD]. Completed.  
 
 ### <a name="collaboration"></a>2. research collaborators
 
@@ -35,7 +37,8 @@ Having collaborated with scholars from several universities, including Michigan 
 
 ### <a name="ra"></a>3. research supervision (2016 - present)
 
-1. Research students under supervision
+1. Research students
+ - Xu Zhang (Principal supervisor, HKBU Talent 100 PhD Scheme, Ph.D., 2021 - )
  - Xiaohang Deng (co-supervision, M.Phil., 2020 - )
  - Zhi Lin (co-supervision, M.Phil., 2019 - )
  - Wenshu Li (co-supervision, Ph.D., 2018 - )
