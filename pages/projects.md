@@ -6,16 +6,15 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 
 <ul>
-    <li><a href="#researchprojs">1. funded research projects</a></li>
+    <li><a href="#researchprojs">1. external research grants</a></li>
     <li><a href="#collaboration">2. research collaborators</a></li>
-	<li><a href="#ra">3. research supervision </a></li>
-    <li><a href="#othergrants">4. study & travel grants</a></li>
+    <li><a href="#othergrants">3. study & travel grants</a></li>
 </ul>
 
 
-### <a name="researchprojs"></a>1. funded research projects
+### <a name="researchprojs"></a>1. external research grants 
 
- 1. Jan 2021 - Aug 2021. Role: Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the Policy Innovation and Co-ordination Office (**PICO**) of the Government of the Hong Kong SAR, *Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.* [356,972 HKD]. (on-going).
+ 1. Jan 2021 - Aug 2021. Role: Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the Policy Innovation and Co-ordination Office (**PICO**) of the Government of the Hong Kong SAR, *Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.* [356,972 HKD]. On-going. 
 
  2. Sep 2020 - Feb 2022. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420. *Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.* [408,256 HKD]. On-going.  
 
@@ -33,44 +32,18 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="collaboration"></a>2. research collaborators
 
-Having collaborated with scholars from several universities, including Michigan State University, University of Groningen, University of Oxford, City University of Hong Kong, Hong Kong Polytechnic University, Beijing Normal University, Sun-Yet-Sen University, Southeastern University, among others. 
-
-### <a name="ra"></a>3. research supervision (2016 - present)
-
-1. Research students
- - Xu Zhang (Principal supervisor, HKBU Talent 100 PhD Scheme, Ph.D., 2021 - )
- - Xiaohang Deng (co-supervision, M.Phil., 2020 - )
- - Zhi Lin (co-supervision, M.Phil., 2019 - )
- - Wenshu Li (co-supervision, Ph.D., 2018 - )
- - Lewei Chen (co-supervision, Ph.D., 2017 - )
-
-2. Research intern and project assistants
- - Rui Zhu (2020 - 2021)
- - Minyi Chen (2019 - 2020)
- - Chang Ding (2019 - 2020)
- - Xiaohang Deng (2019 - 2020)
- - Yizhu Zhu (2019 - 2020)
- - Jingwen Ma (2019 - 2020)
- - Can He (2018 - 2019)
- - Chen Xu (2018 - 2019)
- - Jiaxuan Jiang (2019)
- - Yucan Xu (2019)
- - Qile Wang (2018 - 2019)
- - Jiehu Yuan (2018 - 2019)
- - Mengyi Zhang (2017 - 2018)
- - Wanting Xu (2017 - 2018)
- - Ge Song (2016 - 2017)
-
-### <a name="othergrants"></a>4. study & travel grants
+I have collaborated with scholars from several universities, including Michigan State University (US), University of Groningen (the Netherlands), University of Oxford (UK), City University of Hong Kong, Hong Kong Polytechnic University, Beijing Normal University, Sun Yat-sen University, and Southwestern University. 
 
 
-- External competitive grant
+### <a name="othergrants"></a>3. study & travel grants
+
+- External competitive grants
 
   1. Mar 2014. Conference Travel Grant, “New Media and Citizenship in Asia,” 2014 International Communication Association (**ICA**) Pre-conference, Seattle, the U.S. [800 USD].
 
   2. Mar 2014. Conference Travel Grant, Political Communication Division, International Communication Association (**ICA**), the Annual Convention, Seattle, the U.S. [500 USD].
 
-- Internal development grant
+- Internal development grants 
 
  1. May 2019. Staff Development Grant, School of Communication, Hong Kong Baptist University, for the 2019 Annual Conference of the International Communication Association (**ICA**), DC, the US. [24,000 HKD]
 

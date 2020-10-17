@@ -4,21 +4,21 @@ title: teaching
 description: Xinzhi Zhang's teaching record
 ---
 
-I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Computational Journalism*, *Social Media Data Acquisition and Processing*, and *Integrated Data-Driven Storytelling*. I also supervise postgraduate and undergraduate research projects.
+I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Computational Journalism*, *Social Media Data Acquisition and Processing*, and *Integrated Data-Driven Storytelling*. 
 
 I am looking for PhD/Mphil students and research assistants working for interdisciplinary projects related to computational journalism and data-driven storytelling, social media data analytics, and digital popular culture. Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).  
-
 
 ---
 
 <ul class="nav">
-    <li><a href="#hkbu_course">@ HK BaptistU (2016 - present)</a></li>
-    <li><a href="#polyu_course">@ PolyU SPEED (2014 - 2016)</a></li>
-    <li><a href="#cityu_courese">@ CityU (2013 - 2014) </a></li>
+    <li><a href="#hkbu_course">courses @ HKBU (2016 - present)</a></li>
+    <li><a href="#hkbu_rds">research supervision @ HKBU (2016 - present)</a></li>
+    <li><a href="#polyu_course">courses @ PolyU (2014 - 2016)</a></li>
+    <li><a href="#cityu_courese">courses @ CityU (2013 - 2014) </a></li>
 </ul>
 
 
-### <a name="hkbu_course"></a>courses @ HK BaptistU (2016 - present)
+### <a name="hkbu_course"></a>courses @ HKBU (2016 - present)
 
 |Offering | Course code and title | Level |   
 |--- | --- | --- |
@@ -31,6 +31,34 @@ I am looking for PhD/Mphil students and research assistants working for interdis
 |Proposed | COMM7840 Algorithmic Culture | Postgraduate (elective) |
 |Proposed | COMM7780 Big Data Analytics for Media and Communication | Postgraduate (elective) |
 |Proposed | JOUR4046 Integrated Data-Driven Storytelling | Undergraduate (core course for Data and Media Communication Concentration) |
+
+
+### <a name="hkbu_rds"></a>research supervision @ HKBU (2016 - present)
+
+1. Research students
+ - Xu Zhang (Principal supervisor, HKBU Talent 100 PhD Scheme, Ph.D., 2021 - )
+ - Xiaohang Deng (co-supervision, M.Phil., 2020 - )
+ - Zhi Lin (co-supervision, M.Phil., 2019 - )
+ - Wenshu Li (co-supervision, Ph.D., 2018 - )
+ - Lewei Chen (co-supervision, Ph.D., 2017 - )
+
+2. Research intern and research assistants
+ - Rui Zhu (2020 - 2021)
+ - Minyi Chen (2019 - 2020)
+ - Chang Ding (2019 - 2020)
+ - Xiaohang Deng (2019 - 2020)
+ - Yizhu Zhu (2019 - 2020)
+ - Jingwen Ma (2019 - 2020)
+ - Can He (2018 - 2019)
+ - Chen Xu (2018 - 2019)
+ - Jiaxuan Jiang (2019)
+ - Yucan Xu (2019)
+ - Qile Wang (2018 - 2019)
+ - Jiehu Yuan (2018 - 2019)
+ - Mengyi Zhang (2017 - 2018)
+ - Wanting Xu (2017 - 2018)
+ - Ge Song (2016 - 2017)
+
 
 ### <a name="polyu_course"></a>courses @ PolyU SPEED (2014 - 2016)
 

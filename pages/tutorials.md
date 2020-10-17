@@ -4,7 +4,7 @@ title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-I have lectured and organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media.
+I have organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media.
 
 ---
 
