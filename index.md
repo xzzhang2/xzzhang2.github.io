@@ -6,6 +6,7 @@ seo:
   title: Xinzhi Zhang
 ---
 
+
 Welcome. I am Xinzhi Zhang, currently an Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk), and in University's [Augmented Creativity Lab](https://interdisciplinary-research.hkbu.edu.hk/cluster-and-lab/lab/augmented-creativity), one of the six interdisciplinary research laboratories of the Hong Kong Baptist University. 
 
 As a social scientist by training, I am devoted to the interdisciplinary research on computational communication research, digital journalism, political communication and culture, media and public health, and human-machine collaborative creativity. My research profiles can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [Publons](https://publons.com/researcher/1613458/xinzhi-zhang), and [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3).
