@@ -4,11 +4,8 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
-- ORCID: 0000-0003-3479-9327
-- Web of Science ResearcherID: S-9610-2019
-- Research profile on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en)
-- Research profile on [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3)
-- Research profile on [Publons](https://publons.com/researcher/1613458/xinzhi-zhang)
+- ORCID: 0000-0003-3479-9327 | Web of Science ResearcherID: S-9610-2019
+- [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) | [Publons](https://publons.com/researcher/1613458/xinzhi-zhang)
 
 ---
 

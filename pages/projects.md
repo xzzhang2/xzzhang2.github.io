@@ -20,7 +20,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
  3. May 2020 - Apr 2022. Role: Co-Investigator (**Co-I**). The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* [937,500 HKD]. On-going.
   
- 4. Sep 2019 - June 2021. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* [445,520 HKD]. On-going.
+ 4. Sep 2019 - August 2021. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319. *The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.* [445,520 HKD]. On-going.
 
  5. May 2018 - May 2019. Role: Principal Investigator (**PI**). Faculty Research Grant (**FRG**), Hong Kong Baptist University. *Codes and Coders in the Newsrooms: New Technology Adoption and Interdisciplinary Collaboration in Hong Kong’s Local News Organizations.* [44,100 HKD]. Completed. 
 
