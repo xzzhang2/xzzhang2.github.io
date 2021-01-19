@@ -26,9 +26,9 @@ My research focuses on political communication and culture, digital journalism, 
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. SSCI/SCI journal articles (21)
+#### 1A. SSCI/SCI journal articles (22)
 
-1. **Zhang, X.** & Chen, M. (in press). Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong. *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2019 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
+1. **Zhang, X.** & Chen, M. (2021). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2019 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
 
 2. **Zhang, X.** (in press). Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US. *International Communication Gazette.* [**Q2 (top 38%) in SSCI** - Communication, 2019 JCR IF = 1.877, Sage Publications Ltd.] 
 
@@ -115,15 +115,19 @@ My research focuses on political communication and culture, digital journalism, 
 
 ### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations
 
-1. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+1. **Zhang, X.** & Zhu, R. (2021, May). Health Journalists’ Social Media Sourcing during the Public Health Emergency: A Network Analytics Approach. Paper to be presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021. 
 
-2. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+2. Zhu, R. & **Zhang, X.** (2021, May). How Source-level and Message-level Factors Influence Journalists’ Social Media Visibility during a Public Health Emergency. Paper to be presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021.
 
-3. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+2. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-4. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+3. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-5. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper to be presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+3. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+
+4. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+
+5. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
 6. **Zhang, X.** (2019, May). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
