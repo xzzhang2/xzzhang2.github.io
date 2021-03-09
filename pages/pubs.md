@@ -10,7 +10,11 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My research focuses on political communication and culture, digital journalism, media and public health, and human-machine collaborative creativity, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My major research streams are:
+My research areas include political communication and culture, digital journalism, media and public health, and human-machine collaborative creativity, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. 
+
+My research focuses on on how emerging information and communication technologies influence people’s communicative behaviors in politics and health in the age of information disorder, and how emerging technologies—especially social media platforms and computer algorithms—are changing the way that news is produced and perceived by the audience. 
+
+My major research streams are:
 
   1. **political communication**, digital politics, digital humanities, and popular culture, with a comparative and cross-disciplinary perspective;
   2. **computational journalism**, the sociotechnical aspects of digital journalism and the application of emerging technological innovations in digital media;
@@ -28,7 +32,7 @@ My research focuses on political communication and culture, digital journalism, 
 
 #### 1A. SSCI/SCI journal articles (22)
 
-1. **Zhang, X.** & Chen, M. (2021). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2019 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
+1. **Zhang, X.** & Chen, M. (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* [**Q2 (top 30%) in SSCI** - Communication, 2019 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
 
 2. **Zhang, X.** (in press). Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US. *International Communication Gazette.* [**Q2 (top 38%) in SSCI** - Communication, 2019 JCR IF = 1.877, Sage Publications Ltd.] 
 
