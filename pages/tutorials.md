@@ -8,6 +8,10 @@ I have organized several events, workshops, and seminars on the application of m
 
 ---
 
+- Jan 2021. Workshop participant. "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](http://www.com.cuhk.edu.hk/en-GB/research-m/visiting-scholar-programme/15-research-tc/1452-visiting-scholar-program-2021-tc). 
+
+- Sep 2020. Keynote speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
+
 - Apr 2020. Member of the Organizing Committee and Workshop Speaker for *2020 Global Virtual Hack and Design Challenge – Empower Community during and after COVID-19* - A virtual design hackathon on the application of digital media, design thinking, computational thinking, and group collaboration for society well-being. (The [Event page](https://www.comp.hkbu.edu.hk/designworkshop/2020virtualhack/) and [press release](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-virtual-competition-connects-global-youth-to-counter-the-pandemic-with-innovative-ideas/)).  
 
 - Apr 2019. *Python for data visualization* A Python workshop organized by Hong Kong Baptist University Library, 10 Apr 2019, 14:30 - 16:30. Collaborative Data Lab, HKBU Library (The [Workshop Repo](https://github.com/xzzhang2/201904_HKBULib_Py)).

@@ -40,9 +40,9 @@ I am looking for PhD/Mphil students and research assistants working for interdis
  - Xiaohang Deng (co-supervision, M.Phil., 2020 - )
  - Zhi Lin (co-supervision, M.Phil., 2019 - )
  - Wenshu Li (co-supervision, Ph.D., 2018 - )
- - Lewei Chen (co-supervision, Ph.D., 2017 - )
 
 2. Research intern and research assistants
+ - Hiu Yan Ping (2021 - 2021)
  - Rui Zhu (2020 - 2021)
  - Minyi Chen (2019 - 2020)
  - Chang Ding (2019 - 2020)
