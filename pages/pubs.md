@@ -4,17 +4,17 @@ title: publications
 description: Xinzhi Zhang's publications
 ---
 
-- ORCID: 0000-0003-3479-9327
+- ORCID: [0000-0003-3479-9327](https://orcid.org/0000-0003-3479-9327) 
 - Web of Science ResearcherID: S-9610-2019
 - Profiles: [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [Publons](https://publons.com/researcher/1613458/xinzhi-zhang)
 
 ---
 
-My substantive research areas include political communication and culture, digital journalism, media and public health, and human-machine collaborative creativity, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how emerging information and communication technologies influence people’s communicative behaviors in politics and health in the age of information disorder, and how emerging technologies—especially social media platforms and computer algorithms—are changing the way that news is produced and perceived by the audience. My major research streams are: 
+My substantive research areas include political communication and culture, digital journalism, media and public health, and human-machine collaborative creativity, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how emerging information and communication technologies influence people’s communicative behaviors in politics and health in the age of information disorder, and how emerging technologies—especially social media platforms and AI algorithms—are changing the way that news is produced and used by the audience. My major research streams are: 
 
   1. **political communication**, digital politics, digital humanities, and popular culture, with a comparative and cross-disciplinary perspective;
   2. **computational journalism**, the sociotechnical aspects of digital journalism and the application of emerging technological innovations in digital media;
-  3. **health communication**, the cultural and political factors affecting the effectiveness of health promotional messages 
+  3. **health communication**, social media and health misinformation, the cultural and political factors affecting the processing of health communication 
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
@@ -32,15 +32,15 @@ My substantive research areas include political communication and culture, digit
 
 2. **Zhang, X.** (2021). Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US. *International Communication Gazette. 83*(7). [**Q2 (top 38%) in SSCI** - Communication, 2019 JCR IF = 1.877, Sage Publications Ltd.] 
 
-3. **Zhang, X.** & Li, W. * (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice. 14*(10), 1193-1210. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
-
-4. **Zhang, X.** & Chen, M. (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2020.1824126. [**Q2 (top 30%) in SSCI** - Communication, 2019 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
-
-4. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
+3. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. doi: 10.1080/10410236.2019.1631565. (**Q2 (top 40%) in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
 4. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics. 50*. Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2018 JCR IF = 3.714, Elsevier.]
 
-5. **Zhang, X.** & Ho, J. C. F. (2020). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review.* Online first. doi: 10.1177/0894439320905522. [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2018 JCR IF = 2.922, Sage Publications Ltd.]
+5. **Zhang, X.** & Chen, M. (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2020.1824126. [**Q2 (top 30%) in SSCI** - Communication, 2019 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
+
+6. **Zhang, X.** & Ho, J. C. F. (2020). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review.* Online first. doi: 10.1177/0894439320905522. [**Q1 (top 9%) in SSCI** - Social Sciences Interdisciplinary, 2018 JCR IF = 2.922, Sage Publications Ltd.]
+
+7. **Zhang, X.** & Li, W. * (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice. 14*(10), 1193-1210. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]  (* graduate student co-author)
 
 8. Lin, W.-Y., **Zhang, X.** * , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
 
