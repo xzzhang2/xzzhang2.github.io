@@ -19,5 +19,5 @@ I am the founding Programme Director of [Master of Science in AI and Digital Med
 
 I obtained Ph.D. in Media and Communication (2013) and M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). 
 
-[Updated: Mar 2021]
+[Updated: April 2021]
 

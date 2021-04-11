@@ -4,9 +4,11 @@ title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-I have organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media.
+I have organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media. In terms of knowledge transfer, I have contributed to several professional news media as a commentator. 
 
 ---
+
+### 1. keynote speeches and workshop speakers 
 
 - Jan 2021. Workshop participant. "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](http://www.com.cuhk.edu.hk/en-GB/research-m/visiting-scholar-programme/15-research-tc/1452-visiting-scholar-program-2021-tc). 
 
@@ -29,3 +31,29 @@ I have organized several events, workshops, and seminars on the application of m
 - Oct 2017. Public faculty forum: *The Representation of Data-driven Journalism in the Twittersphere.* Friday 13 October, 12:30–2:00pm, CVA 1022, School of Communication, Hong Kong Baptist University ([A snapshot](https://mailchi.mp/32742cef043f/research-news-for-our-communication-school?e=bdebb12f53)).  
 
 - Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China.
+
+
+### 2. professional media contributions as news commentators 
+
+1.	**Zhang, X**. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期] 
+
+2.	**Zhang, X**. (2013). Four interpretive frames to make sense of Snowden incident: Government-citizen relation, political expression, international relation, and privacy. Media Digest [Hong Kong: Radio Television Hong Kong], 2013(7), 4-5. Full text: http://rthk.hk/mediadigest/20130715_76_123002.html. [張昕之 (2013)。〈斯諾登事件之四重邏輯：政府-公民關係，政治表達，國際關係，與隱私權利〉。 香港電台《傳媒透視》，2013年第7期，頁4-5] 
+
+3.	**Zhang, X**. (2012). The analyze on the TV appreciation index and cognition ratings of Hong Kong TV Drama: 1998-2009. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(6), 16-17. Full text: http://rthk.hk/mediadigest/20120613_76_122880.html. [張昕之 (2012)。〈從電視欣賞指數歷年數據概述香港電視劇集特徵與收視情況〉。 香港電台《傳媒透視》，2012年第6期，頁16-17]
+
+4.	**Zhang, X**. (2012). On the banned TV drama When the Heaven Burns in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(1), 6-7. Full text: http://rthk.hk/mediadigest/20120113_76_122823.html. [張昕之 (2012)。〈簡評香港劇集《天與地》在內地禁播事件〉。 香港電台《傳媒透視》，2012年第1期，頁6-7]
+
+8.	Wang, C., & **Zhang, X**. (2011). The rising cacophony or dominated opinions? Public discussions about Gaddafi on micro-blog. Media Digest [Hong Kong: Radio Television Hong Kong], 2011(9), 12-13. Full text: http://rthk.hk/mediadigest/20110915_76_122789.html. [王成軍，張昕之 (2011)。〈「眾說紛紜」抑或「一言九鼎」〉。 香港電台《傳媒透視》，2011年第9期，頁12-13] 
+
+9.	**Zhang, X**. (2010). A review on the media’s performance during Manila hostage incident. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(9), 3-4. Full text: http://www.rthk.org.hk/mediadigest/20100914_76_122652.html. [張昕之 (2010)。〈媒體、挾持者、政府 ─ 「8•23」菲律賓人質事件反思〉。 香港電台《傳媒透視》，2010年第9期，頁3-4] Note: After the publication of this contribution, this article was featured and cited extensively in a popular deliberation radio program of Radio-1, Radio Television Hong Kong, the Millennium, on September 21, 2010.
+
+10.	**Zhang, X**. (2010). Comparing the content regulations of TV drama between mainland China and Hong Kong: A case of criminal drama. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(4), 4-5. Full text: http://rthk.hk/mediadigest/20100422_76_122599.html. [張昕之 (2010)。〈中港電視劇內容管理管窺：以警匪、犯罪、涉案題材為例〉。 香港電台《傳媒透視》，2010年第4期，頁4-5]
+
+11.	**Zhang, X**. (2009). On the citizen journalism during the “Aug. 8th” Typhoon & Flood Disaster in Taiwan. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(9), 10-11. Full text: http://rthk.hk/mediadigest/20090915_76_122370.html. [張昕之 (2009)。〈風雨同舟．守衛家園—試析台灣公民媒體對「八八水災」的報導〉。 香港電台《傳媒透視》，2009年第9期, 頁10-11] 
+
+12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
+
+
+
+
+

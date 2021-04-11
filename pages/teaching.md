@@ -22,8 +22,8 @@ I am looking for PhD/Mphil students and research assistants working for interdis
 
 |Offering | Course code and title | Level |   
 |--- | --- | --- |
-|2020 Spring |  COMM7410 Computational Journalism | Postgraduate (free elective course for the **MSc in AI and Digital Media**) |
-|2019 Fall |  COMM7340 AI for Digital Media | Postgraduate (core course for the **MSc in AI and Digital Media**) |
+|2020/2021 Spring |  AIDM7410 Computational Journalism | Postgraduate (free elective course for the **MSc in AI and Digital Media**) |
+|2019/2020 Fall |  AIDM7340 AI for Digital Media | Postgraduate (core course for the **MSc in AI and Digital Media**) |
 |2019 Spring | COMM7190 Issues and Cases in Mass Communication | Postgraduate (elective) |
 |2018 Fall | COM5507 (guest at City University of Hong Kong) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate (core course for the **Media and Data Analytics Stream**) |
 |2018 Spring | COMM7210 Research Project | Postgraduate (elective) |

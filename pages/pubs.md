@@ -10,7 +10,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My substantive research areas include political communication and culture, digital journalism, media and public health, and human-machine collaborative creativity, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how emerging information and communication technologies influence people’s communicative behaviors in politics and health in the age of information disorder, and how emerging technologies—especially social media platforms and AI algorithms—are changing the way that news is produced and used by the audience. My major research streams are: 
+My substantive research areas include political communication and culture, digital journalism, media and public health, and human-machine collaborative creativity, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how emerging information and communication technologies influence people’s communicative behaviors in politics and health in the age of information disorder, and how emerging technologies—especially social media platforms and AI algorithms—are changing the way news is produced and used by the audience. My major research streams are: 
 
   1. **political communication**, digital politics, digital humanities, and popular culture, with a comparative and cross-disciplinary perspective;
   2. **computational journalism**, the sociotechnical aspects of digital journalism and the application of emerging technological innovations in digital media;
@@ -73,65 +73,47 @@ My substantive research areas include political communication and culture, digit
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
 
-#### 1B. peer-reviewed publications (5)
+#### 1B. peer-reviewed publications/proceedings (5)
 
 1. Lin, W.-Y. & **Zhang, X.** (2020). Digital politics in mainland China: Participation in an unlikely place, in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
 2. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
 
-2. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
+3. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
 
 4. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
 5. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
-### <a name="reviews"></a>2. professional contributions (12)
+### <a name="reviews"></a>2. selected professional contributions (3)
 
-*Professional Journal Articles, Book Reviews, & Selected Media Contributions*
+*Professional Journal Articles & Book Reviews*
 
 1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf ). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
 2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 
-2.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
-
-4.	**Zhang, X**. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期] 
-
-5.	**Zhang, X**. (2013). Four interpretive frames to make sense of Snowden incident: Government-citizen relation, political expression, international relation, and privacy. Media Digest [Hong Kong: Radio Television Hong Kong], 2013(7), 4-5. Full text: http://rthk.hk/mediadigest/20130715_76_123002.html. [張昕之 (2013)。〈斯諾登事件之四重邏輯：政府-公民關係，政治表達，國際關係，與隱私權利〉。 香港電台《傳媒透視》，2013年第7期，頁4-5] 
-
-6.	**Zhang, X**. (2012). The analyze on the TV appreciation index and cognition ratings of Hong Kong TV Drama: 1998-2009. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(6), 16-17. Full text: http://rthk.hk/mediadigest/20120613_76_122880.html. [張昕之 (2012)。〈從電視欣賞指數歷年數據概述香港電視劇集特徵與收視情況〉。 香港電台《傳媒透視》，2012年第6期，頁16-17]
-
-7.	**Zhang, X**. (2012). On the banned TV drama When the Heaven Burns in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(1), 6-7. Full text: http://rthk.hk/mediadigest/20120113_76_122823.html. [張昕之 (2012)。〈簡評香港劇集《天與地》在內地禁播事件〉。 香港電台《傳媒透視》，2012年第1期，頁6-7]
-
-8.	Wang, C., & **Zhang, X**. (2011). The rising cacophony or dominated opinions? Public discussions about Gaddafi on micro-blog. Media Digest [Hong Kong: Radio Television Hong Kong], 2011(9), 12-13. Full text: http://rthk.hk/mediadigest/20110915_76_122789.html. [王成軍，張昕之 (2011)。〈「眾說紛紜」抑或「一言九鼎」〉。 香港電台《傳媒透視》，2011年第9期，頁12-13] 
-
-9.	**Zhang, X**. (2010). A review on the media’s performance during Manila hostage incident. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(9), 3-4. Full text: http://www.rthk.org.hk/mediadigest/20100914_76_122652.html. [張昕之 (2010)。〈媒體、挾持者、政府 ─ 「8•23」菲律賓人質事件反思〉。 香港電台《傳媒透視》，2010年第9期，頁3-4] Note: After the publication of this contribution, this article was featured and cited extensively in a popular deliberation radio program of Radio-1, Radio Television Hong Kong, the Millennium, on September 21, 2010.
-
-10.	**Zhang, X**. (2010). Comparing the content regulations of TV drama between mainland China and Hong Kong: A case of criminal drama. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(4), 4-5. Full text: http://rthk.hk/mediadigest/20100422_76_122599.html. [張昕之 (2010)。〈中港電視劇內容管理管窺：以警匪、犯罪、涉案題材為例〉。 香港電台《傳媒透視》，2010年第4期，頁4-5]
-
-11.	**Zhang, X**. (2009). On the citizen journalism during the “Aug. 8th” Typhoon & Flood Disaster in Taiwan. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(9), 10-11. Full text: http://rthk.hk/mediadigest/20090915_76_122370.html. [張昕之 (2009)。〈風雨同舟．守衛家園—試析台灣公民媒體對「八八水災」的報導〉。 香港電台《傳媒透視》，2009年第9期, 頁10-11] 
-
-12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
+3.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
 
 ### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations
 
-1. **Zhang, X.** & Zhu, R. (2021, May). Health Journalists’ Social Media Sourcing during the Public Health Emergency: A Network Analytics Approach. Paper to be presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021. 
+1. **Zhang, X.** & Zhu, R. (2021, May). Health journalists’ social media sourcing during the public health emergency: A network analytics approach. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021. 
 
-2. Zhu, R. & **Zhang, X.** (2021, May). How Source-level and Message-level Factors Influence Journalists’ Social Media Visibility during a Public Health Emergency. Paper to be presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021.
+2. Zhu, R. & **Zhang, X.** (2021, May). How source-level and message-level factors influence journalists’ social media visibility during a public health emergency. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021.
 
-2. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+2. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-3. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+3. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-3. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+3. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-4. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+4. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-5. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper presented at the 70th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+5. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-6. **Zhang, X.** (2019, May). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
+6. **Zhang, X.** (2019, May). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019. 
 
 5. Ho, J. C. F. & **Zhang, X.** (2019, May). Marketing virtual reality games with text: A text mining analysis of game descriptions on *Steam*. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019.
 
