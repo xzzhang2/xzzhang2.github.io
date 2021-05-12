@@ -5,7 +5,7 @@ description: Xinzhi Zhang's publications
 ---
 
 - ORCID: [0000-0003-3479-9327](https://orcid.org/0000-0003-3479-9327) 
-- Academic Profiles: [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) | [Publons](https://publons.com/researcher/1613458/xinzhi-zhang) 
+- Academic Profiles: [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [Publons](https://publons.com/researcher/1613458/xinzhi-zhang) 
 
 ---
 
