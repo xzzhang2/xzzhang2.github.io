@@ -4,7 +4,9 @@ title: workshops
 description: Xinzhi Zhang's workshops, talks, and tutorials
 ---
 
-I have organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media. In terms of knowledge transfer, I have contributed to several professional news media as a commentator. 
+I have organized several events, workshops, and seminars on the application of media data analytics, storytelling, society well-being, and digital media. 
+
+In terms of knowledge transfer, I have contributed to several professional news media as a commentator. 
 
 ---
 
@@ -12,7 +14,7 @@ I have organized several events, workshops, and seminars on the application of m
 
 - Jan 2021. Workshop participant. "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](http://www.com.cuhk.edu.hk/en-GB/research-m/visiting-scholar-programme/15-research-tc/1452-visiting-scholar-program-2021-tc). 
 
-- Sep 2020. Keynote speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
+- Sep 2020. Invited keynote speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
 
 - Apr 2020. Member of the Organizing Committee and Workshop Speaker for *2020 Global Virtual Hack and Design Challenge – Empower Community during and after COVID-19* - A virtual design hackathon on the application of digital media, design thinking, computational thinking, and group collaboration for society well-being. (The [Event page](https://www.comp.hkbu.edu.hk/designworkshop/2020virtualhack/) and [press release](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-virtual-competition-connects-global-youth-to-counter-the-pandemic-with-innovative-ideas/)).  
 

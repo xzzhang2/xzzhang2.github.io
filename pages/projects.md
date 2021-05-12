@@ -16,7 +16,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
  1. 2021- 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. *Sci-fi blockbusters' representation of female cyborgs and its impacts on audiences' perception of human-machine communication*. [88,200 HKD]. On-going. 
 
- 2. Jan 2021 - Aug 2021. Role: Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the Policy Innovation and Co-ordination Office (**PICO**) of the Government of the Hong Kong SAR, *Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.* [356,972 HKD]. On-going. 
+ 2. Jan 2021 - Feb 2022. Role: Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the Policy Innovation and Co-ordination Office (**PICO**) of the Government of the Hong Kong SAR, *Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.* [356,972 HKD]. On-going. 
 
  3. Sep 2020 - Feb 2022. Role: Principal Investigator (**PI**). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420. *Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.* [408,256 HKD]. On-going.  
 
@@ -62,6 +62,5 @@ I have collaborated with scholars from several universities, including Michigan 
  7. Nov 2011. Research Activities Fund, Chow Yei Ching School of Graduate Studies, City University of Hong Kong, for the 2011 Annual Conference of the National Communication Association (**NCA**), New Orleans, the U.S. [10,000 HKD].
 
  8. Sep 2009 - Aug 2013. University Grants Council (UGC) Scholarship, Hong Kong.
-
 
 --
