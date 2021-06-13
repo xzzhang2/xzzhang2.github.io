@@ -25,9 +25,9 @@ My substantive research areas include political communication and culture, digit
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. SSCI/SCI journal articles (23)
+#### 1A. SSCI/SCI journal articles (23) 
 
-1. **Zhang, X.** & Zhu, R. (in press). How source-level and message-level factors influence journalists’ social media visibility during a public health crisis. *Journalism*. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
+1. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
 
 2. Liang, H. & **Zhang, X.** (2021). Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong. *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2019 JCR IF = 4.846, Oxford University Press.] 
 
@@ -87,7 +87,7 @@ My substantive research areas include political communication and culture, digit
 5. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
-### <a name="reviews"></a>2. selected professional contributions (3)
+### <a name="reviews"></a>2. professional contributions (3)
 
 *Professional Journal Articles & Book Reviews*
 
