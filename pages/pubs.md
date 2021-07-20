@@ -9,11 +9,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My substantive research areas include political communication and culture, digital journalism, media and public health, and human-machine communication , using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how emerging information and communication technologies influence people’s communicative behaviors in politics and health in the age of information disorder, and how emerging technologies—especially social media platforms and AI algorithms—are changing the way news is produced and processed by the audiences. My major research streams are: 
-
-  1. **political communication**, digital politics and culture, the social consequences of AI and digital media; 
-  2. **computational journalism**, the sociotechnical aspects of digital journalism, AI-empowered social media platforms and content production; human-machine communication and collaboration;
-  3. **health communication**, social media and health misinformation, the cultural and political factors affecting the processing of health communication 
+My substantive research areas include political communication and culture, digital journalism, media and public health, and human-machine communication, using computational methods (i.e., social network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and AI algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
@@ -29,7 +25,7 @@ My substantive research areas include political communication and culture, digit
 
 1. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
 
-2. Liang, H. & **Zhang, X.** (2021). Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong. *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2019 JCR IF = 4.846, Oxford University Press.] 
+2. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2019 JCR IF = 4.846, Oxford University Press.] 
 
 3. **Zhang, X.** (2021). [Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US](https://journals.sagepub.com/doi/10.1177/17480485211014372). *International Communication Gazette. 83*(7). Online first. doi: 10.1177/17480485211014372. [**Q2 (top 38%) in SSCI** - Communication, 2019 JCR IF = 1.877, Sage Publications Ltd.] 
 
@@ -74,9 +70,11 @@ My substantive research areas include political communication and culture, digit
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
 
-#### 1B. peer-reviewed publications/proceedings (5)
+#### 1B. peer-reviewed publications/book chapters/proceedings (5)
 
-1. Lin, W.-Y. & **Zhang, X.** (2020). Digital politics in mainland China: Participation in an unlikely place, in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
+1. Zhang, Z., **Zhang, X.**, & Chen, L. (2021). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+
+2. Lin, W.-Y. & **Zhang, X.** (2020). Digital politics in mainland China: Participation in an unlikely place, in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
 2. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
 
