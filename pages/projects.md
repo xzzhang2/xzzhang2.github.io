@@ -12,6 +12,13 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 </ul>
 
 
+**Research Highlights (Sep 2021)**
+
+I have been the **PI** of two projects funded by the General Research Fund (**GRF**) by the University Grants Committee of the Hong Kong SAR, an internationally competitive funding scheme. In one completed project, I worked with Professor William Dutton at Oxford and Dr. Wan-Ying Lin at the Hong Kong CityU to investigate how people’s self-censorship and active information repertoire filtration on social media affect political engagement in a polarized context with mixed-methods (virtual focus-group interviews plus a two-wave representative panel survey). 
+
+My another ongoing GRF-funded project is an international collaborative and cross-disciplinary project lasting for 18 months (Sep 2020 - Feb 2022). I am working with a cross-disciplinary and cross-country team involving scholars from Michigan State University (in the US), the University of Groningen (in the Netherlands), Hong Kong Baptist University, and Hong Kong Polytechnic University, as well as experts in media psychology, data science, human-computer interaction and user experience, public communication and public policy, and sociolinguistics. The project aims to assess why corrective messages (i.e., fact-checking messages that are designed to clarify a false argument or fabricated information) may fail to counteract (and even backfire) the COVID-19 misinformation (messages containing untrue and fabricated information) on social media. Comparative survey experiments using representative samples are to be carried out in the three societies. 
+
+
 ### <a name="researchprojs"></a>1. research grants 
 
  1. May 2021 - Apr 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. *Sci-fi blockbusters' representation of female cyborgs and its impacts on audiences' perception of human-machine communication*. [88,200 HKD]. On-going. 

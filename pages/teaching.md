@@ -33,31 +33,26 @@ I am looking for PhD/Mphil students and research assistants working for interdis
 |Proposed | JOUR4046 Integrated Data-Driven Storytelling | Undergraduate (core course for Data and Media Communication Concentration) |
 
 
-### <a name="hkbu_rds"></a>research supervision @ HKBU (2016 - present)
+### <a name="hkbu_rds"></a>research supervision @ HKBU (2018 - present)
 
 1. Research students
- - Xu Zhang (Principal supervisor, HKBU Talent 100 PhD Scheme, Ph.D., 2021 - )
- - Xiaohang Deng (co-supervision, M.Phil., 2020 - )
- - Zhi Lin (co-supervision, M.Phil., 2019 - )
- - Wenshu Li (co-supervision, Ph.D., 2018 - )
+ - Rui Zhu (principal supervision, M.Phil., 2021 - ) *in-progress* 
+ - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *in-progress* 
+ - Zhi Lin (co-supervision, M.Phil., 2019 - ) *Graduated* 
+ - Wenshu Li (co-supervision, Ph.D., 2018 - ) *in-progress, ABD* 
 
 2. Research intern and research assistants
+ - Yuanyuan Chang (2021 - )
  - Hiu Yan Ping (2021 - 2021)
  - Rui Zhu (2020 - 2021)
  - Minyi Chen (2019 - 2020)
- - Chang Ding (2019 - 2020)
  - Xiaohang Deng (2019 - 2020)
- - Yizhu Zhu (2019 - 2020)
  - Jingwen Ma (2019 - 2020)
  - Can He (2018 - 2019)
- - Chen Xu (2018 - 2019)
- - Jiaxuan Jiang (2019)
- - Yucan Xu (2019)
  - Qile Wang (2018 - 2019)
  - Jiehu Yuan (2018 - 2019)
  - Mengyi Zhang (2017 - 2018)
  - Wanting Xu (2017 - 2018)
- - Ge Song (2016 - 2017)
 
 
 ### <a name="polyu_course"></a>courses @ PolyU SPEED (2014 - 2016)
