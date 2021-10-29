@@ -8,7 +8,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 <ul>
     <li><a href="#researchprojs">1. research grants</a></li>
     <li><a href="#collaboration">2. research collaborators</a></li>
-    <li><a href="#othergrants">3. study & travel grants</a></li>
+    <li><a href="#othergrants">3. study & development grants</a></li>
 </ul>
 
 ### <a name="researchprojs"></a>1. research grants 

@@ -6,7 +6,7 @@ description: Xinzhi Zhang's teaching record
 
 I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Computational Journalism*, *Social Media Data Acquisition and Processing*, and *Integrated Data-Driven Storytelling*. 
 
-I am looking for PhD/Mphil students and research assistants working for interdisciplinary projects related to computational journalism and data-driven storytelling, social media data analytics, and digital popular culture. Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).  
+I am looking for PhD/Mphil students and research interns working for interdisciplinary projects related to computational journalism and data-driven storytelling, social media data analytics, and digital popular culture. Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).  
 
 ---
 

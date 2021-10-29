@@ -9,7 +9,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My substantive research areas spans political communication and culture, digital journalism, media and public health, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
+My substantive research areas span political communication and culture, digital journalism, digital media and public health, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
@@ -23,7 +23,7 @@ My substantive research areas spans political communication and culture, digital
 
 #### 1A. SSCI/SCI journal articles (23) 
 
-1. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
+1. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
 
 2. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2019 JCR IF = 4.846, Oxford University Press.] 
 
