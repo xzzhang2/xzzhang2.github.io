@@ -9,7 +9,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My substantive research areas span political communication and culture, digital journalism, digital media and public health, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
+My substantive research areas include political communication and culture, digital journalism, digital media and public health, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
