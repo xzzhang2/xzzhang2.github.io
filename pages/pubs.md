@@ -9,7 +9,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My substantive research areas include political communication and culture, digital journalism, digital media and public health, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
+My research areas include political communication, digital journalism, health communication, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and distributed to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
@@ -72,7 +72,7 @@ My substantive research areas include political communication and culture, digit
 
 #### 1B. peer-reviewed publications/book chapters/proceedings (6)
 
-1. Zhang, Z., **Zhang, X.**, & Chen, L. (2021). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+1. Zhang, Z., **Zhang, X.**, & Chen, L. (2021). [Informing the design of a news chatbot](https://dl.acm.org/doi/10.1145/3472306.3478358). [IVA'21](https://dl.acm.org/conference/iva): The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 
 2. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
@@ -89,7 +89,7 @@ My substantive research areas include political communication and culture, digit
 
 *Professional Journal Articles & Book Reviews*
 
-1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf ). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
+1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
 2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 

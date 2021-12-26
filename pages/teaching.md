@@ -38,6 +38,7 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 1. Research students
  - Rui Zhu (principal supervision, M.Phil., 2021 - ) *in-progress* 
  - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *in-progress* 
+ - Xiaohang Deng (co-supervision, M.Phil., 2020 - ) *in-progress, ABD* 
  - Zhi Lin (co-supervision, M.Phil., 2019 - ) *Graduated* 
  - Wenshu Li (co-supervision, Ph.D., 2018 - ) *in-progress, ABD* 
 
