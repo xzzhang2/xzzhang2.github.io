@@ -25,3 +25,4 @@ group :jekyll_plugins do
    gem "redcarpet"
    gem "jekyll-data"
 end
+
