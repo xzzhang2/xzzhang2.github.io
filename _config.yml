@@ -32,13 +32,50 @@ favicon:
   theme: ffffff
 
 # Build settings
+
+# masked 2021-01-14
 # markdown: redcarpet
-markdown: kramdown
-redcarpet:
-  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+#markdown: kramdown
+#redcarpet:
+#  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+#plugins:
+#  - jekyll-feed
+#exclude:
+#  - jekyll_build.sh
+#  - Gemfile
+#  - Gemfile.lock
+
+
+
+
+
+
+
+
+
+
+## added 2021-01-14
+#DO NOT EDIT BEYOND THIS POINT
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
 plugins:
-  - jekyll-feed
-exclude:
-  - jekyll_build.sh
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+
