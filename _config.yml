@@ -36,7 +36,7 @@ favicon:
 markdown: kramdown
 redcarpet:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - jekyll_build.sh
