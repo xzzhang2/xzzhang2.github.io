@@ -1,0 +1,76 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% if page.seo.title %}
+  <title>{{ page.seo.title }}</title>
+  {% else %}
+  <title>{{ page.title | append: " | " | default:"" }}{% include _i18n/i18n.html value=site.title %}</title>
+  {% endif %}
+
+  {% if page.seo.description %}
+  <meta name="description" content="{{ page.seo.description | truncate: 160 }}">
+  {% elsif page.summary %}
+  <meta name="description" content="{{ page.summary | truncate: 160 }}">
+  {% else %}
+  <meta name="description" content="{% include _i18n/i18n.html value=site.description %}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{% include _i18n/i18n.html value=site.title %}" href="{{ "/feed.xml" | relative_url }}">
+
+  {% capture favicons %}
+  {% for file in site.static_files %}
+  {% if file.path contains "apple-touch-icon.png" %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ file.path }}">
+  {% endif %}
+
+  {% if file.path contains "favicon-16x16.png" %}
+  <link rel="icon" type="image/png" href="{{ file.path }}" sizes="16x16">
+  {% endif %}
+
+  {% if file.path contains "favicon-32x32.png" %}
+  <link rel="icon" type="image/png" href="{{ file.path }}" sizes="32x32">
+  {% endif %}
+
+  {% if file.path contains "manifest.json" %}
+  <link rel="manifest" href="{{ file.path }}">
+  {% endif %}
+
+  {% if file.path contains "safari-pinned-tab.svg" %}
+  <link rel="mask-icon" href="{{ file.path }}" color="#{{ site.favicon.safari | default:"ffffff" }}">
+  {% endif %}
+
+  {% endfor %}
+  {% endcapture %}
+  {{ favicons | strip_newlines | lstrip }}
+  <meta name="theme-color" content="#{{ site.favicon.theme | default:"ffffff" }}">
+
+  {% assign pagename = page.path | split:"." | first %}
+
+  {% if page.layout == "post" %}
+    {% assign i18n_posts = site.posts | where_exp:"p","p.path contains pagename" %}
+  {% else %}
+    {% assign i18n_posts = site.pages | where_exp:"p","p.path contains pagename" %}
+  {% endif %}
+
+  {% for t_lang in site.langs %}
+    {% unless t_lang == plang %}
+      {% assign t = i18n_posts | where:"lang",t_lang | first %}
+
+      {% if t %}
+      <link rel="alternate" hreflang="{{ t_lang }}" href="{{ site.url }}{{ t.url }}" />
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+
+  {% if site.piwik %}
+  {% include piwik.html %}
+  {% endif %}
+
+  {% if jekyll.environment == 'production' %}
+  {% endif %}
+</head>

@@ -1,0 +1,44 @@
+# General settings
+theme: academic
+title: Xinzhi Zhang
+title_html: "<b>X</b>inzhi<b><span class=\"invisible\"> </span> Zhang</b>"
+description: Dr. Xinzhi Zhang is a researcher on digital politics and computational communication research.
+cc: by-nc-sa
+baseurl: ""
+url: "http://drxinzhizhang.com"
+
+langs: ["en"]
+
+# Author
+author: Xinzhi Zhang
+email: xzzhang2@gmail.com
+curriculum:
+  name: Curriculum Vitae
+  url: assets/CV_ZHANG_Xinzhi_Apr2022.pdf
+shortbio: Xinzhi Zhang is a researher on digital politics and computational communication research.
+twitter_username: xin_zhi_zhang
+github_username: xzzhang2
+linkedin_username: xinzhi-zhang-0621a77b
+#author_website:
+
+
+# Nav menu
+
+
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+# Build settings
+# markdown: redcarpet
+markdown: kramdown
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock

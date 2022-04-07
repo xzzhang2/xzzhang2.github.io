@@ -1,0 +1,26 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% assign nblangs = site.langs | size %}
+<span class="nav-list-title">{{ site.data.academic_i18n.menu[plang] }}</span>
+<ul class="nav-list {{ include.class }}">
+{% for link in site.nav_ext_links %}
+  {% if link.url and link.name %}
+  <li><a target="_blank" class="page-link" href="{% include _i18n/i18n.html value=link.url %}">
+      {% include _i18n/i18n.html value=link.name %}
+  </a></li>
+  {% endif %}
+{% endfor %}
+
+{% if nblangs > 1 %}
+  {% assign pages = site.pages | where:"lang",plang %}
+{% else %}
+  {% assign pages = site.pages %}
+{% endif %}
+
+{% for my_page in pages %}
+{% unless my_page.invisible %}
+  {% if my_page.title %}
+  <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+  {% endif %}
+{% endunless %}
+{% endfor %}
+</ul>

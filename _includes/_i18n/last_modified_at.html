@@ -1,0 +1,29 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% assign object = include.object %}
+
+{% if object.last_modified_at %}
+
+
+  {% assign last = object.last_modified_at | date: '%Y%m%d' %}
+  {% assign created = object.date | date: '%Y%m%d' %}
+
+  {% if last != created %}
+    <span class="last-update">·
+
+    {% if site.repo %}
+    <a title="{{ site.data.academic_i18n.revhistory[plang] }}"
+       href="{{site.repo}}/commits/master/{{object.path}}">
+    {% endif %}
+
+    {{ site.data.academic_i18n.lastupdated[plang] }}
+    {% include _i18n/date.html date=object.last_modified_at %}
+
+    {% if site.repo %}
+    </a>
+    {% endif %}
+
+    </span>
+  {% endif %}
+
+
+{% endif %}

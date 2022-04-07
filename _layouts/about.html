@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="about-col-wrapper">
+  <div class="about-col about-col-1">
+
+    {% if site.github_username %}
+    <img class="user-picture" src="https://github.com/{{ site.github_username }}.png" alt="{{ site.author }}">
+    {% endif %}
+
+    <ul class="contact-list">
+      {% if site.email %}
+      <li>
+        {% include _icons/email.html username=site.email %}
+      </li>
+      {% endif %}
+
+      {% if site.curriculum.url %}
+      <li>
+        {% include _icons/file.html curriculum=site.curriculum %}
+      </li>
+      {% endif %}
+    </ul>
+
+    <ul class="contact-list">
+      {% if site.author_website %}
+      <li>
+        {% include _icons/website.html url=site.author_website %}
+      </li>
+      {% endif %}
+    </ul>
+
+    {% include contactlist.html %}
+
+  </div>
+  <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+  </article>
+</div>

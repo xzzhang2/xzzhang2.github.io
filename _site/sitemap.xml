@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/archive.html</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang=""
+                href="http://localhost:4000/archive.html"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang=""
+                href="http://localhost:4000/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pages/projects.html</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang=""
+                href="http://localhost:4000/pages/projects.html"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pages/pubs.html</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang=""
+                href="http://localhost:4000/pages/pubs.html"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pages/teaching.html</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang=""
+                href="http://localhost:4000/pages/teaching.html"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pages/tutorials.html</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang=""
+                href="http://localhost:4000/pages/tutorials.html"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+
+  
+
+
+        
+
+
+</urlset>

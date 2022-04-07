@@ -1,0 +1,11 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+<a href="{% include _i18n/i18n.html value=include.curriculum.url %}" title="Curriculum Vitae"><span class="icon icon--cv">{% include _icons/file.svg %}</span>
+  <span class="username">
+    {% if include.curriculum.name %}
+    {% include _i18n/i18n.html value=include.curriculum.name %}
+    {% else %}
+    {{ site.data.academic_i18n.cv[plang] }}
+    {% endif %}
+  </span>
+</a>
+

@@ -1,0 +1,17 @@
+{% capture text %}
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% assign val = include.value %}
+
+{% if val[plang] %}
+  {% assign v = val[plang] %}
+{% else %}
+  {% assign v = val %}
+{% endif %}
+
+{% if include.escape %}
+  {{ v | escape | strip_newlines }}
+{% else %}
+  {{ v | strip_newlines }}
+{% endif %}
+{% endcapture %}
+{{ text | strip_newlines }}
