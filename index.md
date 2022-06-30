@@ -7,7 +7,7 @@ seo:
 ---
 
 
-Welcome. I am Xinzhi Zhang, currently an Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
+Welcome. I am Xinzhi Zhang, currently an Assistant Professor at the [Department of Journalism](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/) of [Hong Kong Baptist University](http://www.hkbu.edu.hk).   
 
 My research interests include political communication, digital journalism, health communication, and computational social science. My research is motivated by two lines of inquiry: (1) how people receive, process, and engage with information on politics and health on digital media and (2) how technologies—especially social media platforms and algorithms—are changing how news is produced and delivered to audiences. I am devoting myself to the emerging computational communication research, using online digital footprint data and computational methods (network analysis, text mining, and machine learning) for theory-driven research. My research profiles are on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [Publons](https://publons.com/researcher/1613458/xinzhi-zhang), [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3), and [Scopus](https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=55330999000&origin=inward). 
 
