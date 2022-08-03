@@ -9,7 +9,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My research areas include political communication, digital journalism, digital media and public health campaigns, and human-machine communication, using computational methods (i.e., network analysis, text mining, and applied machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
+My research areas include political communication, digital journalism, digital public health campaigns, and human-machine communication, using computational methods (i.e., network analysis, text mining, and applied machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
