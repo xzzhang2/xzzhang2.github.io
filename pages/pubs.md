@@ -5,11 +5,11 @@ description: Xinzhi Zhang's publications
 ---
 
 - ORCID: [0000-0003-3479-9327](https://orcid.org/0000-0003-3479-9327) 
-- Academic Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [Publons](https://publons.com/researcher/1613458/xinzhi-zhang) 
+- Academic Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [HKBU_Scopus](https://scholars.hkbu.edu.hk/en/persons/xinzhi-zhang-11) 
 
 ---
 
-My substantive research areas include political communication and culture, digital journalism, digital media and public health, and human-machine communication, using computational methods (i.e., network analysis, text mining, and machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies—especially social media platforms and algorithms—influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
+My research areas include political communication, digital journalism, digital media and public health campaigns, and human-machine communication, using computational methods (i.e., network analysis, text mining, and applied machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
@@ -21,11 +21,15 @@ My substantive research areas include political communication and culture, digit
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. SSCI/SCI journal articles (23) 
+#### 1A. SSCI/SCI journal articles (25) 
 
-1. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
+1. **Zhang, X.** & Zhu, R. (2022). Health journalists’ social media sourcing during a public health emergency. *Journalism Practice*. [Q2 (top 30%) in SSCI - Communication, 2021 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]
 
-2. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2019 JCR IF = 4.846, Oxford University Press.] 
+2. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 14%) in SSCI** - Communication, 2021 JCR IF = 4.249, Sage Publications Ltd.]   
+
+3. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 15%) in SSCI** - Communication, 2019 JCR IF = 3.179, Sage Publications Ltd.] 
+
+4. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2019 JCR IF = 4.846, Oxford University Press.] 
 
 3. **Zhang, X.** (2021). [Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US](https://journals.sagepub.com/doi/10.1177/17480485211014372). *International Communication Gazette. 83*(7). Online first. doi: 10.1177/17480485211014372. [**Q2 (top 38%) in SSCI** - Communication, 2019 JCR IF = 1.877, Sage Publications Ltd.] 
 
@@ -70,15 +74,17 @@ My substantive research areas include political communication and culture, digit
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q2 in SSCI** – Communication, 2013 JCR IF = 1.128, Elsevier)
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings (6)
+#### 1B. peer-reviewed publications/book chapters/proceedings (7)
 
-1. Zhang, Z., **Zhang, X.**, & Chen, L. (2021). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+1. **Zhang, X.** & Fu, X. (2022). Fact-checkers’ usage of clickbait element on social media and its effects on user engagement. Global Journal of Media Studies. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
 
-2. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
+2. Zhang, Z., **Zhang, X.**, & Chen, L. (2021). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 
-3. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
+3. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
-3. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
+4. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
+
+5. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
 
 4. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
@@ -87,22 +93,22 @@ My substantive research areas include political communication and culture, digit
 
 ### <a name="reviews"></a>2. professional contributions (3)
 
-*Professional Journal Articles & Book Reviews*
-
 1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf ). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
 2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 
-3.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
+3.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
 
 ### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations
 
-1. **Zhang, X.** & Fu, X. (2022, May). Codes, collaboration, and communities: A network analysis of the online communities of data-driven journalism on a social coding platform. Paper to be presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+1. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
 
-2. **Zhang, X.**, Lin, W.-Y., Dutton, W. (2022, May). The political consequences of online disagreement: The filtering of communication networks in a polarized political context. Paper to be presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+2. **Zhang, X.** & Fu, X. (2022, May). Codes, collaboration, and communities: A network analysis of the online communities of data-driven journalism on a social coding platform. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
 
-3. Fu, X., **Zhang, X.**, Zhu, R., Ping, H., & Chang, Y. (2022, May). “FALSE! Read about it here!” Fact-checkers’ social media language feature and its effects on user engagement. Paper to be presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+3. **Zhang, X.**, Lin, W.-Y., Dutton, W. (2022, May). The political consequences of online disagreement: The filtering of communication networks in a polarized political context. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+
+4. Fu, X., **Zhang, X.**, Zhu, R., Ping, H., & Chang, Y. (2022, May). “FALSE! Read about it here!” Fact-checkers’ social media language feature and its effects on user engagement. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
 
 4. **Zhang, X.** & Zhu, R. (2021, May). Health journalists’ social media sourcing during the public health emergency: A network analytics approach. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021. 
 
