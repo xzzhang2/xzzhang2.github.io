@@ -4,7 +4,7 @@ title: teaching
 description: Xinzhi Zhang's teaching record
 ---
 
-I have taught and proposed several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *AI for Digital Media*, *Computational Journalism*, *Social Media Data Acquisition and Processing*, and *Integrated Data-Driven Storytelling*. 
+I have taught several interdisciplinary courses on digital media studies, multimedia storytelling, and the application of data science in media communication, such as *Computational Communication Research*, *Computational Journalism*, *Social Media Data Acquisition and Processing*, and *Integrated Data-Driven Storytelling*. 
 
 I am looking for PhD/Mphil students and research interns working for interdisciplinary projects related to computational journalism and data-driven storytelling, social media data analytics, and digital popular culture. Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).  
 
@@ -12,7 +12,7 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 
 <ul class="nav">
     <li><a href="#hkbu_course">courses @ HKBU (2016 - present)</a></li>
-    <li><a href="#hkbu_rds">research supervision @ HKBU (2016 - present)</a></li>
+    <li><a href="#hkbu_rds">research supervision @ HKBU (2018 - present)</a></li>
     <li><a href="#polyu_course">courses @ PolyU (2014 - 2016)</a></li>
     <li><a href="#cityu_courese">courses @ CityU (2013 - 2014) </a></li>
 </ul>
@@ -36,13 +36,14 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 ### <a name="hkbu_rds"></a>research supervision @ HKBU (2018 - present)
 
 1. Research students
- - Rui Zhu (principal supervision, M.Phil., 2021 - ) *in-progress* 
- - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *in-progress* 
- - Zhi Lin (co-supervision, M.Phil., 2019 - ) *Graduated* 
+ - Rui Zhu (principal supervision, Ph.D., 2021 - ) *in-progress* 
+ - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *in-progress, ABD* 
+ - Xiaohang Deng (co-supervision, M.Phil., 2020 - 2022) *Graduated*
+ - Zhi Lin (co-supervision, M.Phil., 2019 - 2021) *Graduated* 
  - Wenshu Li (co-supervision, Ph.D., 2018 - ) *in-progress, ABD* 
 
 2. Research intern and research assistants
- - Yuanyuan Chang (2021 - )
+ - Yuanyuan Chang (2021 - 2021)
  - Hiu Yan Ping (2021 - 2021)
  - Rui Zhu (2020 - 2021)
  - Minyi Chen (2019 - 2020)
