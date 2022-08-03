@@ -1,5 +1,5 @@
 # General settings
-theme: academic
+theme:
 title: Xinzhi Zhang
 title_html: "<b>X</b>inzhi<b><span class=\"invisible\"> </span> Zhang</b>"
 description: Dr. Xinzhi Zhang is a researcher on digital politics and computational communication research.
