@@ -19,7 +19,7 @@ I am the founding Programme Director of [Master of Science (MSc) in AI and Digit
 
 I am the recipient of **HKBU's Performance Award as Young Researcher** in 2021. I am also the recipient of **HKBU's Performance Award in Teaching** in 2022. 
 
-I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current), an international leading journal in digital journalism studies. 
+I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current).  
 
 I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). 
 
