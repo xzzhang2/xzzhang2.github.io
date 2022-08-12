@@ -7,7 +7,7 @@ description: Xinzhi Zhang's Chinese biography
 
 您好！ 我是张昕之。 这是我的中文简介。 
 
-我现为香港浸会大学传理学院互动媒体系助理教授，同时担任传理学院[人工智能与数码媒体理学硕士专业]https://gs.hkbu.edu.hk/programmes/master-of-science-msc-in-ai-and-digital-media) 的课程主任。 
+我现为香港浸会大学传理学院互动媒体系助理教授，同时担任传理学院[人工智能与数码媒体理学硕士专业](https://gs.hkbu.edu.hk/programmes/master-of-science-msc-in-ai-and-digital-media) 的课程主任。 
 
 我的研究领域包括计算传播学、新媒体的社会与心理影响、数字新闻学、以及公共健康传播，采用的方法包括计算方法（如社会网络分析、文本挖掘、以及机器学习）、在线实验、以及跨地区社会调查等。 
 
