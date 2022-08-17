@@ -11,31 +11,17 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 ---
 
 <ul class="nav">
-    <li><a href="#hkbu_course">courses @ HKBU (2016 - present)</a></li>
     <li><a href="#hkbu_rds">research supervision @ HKBU (2018 - present)</a></li>
+    <li><a href="#hkbu_course">courses @ HKBU (2016 - present)</a></li>
     <li><a href="#polyu_course">courses @ PolyU (2014 - 2016)</a></li>
     <li><a href="#cityu_courese">courses @ CityU (2013 - 2014) </a></li>
 </ul>
 
 
-### <a name="hkbu_course"></a>courses @ HKBU (2016 - present)
-
-|Offering | Course code and title | Level |   
-|--- | --- | --- |
-|2020/2021 Spring |  AIDM7410 Computational Journalism | Postgraduate (free elective course for the **MSc in AI and Digital Media**) |
-|2019/2020 Fall |  AIDM7340 AI for Digital Media | Postgraduate (core course for the **MSc in AI and Digital Media**) |
-|2019 Spring | COMM7190 Issues and Cases in Mass Communication | Postgraduate (elective) |
-|2018 Fall | COM5507 (guest at City University of Hong Kong) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate (core course for the **Media and Data Analytics Stream**) |
-|2018 Spring | COMM7210 Research Project | Postgraduate (elective) |
-|2017-2018 | JOUR4036/JOUR3137 Communication Theory | Undergraduate (journalism major core) |
-|Proposed | COMM7840 Algorithmic Culture | Postgraduate (elective) |
-|Proposed | COMM7780 Big Data Analytics for Media and Communication | Postgraduate (elective) |
-|Proposed | JOUR4046 Integrated Data-Driven Storytelling | Undergraduate (core course for Data and Media Communication Concentration) |
-
-
 ### <a name="hkbu_rds"></a>research supervision @ HKBU (2018 - present)
 
 1. Research students
+ - Yitong Gu (principal supervision, Ph.D., Awardee of the University Transdisciplinary Research Labs Scholarship, 2022 - ) *in-progress* 
  - Rui Zhu (principal supervision, Ph.D., 2021 - ) *in-progress* 
  - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *in-progress, ABD* 
  - Xiaohang Deng (co-supervision, M.Phil., 2020 - 2022) *Graduated*
@@ -56,6 +42,18 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
  - Wanting Xu (2017 - 2018)
 
 
+### <a name="hkbu_course"></a>courses @ HKBU (2016 - present)
+
+|Course code and title | Level |   
+| --- | --- |
+| AIDM7460 Digital Media Research Project | Postgraduate | 
+| AIDM7410 Computational Journalism | Postgraduate |
+| AIDM7340 AI for Digital Media | Postgraduate  |
+| COMM7190 Issues and Cases in Mass Communication | Postgraduate |
+| COM5507 (guest at City University of Hong Kong) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
+| JOUR4036/JOUR3137 Communication Theory | Undergraduate |
+
+
 ### <a name="polyu_course"></a>courses @ PolyU SPEED (2014 - 2016)
 
 | Offering | Course code and title |   
@@ -67,6 +65,7 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 | 2014-16 | SPD2314 Culture and Ways of Life (subject leader) |
 | 2014-16 | SPD2312 Contemporary China  |
 | 2014-16 | SPD2303 Introduction to Communication |
+
 
 ### <a name="cityu_courese"></a>courses @ CityU (2013 - 2014)
 
