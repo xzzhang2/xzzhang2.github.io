@@ -23,7 +23,7 @@ My research areas include political communication, digital journalism, digital p
 
 #### 1A. SSCI/SCI journal articles (25) 
 
-1. **Zhang, X.** & Zhu, R. (2022). Health journalists’ social media sourcing during a public health emergency. *Journalism Practice*. [Q2 (top 30%) in SSCI - Communication, 2021 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]
+1. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during a public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. [Q2 (top 30%) in SSCI - Communication, 2021 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]
 
 2. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 14%) in SSCI** - Communication, 2021 JCR IF = 4.249, Sage Publications Ltd.]   
 
