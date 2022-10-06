@@ -27,7 +27,8 @@ My research areas include political communication, digital journalism, digital p
 
 2. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
 
-3. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]   
+3. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.] 
+
 4. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
 
 4. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2020 JCR IF = 7.270, Oxford University Press.] 
