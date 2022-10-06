@@ -19,8 +19,8 @@ I am the recipient of **HKBU's Performance Award as Young Researcher** in 2021. 
 
 I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current).  
 
-I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk).
+I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I have been a Visiting Scholar at the [University of California, Davis](https://www.ucdavis.edu/) in 2022. 
 
-[Updated: Sep 2022] 
+[Updated: Oct 2022] 
 
 
