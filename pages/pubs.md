@@ -23,9 +23,9 @@ My research areas include political communication, digital journalism, digital p
 
 #### 1A. SSCI/SCI journal articles (27)
 
-1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (in press). News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots. *Digital Journalism*. [**Q1 (5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (in press). News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots. *Digital Journalism*. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
-2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 in SSCI** - Social Science Interdisciplinary, 2021 JCR IF = 9.14, Elsevier.] 
+2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
 
 3. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
 
@@ -78,9 +78,11 @@ My research areas include political communication, digital journalism, digital p
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q1 (18%) in SSCI** – Communication, 2012 JCR IF = 1.594, Elsevier)
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings (8)
+#### 1B. peer-reviewed publications/book chapters/proceedings (9)
 
 1. **Zhang, X.** & Fu, X. (2022). Fact-checkers’ usage of clickbait element on social media and its effects on user engagement. Global Journal of Media Studies. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
+
+2. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July) A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation. In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
 
 2. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 

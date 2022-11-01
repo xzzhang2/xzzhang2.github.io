@@ -22,11 +22,12 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 
 1. Research students
  - Yitong Gu (principal supervision, Ph.D., Awardee of the University Transdisciplinary Research Labs Scholarship, 2022 - ) *in-progress* 
+ - Tianlun Zhou (principal supervision, Ph.D., 2022 - ) *in-progress* 
  - Rui Zhu (principal supervision, Ph.D., 2021 - ) *in-progress* 
- - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *in-progress, ABD* 
+ - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *ABD* 
  - Xiaohang Deng (co-supervision, M.Phil., 2020 - 2022) *Graduated*
  - Zhi Lin (co-supervision, M.Phil., 2019 - 2021) *Graduated* 
- - Wenshu Li (co-supervision, Ph.D., 2018 - ) *in-progress, ABD* 
+ - Wenshu Li (co-supervision, Ph.D., 2018 - ) *ABD* 
 
 2. Research intern and research assistants
  - Yuanyuan Chang (2021 - 2021)
