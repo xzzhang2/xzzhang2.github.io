@@ -23,7 +23,7 @@ My research areas include political communication, digital journalism, digital p
 
 #### 1A. SSCI/SCI journal articles (27)
 
-1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (in press). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots]. *Digital Journalism*. [**Q1 (5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Elsevier.] 
+1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (in press). News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots. *Digital Journalism*. [**Q1 (5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
 2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 in SSCI** - Social Science Interdisciplinary, 2021 JCR IF = 9.14, Elsevier.] 
 
@@ -31,7 +31,7 @@ My research areas include political communication, digital journalism, digital p
 
 4. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
 
-4. **Zhang, X.** & Ho, J. C. F. (2022). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review. 40*(1). doi: 10.1177/0894439320905522. [**Q1 (top 13%) in SSCI** - Social Science Interdisciplinary, 2019 JCR IF = 2.696, Sage Publications Ltd.]
+5. **Zhang, X.** & Ho, J. C. F. (2022). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review. 40*(1). doi: 10.1177/0894439320905522. [**Q1 (top 13%) in SSCI** - Social Science Interdisciplinary, 2019 JCR IF = 2.696, Sage Publications Ltd.]
 
 5. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
 
@@ -59,7 +59,7 @@ My research areas include political communication, digital journalism, digital p
 
 11. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). [To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong](https://ijoc.org/index.php/ijoc/article/view/6723). *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
 
-12. Zhong, Z.-J. & **Zhang, X.** * (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author)  
+12. Zhong, Z.-J. & **Zhang, X.** * (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author) 
 
 13. Cui, L. & **Zhang, X.** (2017). [What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015)](https://doi.org/10.1080/15295036.2017.1319070). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, 2016 JCR IF = 0.881, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -78,11 +78,13 @@ My research areas include political communication, digital journalism, digital p
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q1 (18%) in SSCI** – Communication, 2012 JCR IF = 1.594, Elsevier)
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings (7)
+#### 1B. peer-reviewed publications/book chapters/proceedings (8)
 
 1. **Zhang, X.** & Fu, X. (2022). Fact-checkers’ usage of clickbait element on social media and its effects on user engagement. Global Journal of Media Studies. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
 
-2. Zhang, Z., **Zhang, X.**, & Chen, L. (2021). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+2. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+
+3. Peng, Z., Huang, J., Wang, H., Wang, S., Chu, X., **Zhang, X.**, ... & Xu, J. (2021, April). [BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing](https://arxiv.org/pdf/2101.09653.pdf). In International Conference on Database Systems for Advanced Applications (pp. 381-397). Springer, Cham. 
 
 3. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
@@ -97,9 +99,9 @@ My research areas include political communication, digital journalism, digital p
 
 ### <a name="reviews"></a>2. professional contributions (3)
 
-1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf ). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
+1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
-2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
+2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 
 3.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
