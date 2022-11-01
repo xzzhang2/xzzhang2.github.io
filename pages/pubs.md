@@ -21,13 +21,15 @@ My research areas include political communication, digital journalism, digital p
 
 ### <a name="publications"></a>1. publications
 
-#### 1A. SSCI/SCI journal articles (26)
+#### 1A. SSCI/SCI journal articles (27)
 
-1. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**SSCI** - Social Science Interdisciplinary, 2021 JCR IF = 9.14, Elsevier.] 
+1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (in press). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots]. *Digital Journalism*. [**Q1 (5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Elsevier.] 
 
-2. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 in SSCI** - Social Science Interdisciplinary, 2021 JCR IF = 9.14, Elsevier.] 
 
-3. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
+3. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+
+4. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
 
 4. **Zhang, X.** & Ho, J. C. F. (2022). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review. 40*(1). doi: 10.1177/0894439320905522. [**Q1 (top 13%) in SSCI** - Social Science Interdisciplinary, 2019 JCR IF = 2.696, Sage Publications Ltd.]
 
