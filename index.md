@@ -17,10 +17,10 @@ I was awarded two research grants from the General Research Fund (**GRF**) by th
 
 I am the recipient of **HKBU's Performance Award as Young Researcher** in 2021. I am also the recipient of **HKBU's Performance Award in Teaching** in 2022. 
 
-I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current).  
+I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current) (2022 - ) and [*Chinese Journal of Communication*](https://www.tandfonline.com/toc/rcjc20/current) (2023 - ).  
 
 I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I have been a Visiting Scholar at the Department of Communication at [University of California, Davis](https://www.ucdavis.edu/) in 2022. 
 
-[Updated: Oct 2022] 
+[Updated: Nov 2022] 
 
 

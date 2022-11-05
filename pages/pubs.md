@@ -23,7 +23,7 @@ My research areas include political communication, digital journalism, digital p
 
 #### 1A. SSCI/SCI journal articles (27)
 
-1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (in press). News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots. *Digital Journalism*. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://doi.org/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
 2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
 
