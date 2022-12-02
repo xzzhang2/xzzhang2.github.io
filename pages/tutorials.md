@@ -6,7 +6,7 @@ description: Xinzhi Zhang's workshops, talks, and tutorials
 
 I have organized and attended several events, workshops, and seminars on the application of digital media data analytics, multimedia storytelling, and society well-being. 
 
-In terms of knowledge transfer, I have contributed to several professional news media as a commentator. 
+In terms of knowledge transfer and social impacts, I have contributed to several professional news media as a commentator. 
 
 ---
 
