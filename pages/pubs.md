@@ -19,11 +19,13 @@ My research areas include political communication, digital journalism, digital p
 
 ---
 
-### <a name="publications"></a>1. publications
+### <a name="publications"></a>1. publications (total: 40)
 
-#### 1A. SSCI/SCI journal articles (27)
+#### 1A. SSCI journal articles (28)
 
-1. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+1. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
+
+2. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
 2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
 
@@ -84,13 +86,13 @@ My research areas include political communication, digital journalism, digital p
 
 2. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July) A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation. In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
 
-2. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+3. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 
-3. Peng, Z., Huang, J., Wang, H., Wang, S., Chu, X., **Zhang, X.**, ... & Xu, J. (2021, April). [BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing](https://arxiv.org/pdf/2101.09653.pdf). In International Conference on Database Systems for Advanced Applications (pp. 381-397). Springer, Cham. 
+4. Peng, Z., Huang, J., Wang, H., Wang, S., Chu, X., **Zhang, X.**, ... & Xu, J. (2021, April). [BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing](https://arxiv.org/pdf/2101.09653.pdf). In International Conference on Database Systems for Advanced Applications (pp. 381-397). Springer, Cham. 
 
-3. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
+5. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
-4. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
+6. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://doi.org/10.3390/joitmc6010001).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. Full-text: https://www.mdpi.com/2199-8531/6/1/1  [**Scopus**] 
 
 5. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
 
