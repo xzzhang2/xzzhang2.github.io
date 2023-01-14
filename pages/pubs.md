@@ -185,7 +185,7 @@ My research areas include political communication, digital journalism, digital p
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: 19 Jan 2022) 
+(updated: Jan 2023) 
 
 
 --
