@@ -9,7 +9,7 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My research areas include political communication, digital journalism, digital public health campaigns, and human-machine communication, using computational methods (i.e., network analysis, text mining, and applied machine learning), online experiments, and comparative social surveys. My research focuses on how information and communication technologies influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
+My research areas include political communication, digital journalism, digital public health campaigns, and human-machine communication, using computational methods (i.e., network analysis, text mining, and applied machine learning), online experiments, and comparative social surveys. My research focuses on how digital communication technologies influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
@@ -19,33 +19,35 @@ My research areas include political communication, digital journalism, digital p
 
 ---
 
-### <a name="publications"></a>1. publications (total: 40)
+### <a name="publications"></a>1. publications (total: 41)
 
-#### 1A. SSCI journal articles (28)
+#### 1A. SSCI journal articles (29)
 
-1. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
+1. **Zhang, X.** (in press). Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity. *Human Communication Research*. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford Academic.] 
 
-2. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+2. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
 
-2. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
+3. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
-3. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+4. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
 
-4. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
+5. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
 
-5. **Zhang, X.** & Ho, J. C. F. (2022). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review. 40*(1). doi: 10.1177/0894439320905522. [**Q1 (top 13%) in SSCI** - Social Science Interdisciplinary, 2019 JCR IF = 2.696, Sage Publications Ltd.]
+6. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
 
-5. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
+7. **Zhang, X.** & Ho, J. C. F. (2022). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review. 40*(1). doi: 10.1177/0894439320905522. [**Q1 (top 13%) in SSCI** - Social Science Interdisciplinary, 2019 JCR IF = 2.696, Sage Publications Ltd.]
 
-5. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2020 JCR IF = 7.270, Oxford University Press.] 
+8. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
 
-3. **Zhang, X.** (2021). [Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US](https://journals.sagepub.com/doi/10.1177/17480485211014372). *International Communication Gazette. 83*(7). Online first. doi: 10.1177/17480485211014372. [**SSCI** - Communication, 2020 JCR IF = 1.859, Sage Publications Ltd.] 
+9. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2020 JCR IF = 7.270, Oxford University Press.] 
 
-3. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. doi: 10.1080/10410236.2019.1631565. (**Q2 in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
+10. **Zhang, X.** (2021). [Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US](https://journals.sagepub.com/doi/10.1177/17480485211014372). *International Communication Gazette. 83*(7). Online first. doi: 10.1177/17480485211014372. [**SSCI** - Communication, 2020 JCR IF = 1.859, Sage Publications Ltd.] 
 
-4. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics. 50*. Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2019 JCR IF = 4.139, Elsevier.]
+11. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. doi: 10.1080/10410236.2019.1631565. (**Q2 in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
-5. **Zhang, X.** & Chen, M. (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2020.1824126. [**SSCI** - Communication, 2019 JCR IF = 1.542, Routledge Journals, Taylor & Francis Ltd.] 
+12. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics. 50*. Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2019 JCR IF = 4.139, Elsevier.]
+
+13. **Zhang, X.** & Chen, M. (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2020.1824126. [**SSCI** - Communication, 2019 JCR IF = 1.542, Routledge Journals, Taylor & Francis Ltd.] 
 
 7. **Zhang, X.** & Li, W. (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice. 14*(10), 1193-1210. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
 
@@ -110,29 +112,37 @@ My research areas include political communication, digital journalism, digital p
 3.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
 
-### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations
+### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations 
 
-1. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
+1. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+ 
+2. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
 
-2. **Zhang, X.** & Fu, X. (2022, May). Codes, collaboration, and communities: A network analysis of the online communities of data-driven journalism on a social coding platform. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+3. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+ 
+4. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
 
-3. **Zhang, X.**, Lin, W.-Y., Dutton, W. (2022, May). The political consequences of online disagreement: The filtering of communication networks in a polarized political context. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+5. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
 
-4. Fu, X., **Zhang, X.**, Zhu, R., Ping, H., & Chang, Y. (2022, May). “FALSE! Read about it here!” Fact-checkers’ social media language feature and its effects on user engagement. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
+6. **Zhang, X.** & Fu, X. (2022, May). Codes, collaboration, and communities: A network analysis of the online communities of data-driven journalism on a social coding platform. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
 
-4. **Zhang, X.** & Zhu, R. (2021, May). Health journalists’ social media sourcing during the public health emergency: A network analytics approach. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021. 
+7. **Zhang, X.**, Lin, W.-Y., Dutton, W. (2022, May). The political consequences of online disagreement: The filtering of communication networks in a polarized political context. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
 
-5. Zhu, R. & **Zhang, X.** (2021, May). How source-level and message-level factors influence journalists’ social media visibility during a public health emergency. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021.
+8. Fu, X., **Zhang, X.**, Zhu, R., Ping, H., & Chang, Y. (2022, May). “FALSE! Read about it here!” Fact-checkers’ social media language feature and its effects on user engagement. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
 
-6. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+9. **Zhang, X.** & Zhu, R. (2021, May). Health journalists’ social media sourcing during the public health emergency: A network analytics approach. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021. 
 
-3. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+10. Zhu, R. & **Zhang, X.** (2021, May). How source-level and message-level factors influence journalists’ social media visibility during a public health emergency. Paper presented at the 71st Annual Conference (virtual) of the International Communication Association (**ICA**), 27-31 May 2021.
 
-3. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+11. **Zhang, X.**, Guo, S., & Li, R. (2020, May). Robot journalists *currently* not needed: Exploring newsrooms’ practices of AI-powered initiatives with a mix-method approach. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-4. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+12. **Zhang, X.** (2020, May). Supply–demand versus social learning: Pathways from social media use to citizens’ demand for democracy. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
-5. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+13. **Zhang, X.** & Li, W. (2020, May). From social media with news: Journalists’ social media use for sourcing and verification. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+
+14. Lin, W.-Y. & **Zhang, X.** (2020, May). Are social media a political movement equalizer? Survey evidences from two Asian polities. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
+
+15. Lin, W.-Y., Oktavianus, J., & **Zhang, X.** (2020, May). Feeling politics? How communication mediates the effects of emotions on political participation. Paper presented at the 70th Annual Conference (virtual) of the International Communication Association (**ICA**), Gold Coast, Australia, 21-25 May 2020.
 
 6. **Zhang, X.** (2019, May). Data, coders, and designers in the newsrooms: The adoption of data-driven journalism in Hong Kong’s local news organizations. Paper presented at the 69th Annual Conference of International Communication Association (**ICA**), Washington DC, USA, 24 - 28 May 2019. 
 
@@ -173,5 +183,9 @@ My research areas include political communication, digital journalism, digital p
 20. Lin, F. & **Zhang, X.** (2011, August). Bureaucratic nature of news websites and online activism in China. Paper presented at the 106th Convention of American Sociological Association (**ASA**). Las Vegas, the U.S., 13-16 August 2011.
 
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
+
+
+(updated: 19 Jan 2022) 
+
 
 --
