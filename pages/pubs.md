@@ -23,7 +23,7 @@ My research areas include political communication, digital journalism, digital p
 
 #### 1A. SSCI journal articles (29)
 
-1. **Zhang, X.** (2023). Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity. *Human Communication Research*. Online first. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford Academic.] 
+1. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research*. Online first. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
 
 2. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
 
