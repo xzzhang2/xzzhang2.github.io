@@ -21,6 +21,6 @@ I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonlin
 
 I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I have been a Visiting Scholar at the Department of Communication at [University of California, Davis](https://www.ucdavis.edu/) in fall 2022. 
 
-[Updated: March 2023] 
+[Updated: April 2023] 
 
 
