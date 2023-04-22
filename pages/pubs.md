@@ -9,8 +9,6 @@ description: Xinzhi Zhang's publications
 
 ---
 
-My research areas include political communication, digital journalism, digital public health campaigns, and human-machine communication, using computational methods (i.e., network analysis, text mining, and applied machine learning), online experiments, and comparative social surveys. My research focuses on how digital communication technologies influence people’s communicative behaviors in politics and health, and how these technologies are changing how news is produced and disseminated to audiences.  
-
 <ul>
     <li><a href="#publications">1. publications</a></li>
     <li><a href="#reviews">2. professional contributions</a></li>
@@ -19,25 +17,30 @@ My research areas include political communication, digital journalism, digital p
 
 ---
 
-### <a name="publications"></a>1. publications (total: 41)
+### <a name="publications"></a>1. publications (total: 42)
 
-#### 1A. SSCI journal articles (29)
+#### 1A. SSCI journal articles (30)
 
-1. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research*. Online first. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
+*(\# denotes the research students or research interns under my direct principal supervision)*
+*(\* denotes the corresponding author)* 
+
+1. Zhu, R.\#. & **Zhang, X.**\* (in press). Public Sector’s Misinformation Debunking during the Public Health Campaign: A Case of Hong Kong. *Health Promotion International*. [**Q2 in SSCI** - Public, Environmental & Occupational Health, 2021 JCR IF = 3.734, Oxford University Press.] 
+
+2. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research*. Online first. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
 
 2. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
 
-3. **Zhang, X.**, Zhu, R., Chen, L., Zhang, Z., & Chen, M. (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+3. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2022). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism*. Online first. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
 4. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
 
-5. **Zhang, X.** & Zhu, R. (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+5. **Zhang, X.** & Zhu, R.\# (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice*. Online first. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
 
 6. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society*. Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
 
 7. **Zhang, X.** & Ho, J. C. F. (2022). [Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach](https://journals.sagepub.com/eprint/BFW6QKA6NHSFKFTHPZT5/full). *Social Science Computer Review. 40*(1). doi: 10.1177/0894439320905522. [**Q1 (top 13%) in SSCI** - Social Science Interdisciplinary, 2019 JCR IF = 2.696, Sage Publications Ltd.]
 
-8. **Zhang, X.** & Zhu, R. (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
+8. **Zhang, X.** & Zhu, R.\# (2021). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism*. Online first. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
 
 9. Liang, H. & **Zhang, X.** (2021). [Partisan bias of perceived incivility and its political consequences: Evidence from survey experiments in Hong Kong](https://academic.oup.com/joc/advance-article-abstract/doi/10.1093/joc/jqab008/6307086). *Journal of Communication, 71*(3). doi: 10.1093/joc/jqab008. [**Q1 (top 6%) in SSCI** - Communication, 2020 JCR IF = 7.270, Oxford University Press.] 
 
@@ -47,11 +50,11 @@ My research areas include political communication, digital journalism, digital p
 
 12. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics. 50*. Online first. doi: 10.1016/j.tele.2020.101378. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2019 JCR IF = 4.139, Elsevier.]
 
-13. **Zhang, X.** & Chen, M. (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2020.1824126. [**SSCI** - Communication, 2019 JCR IF = 1.542, Routledge Journals, Taylor & Francis Ltd.] 
+13. **Zhang, X.** & Chen, M.\# (2020). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice.* Online first. doi: 10.1080/17512786.2020.1824126. [**SSCI** - Communication, 2019 JCR IF = 1.542, Routledge Journals, Taylor & Francis Ltd.] 
 
-7. **Zhang, X.** & Li, W. (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice. 14*(10), 1193-1210. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
+7. **Zhang, X.** & Li, W.\# (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice. 14*(10), 1193-1210. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.] 
 
-8. Lin, W.-Y., **Zhang, X.** * , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) (* corresponding author)
+8. Lin, W.-Y., **Zhang, X.**\* , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) 
 
 9. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. doi: 10.1080/21670811.2017.1340094. (**Q1** (top 18.2%) in **SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
 
@@ -63,7 +66,7 @@ My research areas include political communication, digital journalism, digital p
 
 11. Lin, W.-Y., Cao, B., & **Zhang, X.** (2017). [To speak or not to speak? Predicting college students’ outspokenness in the pro-democracy movement in Hong Kong](https://ijoc.org/index.php/ijoc/article/view/6723). *International Journal of Communication, 11*, 3704-3720. (**Q2 (top 32%) in SSCI** – Communication, 2016 JCR IF = 1.498, USC Annenberg Press)   
 
-12. Zhong, Z.-J. & **Zhang, X.** * (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, corresponding author. The NUS Press, National University of Singapore) (* corresponding author) 
+12. Zhong, Z.-J. & **Zhang, X.**\* (2017). [A mediation path to Chinese netizens’ civic engagement: The effects of news usage, civic motivations, online expression and discussion](https://muse.jhu.edu/article/661218/summary). *China: An International Journal, 15*(2), 22-43. (**SSCI** - Area Studies, The NUS Press, National University of Singapore) 
 
 13. Cui, L. & **Zhang, X.** (2017). [What happened to those fans several years later?: Empowerment from Super Girls’ Voice for girls in China (2007-2015)](https://doi.org/10.1080/15295036.2017.1319070). *Critical Studies in Media Communication. 34*(4), 400-414, doi: 10.1080/15295036.2017.1319070. (**SSCI** – Communication, 2016 JCR IF = 0.881, Routledge Journals, Taylor & Francis Ltd.)
 

@@ -9,7 +9,7 @@ description: Xinzhi Zhang's Chinese biography
 
 我现为香港浸会大学传理学院互动媒体系长聘副教授（终身教职）。 我的研究领域包括计算传播学、新媒体的社会与心理影响、数字新闻学、以及公共健康传播，主要采用的研究手段包括计算方法（如社会网络分析、文本挖掘、以及机器学习）、在线实验、以及跨地区社会调查等。 我的研究探讨大众如何使用社交媒体获取与公共事务和健康有关的资讯；以及社交媒体和平台算法如何改变媒体内容生产和传播的方式。 研究结果希望改进相关理论，并希望帮助公众减少偏见， 助力公共部门、新闻机构、和科技企业设计有效的信息发布和沟通策略，通过循证研究对现有政策和实践进行干预和改善，提升重大公共信息的传播效果， 让社会可以有更加多元和开放的对话。 
 
-2013年以来，我在经同行匿名评审的国际期刊上发表了近40篇论文，这些期刊包括《传播学刊》（*Journal of Communication*）, 《人类传播研究》（*Human Communication Research*）, 《计算机与人类行为》（*Computers in Human Behaviors*）, 《社交媒体与社会》（*Social Media + Society*）, 《数字新闻学》(*Digital Journalism*) ， 《社会科学计算机评论》（*Social Science Computer Review*）, 《新闻学》（*Journalism*）, 《健康传播》（*Health Communication*）等。 详细的论文篇目，见谷歌学术 [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) 以及香港浸会大学的Scopus数据库 [Scopus](https://scholars.hkbu.edu.hk/en/persons/xinzhi-zhang-11)。 
+2013年以来，我在经同行匿名评审的国际期刊上发表了近40篇论文，这些期刊包括《传播学刊》（*Journal of Communication*）, 《人类传播研究》（*Human Communication Research*）, 《社交媒体与社会》（*Social Media + Society*）, 《数字新闻学》(*Digital Journalism*) ， 《社会科学计算机评论》（*Social Science Computer Review*）, 《新闻学》（*Journalism*）, 《健康传播》（*Health Communication*）等。 详细的论文篇目，见谷歌学术 [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) 以及香港浸会大学的Scopus数据库 [Scopus](https://scholars.hkbu.edu.hk/en/persons/xinzhi-zhang-11)。 
 
 我曾两次以主研人(PI)身份获得香港特区研究资助局（RGC）的优配研究金（GRF） 项目（2019 - 2021 以及 2020 - 2022）， 还主持完成香港特区政府（前）政策创新与统筹办事处（PICO）资助的公共政策研究（PPR）项目一项（2021 - 2022）。 我目前担任两家SSCI期刊：《数字新闻学》(*Digital Journalism*) 和《中华传播学刊》(*Chinese Journal of Communication*) 的编委会成员。
 
