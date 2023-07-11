@@ -5,7 +5,7 @@ description: Xinzhi Zhang's publications
 ---
 
 - ORCID: [0000-0003-3479-9327](https://orcid.org/0000-0003-3479-9327) 
-- Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [HKBU_Scopus](https://scholars.hkbu.edu.hk/en/persons/xinzhi-zhang-11) 
+- Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [HKBU_Scopus](https://scholars.hkbu.edu.hk/en/persons/XZZHANG2) 
 
 ---
 
@@ -21,9 +21,9 @@ description: Xinzhi Zhang's publications
 
 #### 1A. SSCI journal articles (30)
 
-*(\# denotes the research students or research interns under my direct principal supervision; \* denotes the corresponding author)* 
+*(\# denotes the research students or research interns under my principal supervision; \* denotes the corresponding author)* 
 
-1. Zhu, R.\# & **Zhang, X.**\* (in press). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong. *Health Promotion International*. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
+1. Zhu, R.\# & **Zhang, X.**\* (2023). [Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong](https://academic.oup.com/heapro/article-abstract/38/3/daad053/7189927). *Health Promotion International*. Online first. doi: 10.1093/heapro/daad053. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
 
 2. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research*. Online first. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
 
@@ -187,7 +187,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: April 2023) 
+(updated: July 2023) 
 
 
 --
