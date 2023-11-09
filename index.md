@@ -11,16 +11,16 @@ Welcome. I am Xinzhi Zhang, an Associate Professor with tenure at the [Departmen
 
 My research areas include political communication, digital journalism, digital public health campaigns, and computational social science. My research aims to advance two lines of intellectual inquiry: (1) how people receive, process, and engage with information on politics and public health via social media and (2) how digital technologies change how news is produced and delivered. I devote myself to computational communication research, using digital data and computational methods for theory-driven research. My study aims to help public sectors, media organizations, and technology companies design and evaluate public communication campaigns, conduct evidence-based interventions and solutions to reduce bias, inequality, and miscommunication amid political polarization and information disorder, and promote more diverse, open, and deliberative dialogues within society. My research profiles are on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3), and [Scopus](https://scholars.hkbu.edu.hk/en/persons/XZZHANG2). 
 
-I have published over 30 peer-reviewed articles in top-tier journals such as *Human Communication Research*, *Journal of Communication*, *Social Media + Society*, *Journalism*, *Social Science Computer Review*, *Health Communication*, and *Digital Journalism*. [[Here is my publication list](https://xzzhang2.github.io/pages/pubs.html)]
+I have published nearly 40 peer-reviewed articles in top-tier journals such as *Human Communication Research*, *Journal of Communication*, *Social Media + Society*, *Journalism*, *Social Science Computer Review*, *Health Communication*, and *Digital Journalism*. [[Here is my publication list](https://xzzhang2.github.io/pages/pubs.html)]
 
 I was awarded two research grants from the General Research Fund (**GRF**) by the University Grants Committee (**UGC**), the Hong Kong SAR, a prestigious internationally competitive funding scheme. I have also completed a research project funded by the former Public Policy Research Funding Scheme (**PPR**) from the then Policy Innovation and Co-ordination Office (**PICO**) of the Hong Kong SAR Government. [[Here is the list of my funded research projects](https://xzzhang2.github.io/pages/projects.html)] 
 
-I am the recipient of **HKBU's Performance Award as Young Researcher** in 2021. I am also the recipient of **HKBU's Performance Award in Teaching** in 2022. 
+I am the recipient of **HKBU's Performance Award as Young Researcher** in 2021. I am also the recipient of **HKBU's Performance Award in Teaching** in 2022. I also won best paper awards at the internationally peer-reviewed conferences like **ICA** and **AEJMC**. 
 
-I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current) (2022 - ) and [*Chinese Journal of Communication*](https://www.tandfonline.com/toc/rcjc20/current) (2023 - ).  
+I am the Editorial Board Member of [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current) and [*Chinese Journal of Communication*](https://www.tandfonline.com/toc/rcjc20/current).  
 
 I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I have been a Visiting Scholar at the Department of Communication at [University of California, Davis](https://www.ucdavis.edu/) in fall 2022. 
 
-[Updated: July 2023] 
+[Updated: Nov 2023] 
 
 

@@ -116,13 +116,15 @@ description: Xinzhi Zhang's publications
 
 ### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations 
 
-1. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
- 
-2. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+1. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
 
-3. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+2. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
  
-4. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper to be presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+3. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+
+4. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+ 
+4. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
 
 5. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
 
