@@ -7,7 +7,7 @@ seo:
 ---
 
 
-Welcome! I am Xinzhi Zhang, an Associate Professor with tenure at the [Department of Media and Communication](https://www.cityu.edu.hk/com/Profile.aspx?u=xzzhang2) in the [City University of Hong Kong](https://www.cityu.edu.hk/) (CityU). 
+Welcome! I am Xinzhi Zhang, an Associate Professor with tenure in the [Department of Media and Communication](https://www.cityu.edu.hk/com/Profile.aspx?u=xzzhang2) at the [City University of Hong Kong](https://www.cityu.edu.hk/) (CityU). 
 
 My research areas include digital journalism, political communication, public health campaigns, and AI policy and regulation. My research aims to advance two lines of intellectual inquiry: (1) how people receive, process, and engage with information on politics and health via digital media and (2) how digital technologies (especially Generative AI and social media) change how news is produced and delivered. I also devote myself to computational social science, using digital data and computational methods for theory-driven human communication research. My research aims to empower ordinary citizens with deliberative dialogues, and help governmental institutions, news organizations, technology companies, and start-ups design and evaluate communication campaigns and regulatory policies via evidence-based interventions to reduce bias, inequalities, and miscommunication. My research profile is on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ). 
 
