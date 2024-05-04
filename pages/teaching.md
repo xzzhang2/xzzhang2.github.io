@@ -11,23 +11,22 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 ---
 
 <ul class="nav">
-    <li><a href="#hkbu_rds">research supervision @ HKBU (2018 - present)</a></li>
-    <li><a href="#hkbu_course">courses @ HKBU (2016 - present)</a></li>
-    <li><a href="#polyu_course">courses @ PolyU (2014 - 2016)</a></li>
-    <li><a href="#cityu_courese">courses @ CityU (2013 - 2014) </a></li>
+    <li><a href="#hkbu_rds">1. research supervision (2018 - present)</a></li>
+    <li><a href="#cityu_courese">2. courses @ CityU (2013, 2018, 2024 - present) </a></li>    
+    <li><a href="#hkbu_course">3. courses @ HKBU (2016 - 23)</a></li>
+    <li><a href="#polyu_course">4. courses @ PolyU (2014 - 16)</a></li>
 </ul>
 
 
-### <a name="hkbu_rds"></a>research supervision @ HKBU (2018 - present)
+### <a name="hkbu_rds"></a>1. research supervision (2018 - present)
 
 1. Research students
- - Yitong Gu (principal supervision, Ph.D., Awardee of the University Transdisciplinary Research Labs Scholarship, 2022 - ) *in-progress* 
+ - Jingyi Pu (principal supervision, Ph.D., 2024 - ) *in-progress*
  - Tianlun Zhou (principal supervision, Ph.D., 2022 - ) *in-progress* 
- - Rui Zhu (principal supervision, Ph.D., 2021 - ) *in-progress* 
  - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *ABD* 
- - Xiaohang Deng (co-supervision, M.Phil., 2020 - 2022) *Graduated*
- - Zhi Lin (co-supervision, M.Phil., 2019 - 2021) *Graduated* 
- - Wenshu Li (co-supervision, Ph.D., 2018 - 2022) *Graduated* 
+ - Xiaohang Deng (co-supervision, M.Phil., 2020 - 22) *Graduated*
+ - Zhi Lin (co-supervision, M.Phil., 2019 - 21) *Graduated* 
+ - Wenshu Li (co-supervision, Ph.D., 2018 - 22) *Graduated* 
 
 2. Research intern and research assistants
  - Yuanyuan Chang (2021 - 2021)
@@ -43,7 +42,17 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
  - Wanting Xu (2017 - 2018)
 
 
-### <a name="hkbu_course"></a>courses @ HKBU (2016 - present)
+### <a name="cityu_courese"></a>2. courses @ CityU (2013 - 14, 2024 - presesnt)
+
+|Course code and title | Level |   
+|--- | --- |
+| COM3109 Media and Communication in Chinese Contexts | Undergraduate |
+| COM5507 (guest lecturer in 2018 Fall) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
+| COM3109 International Communication (core course for BA (Hons) in Media and Communication) | Undergraduate | 
+| COM5502 Multimedia Communication (core course for MA in Communication and New Media) | Postgraduate | 
+
+
+### <a name="hkbu_course"></a>3. courses @ HKBU (2016 - 23)
 
 |Course code and title | Level |   
 | --- | --- |
@@ -51,28 +60,26 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 | AIDM7410 Computational Journalism | Postgraduate |
 | AIDM7340 AI for Digital Media | Postgraduate  |
 | COMM7190 Issues and Cases in Mass Communication | Postgraduate |
-| COM5507 (guest at City University of Hong Kong) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
 | JOUR4036/JOUR3137 Communication Theory | Undergraduate |
 
 
-### <a name="polyu_course"></a>courses @ PolyU SPEED (2014 - 2016)
+### <a name="polyu_course"></a>4. courses @ PolyU SPEED (2014 - 16)
 
-| Offering | Course code and title |   
-|--- | --- |
-| 2014-16 | SPD4488 Integrated Study - Capstone Project for the BA (Hons) in Professional Communication Programme |
-| 2014-16 | SPD4458 Integrated Study - Capstone Project for the BA (Hons) in Marketing & Public Relations Programme |
-| 2015-16 | SPD4347 Languages, Cultures, and Communication |
-| 2014-16 | SPD2315 Films and Storytelling (subject leader) |
-| 2014-16 | SPD2314 Culture and Ways of Life (subject leader) |
-| 2014-16 | SPD2312 Contemporary China  |
-| 2014-16 | SPD2303 Introduction to Communication |
+| Course code and title (all at the undergraduate-level) |   
+| --- | 
+| SPD4488 Integrated Study - Capstone Project for the BA (Hons) in Professional Communication Programme |
+| SPD4458 Integrated Study - Capstone Project for the BA (Hons) in Marketing & Public Relations Programme |
+| SPD4347 Languages, Cultures, and Communication (subject leader) |
+| SPD2315 Films and Storytelling (subject leader) |
+| SPD2314 Culture and Ways of Life (subject leader) |
+| SPD2312 Contemporary China |
+| SPD2303 Introduction to Communication |
 
 
-### <a name="cityu_courese"></a>courses @ CityU (2013 - 2014)
+(updated: Apr 2024) 
 
-| Offering | Course code and title |   
-|--- | --- |
-| 2014 Spring | COM3109 International Communication (core course for BA (Hons) in Media and Communication) |
-| 2014 Spring | COM5502 Multimedia Communication (core course for MA in Communication and New Media) |
+
+--
+
 
 

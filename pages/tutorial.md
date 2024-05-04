@@ -1,7 +1,7 @@
 ---
 layout: page
-title: workshops
-description: Xinzhi Zhang's workshops, talks, and tutorials
+title: outreach
+description: Xinzhi Zhang's outreach activities and social impacts
 ---
 
 I have organized and attended several events, workshops, and seminars on the application of digital media data analytics, multimedia storytelling, and society well-being. 
@@ -10,9 +10,22 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 
 ---
 
-### 1. keynote speeches and workshop speakers 
+<ul class="nav">
+    <li><a href="#talks">1. invited talks</a></li>
+    <li><a href="#med_interviews">2. media interviews</a></li>
+    <li><a href="#commentaries"></a>3. news commentaries</li>
+</ul>
 
-- Jan 2021. Workshop participant. "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](http://www.com.cuhk.edu.hk/en-GB/research-m/visiting-scholar-programme/15-research-tc/1452-visiting-scholar-program-2021-tc). 
+
+### <a name="talks"></a>invited talks at public research seminars  
+
+- May 2024. Speaker for the research panel (invited), 2024 Macau International Communication Week. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
+
+- Jun 2023. Panel member and discussant (invited), "Generative AI Insights: Conference Bridging Generative AI with Academia." The Chinese University of Hong Kong. [Event page](https://www.aiforeducation.net/gain2023). 
+
+- Sep 2022. Talk at the departmental research seminar (invited), Department of Communication, University of California at Davis, the US. 
+
+- Jan 2021. Talk at the Workshop (invited). "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](https://www.com.cuhk.edu.hk/research/visiting-scholar-program-2021/). 
 
 - Sep 2020. Invited keynote speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
 
@@ -26,7 +39,7 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 
 - Oct 2018. Invited talk: *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
 
-- June 2018. Three-day public seminar plus workshop: *Data-driven Journalism Workshop @ CUCN, Nanjing* (中国传媒大学南广学院2018数据新闻工作坊) (Co-lectured by Xinzhi Zhang & Pili Hu, HKBU) (The [Workshop Repo](https://github.com/xzzhang2/201806_cucnddj)).
+- Jun 2018. Three-day public seminar plus workshop: *Data-driven Journalism Workshop @ CUCN, Nanjing* (中国传媒大学南广学院2018数据新闻工作坊) (Co-lectured by Xinzhi Zhang & Pili Hu, HKBU) (The [Workshop Repo](https://github.com/xzzhang2/201806_cucnddj)).
 
 - Mar 2018. Chair of the Organizing Committee and jury panel member: the University-wide *2018 Hong Kong Baptist University Data-driven Storytelling Competition* (The [Event page](http://datastory2018.dnnsociety.org)).
 
@@ -35,7 +48,22 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 - Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China.
 
 
-### 2. professional media contributions as news commentators 
+### <a name="med_interviews"></a>media interviews 
+
+- 23 May 2022. *Finding effective ways to debunk misinformation online.* Featured by the Hong Kong Baptist University News (HKBU News). [Link](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/may-2022/0523-finding-effective-ways-to-debunk-misinformation-online.html). 
+
+- 26 Apr 2022. *Getting the right information - Dr Zhang Xinzhi of the Department of Journalism recently conducted a study on the rumour-clarification and debunking practices of the public sector.* Featured by the Hong Kong Baptist University News (HKBU News). [Link](https://bunews.hkbu.edu.hk/news/knowledge/getting-the-right-information). 
+
+- 3 June 2021. *Zhang Xinzhi: Communication in the Age of Information Disorder* Interviewed as the Transdisciplinary Research Highlights of Hong Kong Baptist University. [Link](https://interdisciplinary-research.hkbu.edu.hk/news/zhang-xinzhi-communication-in-the-age-of-information-disorder). 
+
+- 13 Aug 2021. *Communication students win the national data mining competition.* Featured by the Hong Kong Baptist University News (HKBU News) as a team coach, leading a team of five postgraduate students from the School of Communication who won the national championship, and therefore the first prize, in the China National Third Communication Data Mining Competition. [Link](https://bunews.hkbu.edu.hk/news/people/communication-students-win-the-national-data-mining-competition). 
+
+- 8 Jun 2021. *Alibaba-Xinhua venture makes the news for video-hungry Chinese* Interviewed by the *Nikkei Asia*. [Link](https://asia.nikkei.com/Business/Media-Entertainment/Alibaba-Xinhua-venture-makes-the-news-for-video-hungry-Chinese). 
+
+- 9 May 2019. *Techniques and awareness: Journalists of the future*. Interviewed by the *China Daily* on the data journalism education in Hong Kong. 
+
+
+### <a name="commentaries"></a>news commentaries
 
 1.	**Zhang, X**. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期]
 
@@ -56,6 +84,10 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
+(updated: Apr 2024) 
+
+
+--
 
 
 
