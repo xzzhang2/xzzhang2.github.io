@@ -13,11 +13,12 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 <ul class="nav">
     <li><a href="#talks">1. invited talks</a></li>
     <li><a href="#med_interviews">2. media interviews</a></li>
-    <li><a href="#commentaries"></a>3. news commentaries</li>
+    <li><a href="#commentaries">3. news commentaries</a></li>
 </ul>
 
 
-### <a name="talks"></a>invited talks at public research seminars  
+### <a name="talks"></a>1. invited talks at public research seminars  
+
 
 - May 2024. Speaker for the research panel (invited), 2024 Macau International Communication Week. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
 
@@ -48,7 +49,8 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 - Sep 2017. Invited talk: *Innovation and Conformity in Music Reproduction: Exploring Contestants’ Co-Cover Networks in Music Reality Shows in mainland China and the U.S.* The 2nd Annual Conference on Digital Media Studies 26 –27 August, 2017, Beijing Normal University, Beijing, China.
 
 
-### <a name="med_interviews"></a>media interviews 
+### <a name="med_interviews"></a>2. media interviews 
+
 
 - 23 May 2022. *Finding effective ways to debunk misinformation online.* Featured by the Hong Kong Baptist University News (HKBU News). [Link](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/may-2022/0523-finding-effective-ways-to-debunk-misinformation-online.html). 
 
@@ -63,7 +65,8 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 - 9 May 2019. *Techniques and awareness: Journalists of the future*. Interviewed by the *China Daily* on the data journalism education in Hong Kong. 
 
 
-### <a name="commentaries"></a>news commentaries
+### <a name="commentaries"></a>3. news commentaries
+
 
 1.	**Zhang, X**. (2014). “Who is the singer?” A social network analysis on the song covering network of the Chinese TV Reality Show “I am the Singer”). Media Digest [Hong Kong: Radio Television Hong Kong], 2014(4). Full text: http://rthk.hk/mediadigest/20140417_76_123107.html. [張昕之 (2014)。〈誰是歌手？對內地電視選秀節目《我是歌手》競演翻唱曲目的社會網絡分析〉。 香港電台《傳媒透視》，2014年第4期]
 
