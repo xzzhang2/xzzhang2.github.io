@@ -4,9 +4,11 @@ title: teaching
 description: Xinzhi Zhang's teaching record
 ---
 
-I have taught several interdisciplinary courses on digital media and human communication, multimedia storytelling, and the application of data science for social impacts. 
+I have taught several interdisciplinary courses on digital media and human communication, multimedia storytelling, AI policy and regulations, and the application of digital technologies for innovation and social impacts. 
 
-I am looking for PhD/Mphil students and research interns working for interdisciplinary projects related to computational journalism and data-driven storytelling, social media data analytics, and digital popular culture. Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html).  
+I have supervised eight postgraduate students (as the capstone project supervisor) and four research students, all of them are either continuing doctoral studies (in Hong Kong, the Europe, and the US), or working as a university faculty member in Hong Kong. I am now supervising four PhD students. The students under my supervision have won best paper award at ICA, published papers in top international journals, and presented their papers at major international conferences in media and communication.
+
+For the 2025/26 year, I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) in the 2025 entry. 
 
 ---
 
@@ -21,34 +23,35 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 ### <a name="hkbu_rds"></a>1. research supervision (2018 - present)
 
 1. Research students
- - Jingyi Pu (principal supervision, Ph.D., 2024 - ) *in-progress*
- - Tianlun Zhou (principal supervision, Ph.D., 2022 - ) *in-progress* 
- - Ruifeng Qie (principal supervision, Ph.D., 2020 - ) *ABD* 
- - Xiaohang Deng (co-supervision, M.Phil., 2020 - 22) *Graduated*
- - Zhi Lin (co-supervision, M.Phil., 2019 - 21) *Graduated* 
- - Wenshu Li (co-supervision, Ph.D., 2018 - 22) *Graduated* 
+ - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *in-progress*
+ - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *in-progress* 
+ - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - ) *ABD* 
+ - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, Currently (2024) PhD Researcher at the Tampere University, Finland. 
+ - Zhi Lin (co-supervision, M.Phil., 2019 - 21) *Graduated*, Currently (2024) PhD student at the University of Texas at Austin, the US.  
+ - Wenshu Li (co-supervision, Ph.D., 2018 - 22) *Graduated*, Currently (2024) Lecturer in the College of International Education at Hong Kong Baptist University. 
 
 2. Research intern and research assistants
- - Yuanyuan Chang (2021 - 2021)
- - Hiu Yan Ping (2021 - 2021)
- - Rui Zhu (2020 - 2021)
- - Minyi Chen (2019 - 2020)
- - Xiaohang Deng (2019 - 2020)
- - Jingwen Ma (2019 - 2020)
- - Can He (2018 - 2019)
- - Qile Wang (2018 - 2019)
- - Jiehu Yuan (2018 - 2019)
- - Mengyi Zhang (2017 - 2018)
- - Wanting Xu (2017 - 2018)
+ - Yitong Gu (2021 - 22)
+ - Yuanyuan Chang (2021 - 21)
+ - Hiu Yan Ping (2021 - 21)
+ - Rui Zhu (2020 - 21)
+ - Minyi Chen (2019 - 20)
+ - Xiaohang Deng (2019 - 20)
+ - Jingwen Ma (2019 - 20)
+ - Can He (2018 - 19)
+ - Qile Wang (2018 - 19)
+ - Jiehu Yuan (2018 - 19)
+ - Mengyi Zhang (2017 - 18)
+ - Wanting Xu (2017 - 18)
 
 
 ### <a name="cityu_courese"></a>2. courses @ CityU (2013 - 14, 2024 - presesnt)
 
 |Course code and title | Level |   
 |--- | --- |
-| COM3109 Media and Communication in Chinese Contexts | Undergraduate |
-| COM5507 (guest lecturer in 2018 Fall) Social Media Data Acquisition and Processing ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
-| COM3109 International Communication (core course for BA (Hons) in Media and Communication) | Undergraduate | 
+| COM3109 Media and Communication in Chinese Contexts (core course for BA (Hons) in Media and Communication) | Undergraduate |
+| COM5507 (guest lecturer in 2018 Fall) Social Media Data Acquisition and Processing core course for MA in Communication and New Media ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
+| COM3119 International Communication (core course for BA (Hons) in Media and Communication) | Undergraduate | 
 | COM5502 Multimedia Communication (core course for MA in Communication and New Media) | Postgraduate | 
 
 
@@ -74,6 +77,7 @@ I am looking for PhD/Mphil students and research interns working for interdiscip
 | SPD2314 Culture and Ways of Life (subject leader) |
 | SPD2312 Contemporary China |
 | SPD2303 Introduction to Communication |
+
 
 
 

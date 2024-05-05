@@ -4,9 +4,7 @@ title: outreach
 description: Xinzhi Zhang's outreach activities and social impacts
 ---
 
-I have organized and attended several events, workshops, and seminars on the application of digital media data analytics, multimedia storytelling, and society well-being. 
-
-In terms of knowledge transfer and social impacts, I have contributed to several professional news media as a commentator. 
+I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. I have also interviewed by news media, and contributed to the news media as a commentator. 
 
 ---
 
@@ -20,17 +18,17 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 ### <a name="talks"></a>1. invited talks at public research seminars  
 
 
-- May 2024. Speaker for the research panel (invited), 2024 Macau International Communication Week. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
+- May 2024. Speaker for the research panel (invited), The 10th Macau International Communication Week 2024. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
 
-- Jun 2023. Panel member and discussant (invited), "Generative AI Insights: Conference Bridging Generative AI with Academia." The Chinese University of Hong Kong. [Event page](https://www.aiforeducation.net/gain2023). 
+- Jun 2023. Panel member (invited), "Generative AI Insights: Conference Bridging Generative AI with Academia." The Chinese University of Hong Kong. [Event page](https://www.aiforeducation.net/gain2023). 
 
-- Sep 2022. Talk at the departmental research seminar (invited), Department of Communication, University of California at Davis, the US. 
+- Sep 2022. Speaker at the departmental research seminar (invited), Department of Communication, University of California at Davis, the US. 
 
-- Jan 2021. Talk at the Workshop (invited). "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](https://www.com.cuhk.edu.hk/research/visiting-scholar-program-2021/). 
+- Jan 2021. Panel member and speaker (invited). "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](https://www.com.cuhk.edu.hk/research/visiting-scholar-program-2021/). 
 
 - Sep 2020. Invited keynote speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
 
-- Apr 2020. Member of the Organizing Committee and Workshop Speaker for *2020 Global Virtual Hack and Design Challenge – Empower Community during and after COVID-19* - A virtual design hackathon on the application of digital media, design thinking, computational thinking, and group collaboration for society well-being. (The [Event page](https://www.comp.hkbu.edu.hk/designworkshop/2020virtualhack/) and [press release](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-virtual-competition-connects-global-youth-to-counter-the-pandemic-with-innovative-ideas/)).  
+- Apr 2020. Member of the Organizing Committee and Workshop Speaker for the *2020 Global Virtual Hack and Design Challenge – Empower Community during and after COVID-19* - A virtual design hackathon on the application of digital media, design thinking, computational thinking, and group collaboration for society well-being. (The [Event page](https://www.comp.hkbu.edu.hk/designworkshop/2020virtualhack/) and [press release](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-virtual-competition-connects-global-youth-to-counter-the-pandemic-with-innovative-ideas/)).  
 
 - Apr 2019. *Python for data visualization* A Python workshop organized by Hong Kong Baptist University Library, 10 Apr 2019, 14:30 - 16:30. Collaborative Data Lab, HKBU Library (The [Workshop Repo](https://github.com/xzzhang2/201904_HKBULib_Py)).
 
@@ -38,11 +36,11 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 
 - Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University (The [Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).   
 
-- Oct 2018. Invited talk: *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
+- Oct 2018. Invited talk *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
 
 - Jun 2018. Three-day public seminar plus workshop: *Data-driven Journalism Workshop @ CUCN, Nanjing* (中国传媒大学南广学院2018数据新闻工作坊) (Co-lectured by Xinzhi Zhang & Pili Hu, HKBU) (The [Workshop Repo](https://github.com/xzzhang2/201806_cucnddj)).
 
-- Mar 2018. Chair of the Organizing Committee and jury panel member: the University-wide *2018 Hong Kong Baptist University Data-driven Storytelling Competition* (The [Event page](http://datastory2018.dnnsociety.org)).
+- Mar 2018. Chairperson of the Organizing Committee and jury panel member: the University-wide *2018 Hong Kong Baptist University Data-driven Storytelling Competition* (The [Event page](http://datastory2018.dnnsociety.org)).
 
 - Oct 2017. Public faculty forum: *The Representation of Data-driven Journalism in the Twittersphere.* Friday 13 October, 12:30–2:00pm, CVA 1022, School of Communication, Hong Kong Baptist University ([A snapshot](https://mailchi.mp/32742cef043f/research-news-for-our-communication-school?e=bdebb12f53)).  
 
@@ -77,6 +75,8 @@ In terms of knowledge transfer and social impacts, I have contributed to several
 4.	**Zhang, X**. (2012). On the banned TV drama When the Heaven Burns in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2012(1), 6-7. Full text: http://rthk.hk/mediadigest/20120113_76_122823.html. [張昕之 (2012)。〈簡評香港劇集《天與地》在內地禁播事件〉。 香港電台《傳媒透視》，2012年第1期，頁6-7]
 
 8.	Wang, C., & **Zhang, X**. (2011). The rising cacophony or dominated opinions? Public discussions about Gaddafi on micro-blog. Media Digest [Hong Kong: Radio Television Hong Kong], 2011(9), 12-13. Full text: http://rthk.hk/mediadigest/20110915_76_122789.html. [王成軍，張昕之 (2011)。〈「眾說紛紜」抑或「一言九鼎」〉。 香港電台《傳媒透視》，2011年第9期，頁12-13]
+
+9. **Zhang, X**. (2011). Why people from the mainland China would like to make a donation in Hong Kong? The Southern Metropolitan Daily. [Full text](https://news.sina.com.cn/o/2011-08-15/081122991489.shtml). [张昕之（2011）内地人为何在香港捐款。南方都市报，2011年8月15日] 
 
 9.	**Zhang, X**. (2010). A review on the media’s performance during Manila hostage incident. Media Digest [Hong Kong: Radio Television Hong Kong], 2010(9), 3-4. Full text: http://www.rthk.org.hk/mediadigest/20100914_76_122652.html. [張昕之 (2010)。〈媒體、挾持者、政府 ─ 「8•23」菲律賓人質事件反思〉。 香港電台《傳媒透視》，2010年第9期，頁3-4] Note: After the publication of this contribution, this article was featured and cited extensively in a popular deliberation radio program of Radio-1, Radio Television Hong Kong, the Millennium, on September 21, 2010.
 
