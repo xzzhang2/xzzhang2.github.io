@@ -1,14 +1,15 @@
 ---
 layout: page
-title: teaching
-description: Xinzhi Zhang's teaching record
+title: PhD_positions
+description: Xinzhi Zhang's teaching and research supervision
 ---
 
-I have taught several interdisciplinary courses on digital media and human communication, multimedia storytelling, AI policy and regulations, and the application of digital technologies for innovation and social impacts. 
+I teach interdisciplinary courses on digital media and human communication, multimedia storytelling, AI policy and regulations, and applying digital technologies for innovation and social impacts. 
 
-I have supervised eight postgraduate students (as the capstone project supervisor) and four research students, all of them are either continuing doctoral studies (in Hong Kong, the Europe, and the US), or working as a university faculty member in Hong Kong. I am now supervising four PhD students. The students under my supervision have won best paper award at ICA, published papers in top international journals, and presented their papers at major international conferences in media and communication.
+I have supervised eight postgraduate students (as the capstone project supervisor) and four research students, all continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. I am now supervising three PhD students. The students under my supervision have won a best paper award at ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
 
-For the 2025/26 year, I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested. You are also welcome to apply the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) in the 2025 entry. 
+For the 2025/26 year, I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) for the 2025 entry.
+
 
 ---
 
@@ -34,6 +35,7 @@ For the 2025/26 year, I am looking for PhD students in the areas of (1) digital 
  - Yitong Gu (2021 - 22)
  - Yuanyuan Chang (2021 - 21)
  - Hiu Yan Ping (2021 - 21)
+ - Wenshu Li (2021 - 22)
  - Rui Zhu (2020 - 21)
  - Minyi Chen (2019 - 20)
  - Xiaohang Deng (2019 - 20)
