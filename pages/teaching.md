@@ -1,14 +1,14 @@
 ---
 layout: page
 title: PhD_positions
-description: Xinzhi Zhang's teaching and research supervision
+description: Xinzhi Zhang's teaching and research supervision (PhD positions)
 ---
 
 I teach interdisciplinary courses on digital media and human communication, multimedia storytelling, AI policy and regulations, and applying digital technologies for innovation and social impacts. 
 
 I have supervised eight postgraduate students (as the capstone project supervisor) and four research students, all continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. I am now supervising three PhD students. The students under my supervision have won a best paper award at ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
 
-For the 2025/26 year, I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) for the 2025 entry.
+I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) in the 2025/25 academic year. 
 
 
 ---
@@ -27,9 +27,9 @@ For the 2025/26 year, I am looking for PhD students in the areas of (1) digital 
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *in-progress*
  - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *in-progress* 
  - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - ) *ABD* 
- - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, Currently (2024) PhD Researcher at the Tampere University, Finland. 
- - Zhi Lin (co-supervision, M.Phil., 2019 - 21) *Graduated*, Currently (2024) PhD student at the University of Texas at Austin, the US.  
- - Wenshu Li (co-supervision, Ph.D., 2018 - 22) *Graduated*, Currently (2024) Lecturer in the College of International Education at Hong Kong Baptist University. 
+ - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, Currently PhD researcher at the Tampere University, Finland. 
+ - [Zhi Lin](https://scholar.google.com/citations?user=N0hz9gwAAAAJ) (co-supervision, M.Phil., 2019 - 21) *Graduated*, Currently PhD student at the University of Texas at Austin, the US.  
+ - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Currently Lecturer at Hong Kong Baptist University. 
 
 2. Research intern and research assistants
  - Yitong Gu (2021 - 22)
@@ -79,6 +79,7 @@ For the 2025/26 year, I am looking for PhD students in the areas of (1) digital 
 | SPD2314 Culture and Ways of Life (subject leader) |
 | SPD2312 Contemporary China |
 | SPD2303 Introduction to Communication |
+
 
 
 
