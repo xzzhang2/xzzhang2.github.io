@@ -6,7 +6,7 @@ description: Xinzhi Zhang's teaching and research supervision (PhD positions)
 
 I teach interdisciplinary courses on digital media and human communication, multimedia storytelling, AI policy and regulations, and applying digital technologies for innovation and social impacts. 
 
-I have supervised eight postgraduate students (as the capstone project supervisor) and four research students, all continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. I am now supervising three PhD students. The students under my supervision have won a best paper award at ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
+I have supervised eight postgraduate students (as the capstone project supervisor) and four research students. Most of them are either continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. I am now (co-)supervising three PhD students. The students under my supervision have won best paper awards at the ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
 
 I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) in the 2025/25 academic year. 
 
@@ -47,7 +47,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
  - Wanting Xu (2017 - 18)
 
 
-### <a name="cityu_courese"></a>2. courses @ CityU (2013 - 14, 2024 - presesnt)
+### <a name="cityu_courese"></a>2. courses @ CityU (2014, 2018, 2024 - presesnt)
 
 |Course code and title | Level |   
 |--- | --- |

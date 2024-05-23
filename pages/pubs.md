@@ -11,13 +11,12 @@ description: Xinzhi Zhang's publications
 
 <ul>
     <li><a href="#publications">1. publications</a></li>
-    <li><a href="#reviews">2. professional contributions</a></li>
-    <li><a href="#conferences">3. conferences</a></li>
+    <li><a href="#conferences">2. conferences</a></li>
 </ul>
 
 ---
 
-### <a name="publications"></a>1. publications (total: 42)
+### <a name="publications"></a>1. publications (total: 44)
 
 #### 1A. SSCI journal articles (30)
 
@@ -84,49 +83,59 @@ description: Xinzhi Zhang's publications
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q1 (18%) in SSCI** – Communication, 2012 JCR IF = 1.594, Elsevier)
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings (9)
+#### 1B. peer-reviewed publications/book chapters/proceedings/other outputs (14)
 
-1. **Zhang, X.** & Fu, X. (2022). Fact-checkers’ usage of clickbait element on social media and its effects on user engagement. Global Journal of Media Studies. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
+1. **Zhang, X.**, Chang, Y.#, Ping, H.#, & ZHu, R.# (2024). The government and public sector's debunking in Hong Kong: A case of the COVID-19 vaccination. In Tsang, S., Zhou, L., and Huang, Y. (eds) *Decoding Fact-Checking*. page 206-231. Hong Kong: Commercial Press. [張昕之、常媛媛、平曉欣 & 朱蕊（2024）。<政府和公營機構的澄清: 以新冠疫苗為例>。《解構事實查核》。 曾姿穎,、周琳 & 黃煜主編。 頁206-231，香港：商務印書館] (# student co-author)
 
-2. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July) A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation. In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
+2. Chang, L. & **Zhang, X.** (2024). [Introduction to the Special Issue: Platforms for social good](https://journals.sagepub.com/doi/10.1177/20594364241241777). *Global Media and China*, 20594364241241777.
 
-3. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). Informing the design of a news chatbot. IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
+3. **Zhang, X.** & Fu, X. (2022). Fact-checkers’ usage of clickbait element on social media and its effects on user engagement. *Global Journal of Media Studies*. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
 
-4. Peng, Z., Huang, J., Wang, H., Wang, S., Chu, X., **Zhang, X.**, ... & Xu, J. (2021, April). [BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing](https://arxiv.org/pdf/2101.09653.pdf). In International Conference on Database Systems for Advanced Applications (pp. 381-397). Springer, Cham. 
+4. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July) [A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation](https://dl.acm.org/doi/10.1145/3543829.3544530). In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
 
-5. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
+5. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). [Informing the design of a news chatbot](https://dl.acm.org/doi/10.1145/3472306.3478358). IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 
-6. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://www.sciencedirect.com/science/article/pii/S2199853122002542).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. doi: 10.3390/joitmc6010001. [**Scopus**, Elsevier.]
+6. Peng, Z., Huang, J., Wang, H., Wang, S., Chu, X., **Zhang, X.**, ... & Xu, J. (2021, April). [BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing](https://arxiv.org/pdf/2101.09653.pdf). In International Conference on Database Systems for Advanced Applications (pp. 381-397). Springer, Cham. 
 
-5. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
+7. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
-4. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
+8. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://www.sciencedirect.com/science/article/pii/S2199853122002542).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. doi: 10.3390/joitmc6010001. [**Scopus**, Elsevier.]
 
-5. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
+9. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
+
+10.  Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
+
+11. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
+
+12. **Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
+
+13. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
+
+14. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
-### <a name="reviews"></a>2. professional contributions (3)
 
-1.	Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
+### <a name="conferences"></a>2. *selected* peer-reviewed international major conference presentations 
 
-2. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
+1. **Zhang, X.** & Lu, F. (2024, June). The consequences of observing the government-citizen social media interactions: The role of inquiries’ tone and replying agents. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
 
-3.	**Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
+2. Goyanes, M., **Zhang, X.**, & Skoric, M. (2024, June). The mechanisms of unfriending: Linking social media news use with unfriending via political discussion frequency and concerns about social threats. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
 
+3. Zhu, Q., Peng, T.-Q., & **Zhang, X.** (2024, June). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
 
-### <a name="conferences"></a>3. *selected* peer-reviewed international major conference presentations 
+5. Zhou, Y.-Q., Zhang, M., Gu, Y., & **Zhang, X.** (2024, June). Comments as digital public sphere: Text mining comments of Shenzhen Health Commission. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
 
-1. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
+6. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
 
-2. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+6. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
  
-3. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+7. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
 
-4. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+8. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
  
-4. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+9. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
 
-5. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
+10. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
 
 6. **Zhang, X.** & Fu, X. (2022, May). Codes, collaboration, and communities: A network analysis of the online communities of data-driven journalism on a social coding platform. Paper presented at the 72nd Annual Conference of the International Communication Association (**ICA**), Paris, France, 26-30 May 2022.
 
@@ -189,7 +198,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: July 2023) 
+(updated: May 2024) 
 
 
 --
