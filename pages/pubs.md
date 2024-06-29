@@ -83,15 +83,15 @@ description: Xinzhi Zhang's publications
 14. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q1 (18%) in SSCI** – Communication, 2012 JCR IF = 1.594, Elsevier)
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings/other outputs (14)
+#### 1B. peer-reviewed publications/book chapters/proceedings/other professional outputs (14)
 
-1. **Zhang, X.**, Chang, Y.#, Ping, H.#, & ZHu, R.# (2024). The government and public sector's debunking in Hong Kong: A case of the COVID-19 vaccination. In Tsang, S., Zhou, L., and Huang, Y. (eds) *Decoding Fact-Checking*. page 206-231. Hong Kong: Commercial Press. [張昕之、常媛媛、平曉欣 & 朱蕊（2024）。<政府和公營機構的澄清: 以新冠疫苗為例>。《解構事實查核》。 曾姿穎,、周琳 & 黃煜主編。 頁206-231，香港：商務印書館] (# student co-author)
+1. **Zhang, X.**, Chang, Y.#, Ping, H.#, & ZHu, R.# (2024). The government and public sector's debunking in Hong Kong: A case of the COVID-19 vaccination. In Tsang, S., Zhou, L., and Huang, Y. (eds) *Decoding Fact-Checking*. page 206-231. Hong Kong: Commercial Press. [張昕之、常媛媛、平曉欣 & 朱蕊（2024）。<政府和公營機構的澄清: 以新冠疫苗為例>。《解構事實查核》。 曾姿穎、周琳 & 黃煜主編。 頁206-231，香港：商務印書館] (# student co-author)
 
 2. Chang, L. & **Zhang, X.** (2024). [Introduction to the Special Issue: Platforms for social good](https://journals.sagepub.com/doi/10.1177/20594364241241777). *Global Media and China*, 20594364241241777.
 
-3. **Zhang, X.** & Fu, X. (2022). Fact-checkers’ usage of clickbait element on social media and its effects on user engagement. *Global Journal of Media Studies*. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
+3. **Zhang, X.** & Fu, X. (2022). [Fact-checkers’ usage of clickbait element on social media and its effects on user engagement](https://www.tsjc.tsinghua.edu.cn/__local/3/21/02/79EC341BBF36B0BBCD630C95413_DB33D582_DCB76.pdf). *Global Journal of Media Studies*. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
 
-4. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July) [A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation](https://dl.acm.org/doi/10.1145/3543829.3544530). In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
+4. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July). [A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation](https://dl.acm.org/doi/10.1145/3543829.3544530). In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
 
 5. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). [Informing the design of a news chatbot](https://dl.acm.org/doi/10.1145/3472306.3478358). IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 
@@ -105,7 +105,7 @@ description: Xinzhi Zhang's publications
 
 10.  Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
-11. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%)
+11. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%) 
 
 12. **Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 

@@ -7,21 +7,22 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 <ul>
     <li><a href="#researchprojs">1. research grants</a></li>
-    <li><a href="#collaboration">2. research collaborators</a></li>
-    <li><a href="#othergrants">3. study & development grants</a></li>
+    <li><a href="#othergrants">2. study & development grants</a></li>
 </ul>
 
 ### <a name="researchprojs"></a>1. research grants 
 
- 1. May 2021 - Nov 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. *Sci-fi blockbusters' representation of cyborgs and its impacts on audiences' perception of human-machine communication*. [88,200 HKD]. Completed. [The Project Website by the Hong Kong Baptist University Library](https://digital.lib.hkbu.edu.hk/cyborg/). 
+ 1. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Research Grants Council (RGC), Hong Kong SAR. *How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning*. with PI: Prof Yuner Zhu (Hong Kong Baptist University) [411,855 HKD]. On-going.
+
+ 2. May 2021 - Nov 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. *Sci-fi Blockbusters' Representation of Cyborgs and its Impacts on Audiences' Perception of Human-Machine Communication*. [88,200 HKD]. Completed. [The Project Website by the Hong Kong Baptist University Library](https://digital.lib.hkbu.edu.hk/cyborg/). 
 
  2. Jan 2021 - Feb 2022. Role: Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the (then) Policy Innovation and Co-ordination Office (**PICO**) of the Government of the Hong Kong SAR, Project 2020.A2.043.20C. [Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.](https://www.cepu.gov.hk/en/PRFS/ppr-reports.html) [356,972 HKD]. Completed. [Final report](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2020.A2.043.20C_Final%20Report_Dr%20Zhang.pdf) on the PPR database by the Chief Executive's Policy Unit of Hong Kong SAR.
 
- 3. Sep 2020 - Aug 2022. Role: Principal Investigator (**PI**), with Dr. Tai-quan Peng (Michigan State University, the US), Dr. Qinfeng Zhu (University of Groningen, the Netherlands), Dr. Li Chen (Hong Kong Baptist University), and Dr. Nancy Guo (Hong Kong Polytechnic University). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420. [Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12602420&old_proj_id=null&proj_title=&isname=Zhang&ioname=Xinzhi&institution=&subject=&pages=1&year=&theSubmit=12602420) [408,256 HKD]. Completed.  [*In this project, I am working with a cross-disciplinary and cross-country research team with scholars with expertise in media psychology, human-computer interaction, political communication, and sociolinguistics. The project examines why misinformation debunking messages published by the public health sectors during the COVID-19 pandemic may fail to counteract the COVID-19 misinformation on social media using comparative population-based online survey experiments.*] 
+ 3. Sep 2020 - Aug 2022. Role: Principal Investigator (**PI**), General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12602420. [Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12602420&old_proj_id=null&proj_title=&isname=Zhang&ioname=Xinzhi&institution=&subject=&pages=1&year=&theSubmit=12602420) [408,256 HKD]. Completed.  [*This project involves a cross-disciplinary and cross-country research team with scholars in media psychology, human-computer interaction, political communication, and sociolinguistics, including with Prof Tai-quan Peng (Michigan State University, the US), Prof Qinfeng Zhu (University of Groningen, the Netherlands), and Prof Li Chen (Hong Kong Baptist University). The project examines why misinformation debunking intervention by the public health sectors would fail to counteract the COVID-19 misinformation on social media using comparative online survey experiments.*] 
 
  3. May 2020 - Nov 2023. Role: Co-Investigator (**Co-I**). The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* [937,500 HKD]. Completed.
   
- 4. Sep 2019 - August 2021. Role: Principal Investigator (**PI**), with Dr. Wan-Ying Lin (City University of Hong Kong), Prof William H. Dutton (University of Oxford). The General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319. [The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12609319&old_proj_id=null&proj_title=&isname=Zhang&ioname=Xinzhi&institution=&subject=&pages=1&year=&theSubmit=12609319) [445,520 HKD]. Completed. [*In this project, I worked with Professor William Dutton at Oxford and Dr. Wan-Ying Lin at the Hong Kong City U to investigate how people’s self-censorship and information repertoire filtration on social media affect political engagement in a polarized context with mixed-methods (virtual focus-group interviews plus a two-wave population-based online panel survey).*]  
+ 4. Sep 2019 - August 2021. Role: Principal Investigator (**PI**), General Research Fund (**GRF**) by the University Grants Committee (UGC), Hong Kong SAR, Project#12609319. [The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12609319&old_proj_id=null&proj_title=&isname=Zhang&ioname=Xinzhi&institution=&subject=&pages=1&year=&theSubmit=12609319) [445,520 HKD]. Completed. [*In this project, I worked with Professor William Dutton at Oxford and Dr. Wan-Ying Lin at the Hong Kong City U to investigate how people’s self-censorship and information repertoire filtration on social media affect political engagement in a polarized context with mixed-methods (virtual focus-group interviews and a two-wave population-based online panel survey).*]  
 
  5. May 2018 - May 2019. Role: Principal Investigator (**PI**). Faculty Research Grant (**FRG**), Hong Kong Baptist University. *Codes and Coders in the Newsrooms: New Technology Adoption and Interdisciplinary Collaboration in Hong Kong’s Local News Organizations.* [44,100 HKD]. Completed. 
 
@@ -31,12 +32,8 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
  8. Jan 2012 - Feb 2013. Role: Principal Investigator (**PI**). Research Expense Grant for Doctoral Dissertation. Chow Yei Ching School of Graduate Studies, City University of Hong Kong. *Social Media Use, Political Attitudes, and Political Participation: A Comparison of Mainland China, Hong Kong, and Taiwan.* [15,000 HKD]. Completed.  
 
-### <a name="collaboration"></a>2. research collaborators
 
-I have collaborated with scholars from several universities, including Michigan State University (US), University of Califonia, Davis (US), University of Groningen (the Netherlands), University of Oxford (UK), City University of Hong Kong, Hong Kong Polytechnic University, Beijing Normal University, Sun Yat-sen University, and Southwestern University. 
-
-
-### <a name="othergrants"></a>3. study & travel grants
+### <a name="othergrants"></a>2. study & travel grants
 
 - External competitive grants
 
