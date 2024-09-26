@@ -15,7 +15,7 @@ description: Xinzhi Zhang's Chinese biography
 
 我成長於中國深圳，中學畢業於深圳實驗學校（本部初中以及高中部），本科畢業於廣州大學廣播電視新聞系（2008）。其後，我2009年於香港城市大學以優異成績獲得傳播與新媒體文學碩士學位，2013年於香港城市大學獲得媒體與傳播博士學位。 2022年秋，我在美國加州大學戴維斯分校傳播學系擔任訪問學者。
 
-我正在招募2025年入學的博士生。詳情請參閱[Position(s) Available]部分。 
+我正在招募2025年入學的博士生。詳情請參閱我在[香港城市大學的官方信息](https://scholars.cityu.edu.hk/en/persons/xinzhi-zhang(8239952f-6577-4dc5-b023-9f6594af8ca9)/opportunities.html)。 
 
 （更新時間：2024年9月） 
 

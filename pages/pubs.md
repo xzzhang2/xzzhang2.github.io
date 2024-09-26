@@ -5,7 +5,7 @@ description: Xinzhi Zhang's publications
 ---
 
 - ORCID: [0000-0003-3479-9327](https://orcid.org/0000-0003-3479-9327) 
-- Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Xinzhi_Zhang3) [CityU_Scholar](https://scholars.cityu.edu.hk/en/persons/xinzhi-zhang(8239952f-6577-4dc5-b023-9f6594af8ca9).html) 
+- Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [CityUHK_Scholar](https://scholars.cityu.edu.hk/en/persons/xinzhi-zhang(8239952f-6577-4dc5-b023-9f6594af8ca9).html) 
 
 ---
 
@@ -22,7 +22,7 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes the research students or research staffs under my supervision; \* denotes the corresponding author)* 
 
-1. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform. *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
+1. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
 
 2. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
