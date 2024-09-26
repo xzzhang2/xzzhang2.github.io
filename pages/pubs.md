@@ -20,7 +20,7 @@ description: Xinzhi Zhang's publications
 
 #### 1A. SSCI journal articles (31)
 
-*(\# denotes the research students or research staffs under my supervision; \* denotes the corresponding author)* 
+*(\# denotes students, \* denotes the corresponding author)* 
 
 1. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
 
