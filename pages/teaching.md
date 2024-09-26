@@ -51,6 +51,9 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 
 |Course code and title | Level |   
 |--- | --- |
+| COM5111 AI and Digital Marketing for Entrepreneurs (elective course for MA in Integrated Marketing Communication | Postgraduate |
+| COM2510 Generative AI for Multimedia Authoring (elective course for BA (Hons) in Media and Communication) | Undergraduate |
+| COM5101 Communication Fundamentals (core course for MA in Communication and New Media) | Postgraduate |  
 | COM3109 Media and Communication in Chinese Contexts (core course for BA (Hons) in Media and Communication) | Undergraduate |
 | COM5507 (guest lecturer in 2018 Fall) Social Media Data Acquisition and Processing core course for MA in Communication and New Media ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
 | COM3119 International Communication (core course for BA (Hons) in Media and Communication) | Undergraduate | 
