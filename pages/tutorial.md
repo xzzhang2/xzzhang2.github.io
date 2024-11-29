@@ -4,7 +4,11 @@ title: outreach
 description: Xinzhi Zhang's outreach activities and social impacts
 ---
 
-I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. I have also interviewed by news media, and contributed to the news media as a commentator. 
+I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
+
+I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the AI and Digital Journalism International Symposium at the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
+
+My perspectives on AI and digital media have also been featured in major outlets, including Nikkei Asian Review, Phoenix TV, and China Daily. 
 
 ---
 

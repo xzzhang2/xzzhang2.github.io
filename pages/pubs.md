@@ -26,7 +26,7 @@ description: Xinzhi Zhang's publications
 
 2. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
-3. **Zhang, X.** & Zhu, R.\# (2022). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+3. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
 
 4. Zhu, R.\# & **Zhang, X.**\* (2023). [Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong](https://academic.oup.com/heapro/article-abstract/38/3/daad053/7189927). *Health Promotion International*. Online first. doi: 10.1093/heapro/daad053. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
 
@@ -207,7 +207,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: Sep 2024) 
+(updated: Oct 2024) 
 
 
 --
