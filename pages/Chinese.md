@@ -7,7 +7,7 @@ description: Xinzhi Zhang's Chinese biography
 
 您好！我是張昕之，現為香港城市大學（CityUHK）媒體與傳播系終身副教授兼研究主任。我的研究領域涵蓋人工智能與新聞生產、政治傳播、人工智能法律與政策、以及計算社會科學。我目前的研究關注生成式人工智能和社交媒體平台如何改變新聞生產與傳播的過程，以及傳播技術如何影響公民的公共參與和政府決策。我希望通過這些研究成果促進社會各群體間多元和開放的對話，同時協助政府部門、新聞機構、和科技企業設計有效的資訊發布和溝通策略，改善傳播實踐。
 
-我的研究曾獲得多項國際科研資助計劃的支持，包括香港特別行政區大學教育資助委員會（UGC）的優配研究金（GRF）以及香港政府的公共政策研究資助計劃（PPR）。2013年以來，我在經同行匿名評審的國際期刊上發表了40多篇論文，包括若干重要期刊如《傳播學刊》（*Journal of Communication*）, 《人類傳播研究》（*Human Communication Research* ), 《社交媒體與社會》（*Social Media + Society*）, 《數字新聞學》(*Digital Journalism*) ， 《社會科學計算機評論》（*Social Science Computer Review*）, 《新聞學》（* Journalism*）, 《健康傳播》（*Health Communication*）等。 詳細的論文篇目，請參閱[Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) ，並曾獲得美國新聞與大眾傳播教育協會（AEJMC）和國際傳播學會（ICA）頒發的最佳論文獎。
+我的研究曾獲得多項國際科研資助計劃的支持，包括香港特別行政區大學教育資助委員會（UGC）的優配研究金（GRF）以及香港政府的公共政策研究資助計劃（PPR）。2013年以來，我在匿名評審的國際期刊上發表了40多篇論文，包括若干重要期刊如《傳播學刊》（*Journal of Communication*）, 《人類傳播研究》（*Human Communication Research* ), 《社交媒體與社會》（*Social Media + Society*）, 《數字新聞學》(*Digital Journalism*) ， 《社會科學計算機評論》（*Social Science Computer Review*）, 《新聞學》（* Journalism*）, 《健康傳播》（*Health Communication*）等，並曾獲得美國新聞與大眾傳播教育協會（AEJMC）和國際傳播學會（ICA）頒發的最佳論文獎。詳細的論文篇目，請參閱 [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en)。
 
 在加入香港城市大學之前，我曾在香港浸會大學傳理學院任教八年，曾任新聞系助理教授、互動媒體系擔任終身副教授，並擔任人工智能與數碼媒體理學碩士課程（2019-23）的創始課程主任，該課程是香港乃至亞太地區較早的同類課程，並入選香港特區政府大學教育資助委員會（UGC）的「研究生課程獎學金計劃」。此外，我還和香港浸會大學新聞系和計算機科學系的團隊合作，主導了香港首個數據新聞本科專業——數據與媒體傳播的創立（2017），推動了計算新聞、數據驅動調查報導以及新聞產品的教學與科研。
 
