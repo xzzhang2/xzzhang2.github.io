@@ -22,9 +22,17 @@ My perspectives on AI and digital media have also been featured in major outlets
 ### <a name="talks"></a>1. invited talks at public research seminars  
 
 
-- May 2024. Speaker for the research panel, The 10th Macau International Communication Week 2024. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
+- Nov 2024. *The Hype vs. Reality of Generative AI in Newsrooms: Navigating Ethical Pitfalls and Implementation Challenges*. The International Symposium on AI and Journalism, the Korea Advanced Institute of Science and Technology (KAIST), Seoul, South Korea. 
+
+- July 2024. *How AI Fails the Newsroom*. The 4th International Academic Conference on Global Bay Area Development Economic Development and Social Governance. Institute of Guangdong, Hongkong and Macao Development Studies, Sun Yat-sen University. Shenzhen, China.  
+
+- June 2024. *The Politics of Public Health Communication*. School of Public Health, the University of Hong Kong (HKU). Hong Kong. 
+
+- May 2024. *Digital Technologies-Enhanced Government-Citizen Interaction for Public Health Campaigns*. Invited speaker for the research panel, The 10th Macau International Communication Week 2024. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
 
 - Jun 2023. Panel member, "Generative AI Insights: Conference Bridging Generative AI with Academia." The Chinese University of Hong Kong. [Event page](https://www.aiforeducation.net/gain2023). 
+
+- Oct 2022. *Digitally Mediated Disconnectivity*. Social Media Lab, Stanford University. the US. 
 
 - Sep 2022. Speaker at the departmental research seminar, Department of Communication, University of California at Davis, the US. 
 
@@ -91,8 +99,7 @@ My perspectives on AI and digital media have also been featured in major outlets
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-(updated: May 2024) 
-
+(updated: Jan 2025) 
 
 --
 

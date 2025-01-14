@@ -16,19 +16,23 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. publications (total: 47)
+### <a name="publications"></a>1. publications (total: 49)
 
-#### 1A. SSCI journal articles (31)
+#### 1A. SSCI journal articles (33)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
+1. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025, forthcoming). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. *International Journal of Press/Politics*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
 
-2. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+2. Xue, H., Zhang, J., & **Zhang, X.** (2025, forthcoming). Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States. *Social Media + Society*. [**Q1** (top 10%) in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
 
-3. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+3. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
 
-4. Zhu, R.\# & **Zhang, X.**\* (2023). [Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong](https://academic.oup.com/heapro/article-abstract/38/3/daad053/7189927). *Health Promotion International*. Online first. doi: 10.1093/heapro/daad053. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
+4. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+
+5. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
+
+6. Zhu, R.\# & **Zhang, X.**\* (2023). [Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong](https://academic.oup.com/heapro/article-abstract/38/3/daad053/7189927). *Health Promotion International*. Online first. doi: 10.1093/heapro/daad053. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
 
 5. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research, 49*(2), 139-148. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
 

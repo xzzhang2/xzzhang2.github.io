@@ -8,7 +8,7 @@ I teach interdisciplinary courses on digital media and human communication, mult
 
 I have supervised eight postgraduate students (as the capstone project supervisor) and four research students. Most of them are either continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. My students have won best paper awards at the ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
 
-I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested in working with our team. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) under my supervision in the 2025/26 academic year. 
+I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital popular culture and beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested in working with our team. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) under my supervision in the 2026/27 academic year. 
 
 
 ---
