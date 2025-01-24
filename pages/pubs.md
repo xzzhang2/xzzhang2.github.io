@@ -22,11 +22,11 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. **Zhang, X.** & Lu, F. (2025, forthcoming). Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust. *Policy & Internet*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Wiley.] 
+1. **Zhang, X.** & Lu, F. (2025, in press). Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust. *Policy & Internet*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Wiley.] 
 
-2. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025, forthcoming). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. *International Journal of Press/Politics*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
+2. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025, in press). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. *International Journal of Press/Politics*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
 
-3. Xue, H., Zhang, J., & **Zhang, X.** (2025, forthcoming). Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States. *Social Media + Society*. [**Q1** (top 10%) in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
+3. Xue, H., Zhang, J., & **Zhang, X.** (2025, in press). Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States. *Social Media + Society*. [**Q1** (top 10%) in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
 
 4. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
 
