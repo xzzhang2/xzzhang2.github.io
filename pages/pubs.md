@@ -22,13 +22,13 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. **Zhang, X.** & Lu, F. (2025, in press). Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust. *Policy & Internet*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Wiley.] 
+1. **Zhang, X.** & Lu, F. (2025, in press). Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust. *Policy & Internet*. [top 8% in **SSCI** – Public Administration, 2024 JCR IF = 4.1, Wiley.] 
 
-2. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025, in press). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. *International Journal of Press/Politics*. [**Q1** in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
+2. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. [top 10% in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
 
-3. Xue, H., Zhang, J., & **Zhang, X.** (2025, in press). Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States. *Social Media + Society*. [**Q1** (top 10%) in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
+3. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. [top 2.5% in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
 
-4. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [**Q1** in **SSCI** – Social Sciences, Interdisciplinary. 2022 JCR IF = 3.70, Springer Nature Limited.] 
+4. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [top 1% in **SSCI** – General Arts and Humanities. 2022 JCR IF = 3.70, Springer Nature Limited.] 
 
 5. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
@@ -213,7 +213,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: Jan 2025) 
+(updated: Mar 2025) 
 
 
 --
