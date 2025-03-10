@@ -10,15 +10,15 @@ description: Xinzhi Zhang's publications
 ---
 
 <ul>
-    <li><a href="#publications">1. publications</a></li>
+    <li><a href="#publications">1. peer-reviewed publications</a></li>
     <li><a href="#conferences">2. conferences</a></li>
 </ul>
 
 ---
 
-### <a name="publications"></a>1. publications (total: 50)
+### <a name="publications"></a>1. peer-reviewed publications (total: 53)
 
-#### 1A. SSCI journal articles (34)
+#### 1A. SSCI journal articles (37)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
@@ -213,7 +213,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: Mar 2025) 
+(updated: April 2025) 
 
 
 --
