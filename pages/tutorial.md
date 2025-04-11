@@ -19,26 +19,27 @@ My perspectives on AI and digital media have also been featured in major outlets
 </ul>
 
 
-### <a name="talks"></a>1. invited talks at public research seminars  
+### <a name="talks"></a>1. invited plenary speaker at public research seminars  
 
+- Mar 2025. Invited plenary speaker, *How Generative AI (GenAI) Empowers News Fact-Checking: Challenges and Transformations for Editorial Decision-Makers*. The “Editors-in-Chief Lecture Series”, the Hong Kong Headquarters of Phoenix TV, Hong Kong SAR. 
 
-- Nov 2024. *The Hype vs. Reality of Generative AI in Newsrooms: Navigating Ethical Pitfalls and Implementation Challenges*. The International Symposium on AI and Journalism, the Korea Advanced Institute of Science and Technology (KAIST), Seoul, South Korea. 
+- Nov 2024. Invited plenary speaker, *The Hype vs. Reality of Generative AI in Newsrooms: Navigating Ethical Pitfalls and Implementation Challenges*. The International Symposium on AI and Journalism, the Korea Advanced Institute of Science and Technology (KAIST), Seoul, South Korea. 
 
-- July 2024. *How AI Fails the Newsroom*. The 4th International Academic Conference on Global Bay Area Development Economic Development and Social Governance. Institute of Guangdong, Hongkong and Macao Development Studies, Sun Yat-sen University. Shenzhen, China.  
+- July 2024. Invited plenary speaker, *How AI Fails the Newsroom*. The 4th International Academic Conference on Global Bay Area Development Economic Development and Social Governance. Institute of Guangdong, Hongkong and Macao Development Studies, Sun Yat-sen University. Shenzhen, China.  
 
-- June 2024. *The Politics of Public Health Communication*. School of Public Health, the University of Hong Kong (HKU). Hong Kong. 
+- June 2024. Invited speaker, *The Politics of Public Health Communication*. School of Public Health, Li Ka Shing Faculty of Medicine, University of Hong Kong (HKU). Hong Kong SAR. 
 
-- May 2024. *Digital Technologies-Enhanced Government-Citizen Interaction for Public Health Campaigns*. Invited speaker for the research panel, The 10th Macau International Communication Week 2024. The Macau University of Science and Technology. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
+- May 2024. Invited plenary speaker. *Digital Technologies-Enhanced Government-Citizen Interaction for Public Health Campaigns*. The 10th Macau International Communication Week 2024. The Macau University of Science and Technology, Macau SAR. [Event page](https://fa.must.edu.mo/id-14655/file/view/id-11391.pdf?locale=zh_MO). 
 
-- Jun 2023. Panel member, "Generative AI Insights: Conference Bridging Generative AI with Academia." The Chinese University of Hong Kong. [Event page](https://www.aiforeducation.net/gain2023). 
+- Jun 2023. Panel discussant, "Generative AI Insights: Conference Bridging Generative AI with Academia." The Chinese University of Hong Kong. [Event page](https://www.aiforeducation.net/gain2023). 
 
-- Oct 2022. *Digitally Mediated Disconnectivity*. Social Media Lab, Stanford University. the US. 
+- Oct 2022. Invited speaker, *The Politics of Digital Disconnection*. Social Media Lab, Stanford University, the US. 
 
-- Sep 2022. Speaker at the departmental research seminar, Department of Communication, University of California at Davis, the US. 
+- Sep 2022. Invited speaker, *Digitally Mediated Disconnectivity*. Department of Communication, University of California at Davis, the US. 
 
-- Jan 2021. Panel member and speaker. "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](https://www.com.cuhk.edu.hk/research/visiting-scholar-program-2021/). 
+- Jan 2021. Panel member and invited speaker. "Digital Media as Data and Methods". The Chinese University of Hong Kong Communication Visiting Scholar Program 2021. [Event page](https://www.com.cuhk.edu.hk/research/visiting-scholar-program-2021/). 
 
-- Sep 2020. Keynote speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
+- Sep 2020. Invited plenary speaker. The Computational Communication Research Forum, the 9th China National Conference on Social Media Processing (SMP), China. [Event page](https://smp2020.aconf.cn/computational_forum.html). 
 
 - Apr 2020. Member of the Organizing Committee and Workshop Speaker for the *2020 Global Virtual Hack and Design Challenge – Empower Community during and after COVID-19* - A virtual design hackathon on the application of digital media, design thinking, computational thinking, and group collaboration for society well-being. (The [Event page](https://www.comp.hkbu.edu.hk/designworkshop/2020virtualhack/) and [press release](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-virtual-competition-connects-global-youth-to-counter-the-pandemic-with-innovative-ideas/)).  
 
@@ -48,7 +49,7 @@ My perspectives on AI and digital media have also been featured in major outlets
 
 - Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University (The [Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).   
 
-- Oct 2018. Public research seminar *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
+- Oct 2018. Invited plenary speaker, *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
 
 - Jun 2018. Three-day public seminar plus workshop: *Data-driven Journalism Workshop @ CUCN, Nanjing* (中国传媒大学南广学院2018数据新闻工作坊) (Co-lectured by Xinzhi Zhang & Pili Hu, HKBU) (The [Workshop Repo](https://github.com/xzzhang2/201806_cucnddj)).
 
@@ -99,7 +100,7 @@ My perspectives on AI and digital media have also been featured in major outlets
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-(updated: Jan 2025) 
+(updated: April 2025) 
 
 --
 

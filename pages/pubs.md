@@ -5,7 +5,7 @@ description: Xinzhi Zhang's publications
 ---
 
 - ORCID: [0000-0003-3479-9327](https://orcid.org/0000-0003-3479-9327) 
-- Profiles: [GoogleScholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [CityUHK_Scholar](https://scholars.cityu.edu.hk/en/persons/xinzhi-zhang(8239952f-6577-4dc5-b023-9f6594af8ca9).html) 
+- Profiles: [Google_Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en) [CityUHK_Scholar](https://scholars.cityu.edu.hk/en/persons/xinzhi-zhang(8239952f-6577-4dc5-b023-9f6594af8ca9).html) 
 
 ---
 
@@ -22,15 +22,17 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. **Zhang, X.** & Lu, F. (2025, in press). Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust. *Policy & Internet*. [top 8% in **SSCI** – Public Administration, 2024 JCR IF = 4.1, Wiley.] 
+1. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [top 10% in **SSCI** – Communication, 2024 JCR IF = 4.2, Wiley.]
 
-2. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. [top 10% in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
+2. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [top 8% in **SSCI** – Public Administration, 2024 JCR IF = 4.1, Wiley.] 
 
-3. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. [top 2.5% in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
+3. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [top 10% in **SSCI** – Communication, 2024 JCR IF = 4.1, Sage Publications Ltd.]
 
-4. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [top 1% in **SSCI** – General Arts and Humanities. 2022 JCR IF = 3.70, Springer Nature Limited.] 
+4. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [top 2.5% in **SSCI** - Communication, 2024 JCR IF = 5.5, Sage Publications Ltd.] 
 
-5. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
+5. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [top 1% in **SSCI** – General Arts and Humanities. 2022 JCR IF = 3.70, Springer Nature Limited.] 
+
+6. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [**Q1 (top 5%) in SSCI** - Communication, 2021 JCR IF = 6.847, Sage Publications Ltd.] 
 
 5. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [**SSCI** - Communication, 2021 JCR IF = 2.328, Routledge Journals, Taylor & Francis Ltd.]
 
