@@ -7,9 +7,9 @@ seo:
 ---
 
 
-Welcome! I am Xinzhi Zhang, an Associate Professor with tenure in the [Department of Media and Communication](https://www.cityu.edu.hk/com/Profile.aspx?u=xzzhang2) (COM) at the [City University of Hong Kong](https://www.cityu.edu.hk/) (CityUHK). 
+Welcome! I am Xinzhi Zhang, an Associate Professor with tenure in the [Department of Media and Communication](https://www.cityu.edu.hk/com/Profile.aspx?u=xzzhang2) at the [City University of Hong Kong](https://www.cityu.edu.hk/) (CityUHK). 
 
-My research focuses on digital journalism, political communication, technology and global governance, and computational social science. I study how emerging technologies, particularly Generative AI and platforms, are transforming news production and dissemination, as well as how technology-mediated communication influences citizens' news use, public engagement, and government policymaking. My research profile is on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ). 
+My research focuses on digital journalism, political communication, technology and global governance, and computational social science. I study how emerging technologies, particularly (Generative) AI and platforms, are transforming news production and dissemination, as well as how technology-mediated communication influences citizens' news use, public engagement, and government policymaking. My research profile is on [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ). 
 
 I have authored over 50 peer-reviewed articles in top-tier journals such as *Human Communication Research*, *Journal of Communication*, *Social Media + Society*, *Journalism*, *International Journal of Press/Politics*, *Health Communication*, and *Digital Journalism*, earning top paper awards from the International Communication Association (**ICA**) and the Association for Education in Journalism and Mass Communication (**AEJMC**). [[Here is my publication list](https://xzzhang2.github.io/pages/pubs.html)] 
 
