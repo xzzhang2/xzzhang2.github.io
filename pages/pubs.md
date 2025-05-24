@@ -16,17 +16,19 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. peer-reviewed publications (total: 53)
+### <a name="publications"></a>1. peer-reviewed publications (total: 54)
 
 #### 1A. SSCI journal articles (37)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 18% (18th/96) in SSCI - Communication, top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
+1. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 26% (25th/96) in SSCI - Communication, top 21% (41th/first 200) in Scopus - Communication. Sage Publications Ltd.] 
 
-2. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 12% (23rd/187) in SSCI - Political Science, top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
+2. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 18% (18th/96) in SSCI - Communication, top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-3. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 21% (20th/96) in SSCI - Communication, top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
+3. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 12% (23rd/187) in SSCI - Political Science, top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
+
+4. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 21% (20th/96) in SSCI - Communication, top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
 
 4. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [Top 6% (5th/96) in SSCI - Communication, top 13% (26th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
 
@@ -94,7 +96,7 @@ description: Xinzhi Zhang's publications
 
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings/other professional outputs (16)
+#### 1B. peer-reviewed publications/book chapters/proceedings/other professional outputs (17)
 
 1. Zhou, S., Liu, X. F., Nah, F. F. H., Harrison, S., **Zhang, X.**, Zhen, S., ... & Li, P. (2024, July). Understanding and Fighting Scams: Media, Language, Appeals and Effects. In the Proceedings of 26th International Conference on Human-Computer Interaction (HCI International 2024). volume 69, LNCS 15380. Springer. 
 
