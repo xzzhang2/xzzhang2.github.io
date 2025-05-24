@@ -215,7 +215,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: April 2025) 
+(updated: May 2025) 
 
 
 --

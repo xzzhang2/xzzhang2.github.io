@@ -20,7 +20,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
  3. Sep 2020 - Aug 2022. Principal Investigator (**PI**), General Research Fund (**GRF**) by the Research Grants Council (**RGC**), Hong Kong SAR, Project#12602420. [Why Fact-Checking Fails? Factors Influencing the Effectiveness of Corrective Messages Countering Misinformation on Social Media: A Comparison of Hong Kong, the United States, and the Netherlands.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12602420&old_proj_id=null&proj_title=&isname=Zhang&ioname=Xinzhi&institution=&subject=&pages=1&year=&theSubmit=12602420) [408,256 HKD]. Completed. 
 
- 3. May 2020 - Nov 2023. Co-Investigator (**Co-I**). The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* [937,500 HKD]. Completed.
+ 3. May 2020 - Nov 2023. Co-Principal Investigator (**Co-PI**). The Interdisciplinary Research Clusters Matching Scheme (IRCMS) by the University Research Clusters, Hong Kong Baptist University. *Engaging the Audience with AI-powered News Chatbots: Developing and Evaluating a Critiquing-oriented Conversational Recommender System for Digital News.* [937,500 HKD]. Completed.
   
  4. Sep 2019 - August 2021. Principal Investigator (**PI**), General Research Fund (**GRF**) by the Research Grants Council (**RGC**), Hong Kong SAR, Project#12609319. [The Making and Unmaking of the Public Sphere: Outcomes of Political Disagreement, Expression Avoidance, and a Filtered Information Repertoire.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12609319&old_proj_id=null&proj_title=&isname=Zhang&ioname=Xinzhi&institution=&subject=&pages=1&year=&theSubmit=12609319) [445,520 HKD]. Completed. 
 
@@ -60,7 +60,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  8. Sep 2009 - Aug 2013. University Grants Council (UGC) Scholarship, Hong Kong.
 
 
-(updated: April 2025) 
+(updated: June 2025) 
 
 
 --
