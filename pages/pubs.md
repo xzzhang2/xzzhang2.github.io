@@ -16,15 +16,19 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. peer-reviewed publications (total: 54)
+### <a name="publications"></a>1. peer-reviewed publications (total: 57)
 
-#### 1A. SSCI journal articles (37)
+#### 1A. SSCI journal articles (40)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 26% (25th/96) in SSCI - Communication, top 21% (41th/first 200) in Scopus - Communication. Sage Publications Ltd.] 
+1. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025, in press). Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms. *Computers in Human Behavior.* 
 
-2. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 18% (18th/96) in SSCI - Communication, top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
+2. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. 
+
+3. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 26% (25th/96) in SSCI - Communication, top 21% (41th/first 200) in Scopus - Communication. Sage Publications Ltd.] 
+
+5. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 18% (18th/96) in SSCI - Communication, top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
 3. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 12% (23rd/187) in SSCI - Political Science, top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
 
