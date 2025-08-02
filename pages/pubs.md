@@ -10,31 +10,31 @@ description: Xinzhi Zhang's publications
 ---
 
 <ul>
-    <li><a href="#publications">1. peer-reviewed publications</a></li>
+    <li><a href="#publications">1. publications</a></li>
     <li><a href="#conferences">2. conferences</a></li>
 </ul>
 
 ---
 
-### <a name="publications"></a>1. peer-reviewed publications (total: 57)
+### <a name="publications"></a>1. publications (total: 57)
 
-#### 1A. SSCI journal articles (40)
+#### 1A. peer-reviewed journal articles (43)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025, in press). Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms. *Computers in Human Behavior.* 
+1. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. 
 
 2. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. 
 
 3. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 26% (25th/96) in SSCI - Communication, top 21% (41th/first 200) in Scopus - Communication. Sage Publications Ltd.] 
 
-5. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 18% (18th/96) in SSCI - Communication, top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
+4. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 18% (18th/96) in SSCI - Communication, top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-3. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 12% (23rd/187) in SSCI - Political Science, top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
+5. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 12% (23rd/187) in SSCI - Political Science, top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
 
-4. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 21% (20th/96) in SSCI - Communication, top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
+6. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 21% (20th/96) in SSCI - Communication, top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
 
-4. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [Top 6% (5th/96) in SSCI - Communication, top 13% (26th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
+7. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [Top 6% (5th/96) in SSCI - Communication, top 13% (26th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
 
 5. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [Top 7% (13th/first 200) in SSCI - Social Science Interdisciplinary, top 1% (2nd/200) in Scopus - General Arts and Humanities, Springer Nature Limited.] 
 
@@ -52,6 +52,8 @@ description: Xinzhi Zhang's publications
 
 8. **Zhang, X.**, Lin, W.-Y., & Dutton, W. H. (2022). [The political consequences of online disagreement: The filtering of communication networks in a polarized political context](https://journals.sagepub.com/doi/full/10.1177/20563051221114391). *Social Media + Society, 8*(3). Online first, doi: 10.1177/20563051221114391. [**Q1 (top 15%) in SSCI** - Communication, 2021 JCR IF = 4.636, Sage Publications Ltd.]
 
+9. **Zhang, X.** & Fu, X. (2022). [Fact-checkers’ usage of clickbait element on social media and its effects on user engagement](https://www.tsjc.tsinghua.edu.cn/__local/3/21/02/79EC341BBF36B0BBCD630C95413_DB33D582_DCB76.pdf). *Global Journal of Media Studies*. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
+
 9. **Zhang, X.** & Zhu, R.\# (2022). [How source-level and message-level factors influence journalists’ social media visibility during a public health crisis](https://doi.org/10.1177/14648849211023153). *Journalism, 23*(12), 2627-2645. doi: 10.1177/14648849211023153. [**Q1 (top 16%) in SSCI** - Communication, 2020 JCR IF = 4.436, Sage Publications Ltd.] 
  
 10. **Zhang, X.** & Chen, M.\# (2022). [Journalists’ adoption and media’s coverage of data-driven journalism: A case of Hong Kong](https://www.tandfonline.com/doi/abs/10.1080/17512786.2020.1824126?journalCode=rjop20). *Journalism Practice, 16*(5), 901-919, doi: 10.1080/17512786.2020.1824126. [**SSCI** - Communication, 2019 JCR IF = 1.542, Routledge Journals, Taylor & Francis Ltd.] 
@@ -67,6 +69,8 @@ description: Xinzhi Zhang's publications
 15. **Zhang, X.** & Li, W.\# (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://www.tandfonline.com/doi/abs/10.1080/17512786.2019.1689372?journalCode=rjop20). *Journalism Practice. 14*(10), 1193-1210. doi: 10.1080/17512786.2019.1689372. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]
 
 16. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. doi: 10.1080/10410236.2019.1631565. (**Q2 in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
+
+17. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://www.sciencedirect.com/science/article/pii/S2199853122002542).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. doi: 10.3390/joitmc6010001. [**Scopus**, Elsevier.]
 
 17. Lin, W.-Y., **Zhang, X.**\* , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) 
 
@@ -98,9 +102,10 @@ description: Xinzhi Zhang's publications
 
 31. Lin, W.-Y., **Zhang, X.**, Jung, J.-Y., & Kim, Y.-C. (2013). [From the wired to wireless generation: Investigating teens’ internet use through the mobile phone](https://www.sciencedirect.com/science/article/abs/pii/S0308596112001784). *Telecommunications Policy, 37*(8), 651-661. doi:10.1016/j.telpol.2012.09.008. (**Q1 (18%) in SSCI** – Communication, 2012 JCR IF = 1.594, Elsevier)
 
+32. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
 
 
-#### 1B. peer-reviewed publications/book chapters/proceedings/other professional outputs (17)
+#### 1B. book chapters/proceedings/ professional outputs (13)
 
 1. Zhou, S., Liu, X. F., Nah, F. F. H., Harrison, S., **Zhang, X.**, Zhen, S., ... & Li, P. (2024, July). Understanding and Fighting Scams: Media, Language, Appeals and Effects. In the Proceedings of 26th International Conference on Human-Computer Interaction (HCI International 2024). volume 69, LNCS 15380. Springer. 
 
@@ -110,9 +115,7 @@ description: Xinzhi Zhang's publications
 
 4. Chang, L. & **Zhang, X.** (2024). [Introduction to the Special Issue: Platforms for social good](https://journals.sagepub.com/doi/10.1177/20594364241241777). *Global Media and China*, 20594364241241777.
 
-5. **Zhang, X.** & Fu, X. (2022). [Fact-checkers’ usage of clickbait element on social media and its effects on user engagement](https://www.tsjc.tsinghua.edu.cn/__local/3/21/02/79EC341BBF36B0BBCD630C95413_DB33D582_DCB76.pdf). *Global Journal of Media Studies*. 9, 3, p. 76-94, (in Chinese, **CSSCI**). [张昕之、傅晓艺（2022）。 〈专业事实核查机构在社交媒体中的「点击诱饵」及其传播效果研究〉。 《全球传媒学刊》（中国北京清华大学主办），第9期，页76-94.]
-
-6. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July). [A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation](https://dl.acm.org/doi/10.1145/3543829.3544530). In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
+5. Chen, L., Zhang, Z., **Zhang, X.**, & Zhao L. (2022, July). [A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation](https://dl.acm.org/doi/10.1145/3543829.3544530). In Proceedings of ACM Conference on Conversational User Interfaces (CUI’22), July 26-28, 2022. 
 
 7. Zhang, Z., **Zhang, X.**, & Chen, L. (2021, September). [Informing the design of a news chatbot](https://dl.acm.org/doi/10.1145/3472306.3478358). IVA'21: The 21st ACM International Conference on Intelligent Virtual Agents. September 14 - 17, 2021. Virtual Event, Japan. 
 
@@ -120,9 +123,7 @@ description: Xinzhi Zhang's publications
 
 9. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
 
-10. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://www.sciencedirect.com/science/article/pii/S2199853122002542).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. doi: 10.3390/joitmc6010001. [**Scopus**, Elsevier.]
-
-11. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
+10. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
 
 12.  Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
@@ -130,9 +131,7 @@ description: Xinzhi Zhang's publications
 
 14. **Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
-15. Lin, W.-Y. & **Zhang, X.** (2012). [Seeking the invisible youth: Examining the Otaku’s online-offline social capital construction in Hong Kong](http://mcr.nccu.edu.tw/word/1314522013.pdf). *Mass Communication Research, 2012*(7), 233-270. (In Chinese, **TSSCI**).  [林宛瑩，張昕之。 （2012）。 〈「隱形少年」現形記：香港御宅族網際網路使用與社會資本建構初探〉，《新聞學研究》 ，2012年第7期，頁233-270.] 
-
-16. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
+15. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
 
 
 
@@ -221,7 +220,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: May 2025) 
+(updated: Aug 2025) 
 
 
 --
