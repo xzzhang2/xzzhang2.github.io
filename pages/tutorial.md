@@ -6,7 +6,7 @@ description: Xinzhi Zhang's outreach activities and social impacts
 
 I actively contribute as a columnist to leading media outlets, including Radio Television Hong Kong (RTHK), Hong Kong Economic Journal, and FTChinese (the Chinese edition of the Financial Times). Since Aug 2025, I write a personal column for *FTChinese* (FT中文网), *[Media Innovation Observatory](https://ftchinese.com/column/007000115)*「昕媒觀察」. 
 
-/assets/images/FTChinese_IMO_202508.png
+![FTChinese_cover_202508](/assets/images/FTChinese_IMO_202508.png)
 
 I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
 
