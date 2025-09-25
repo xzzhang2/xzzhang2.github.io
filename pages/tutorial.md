@@ -4,6 +4,10 @@ title: outreach
 description: Xinzhi Zhang's outreach activities and social impacts
 ---
 
+I actively contribute as a columnist to leading media outlets, including Radio Television Hong Kong (RTHK), Hong Kong Economic Journal, and FTChinese (the Chinese edition of the Financial Times). Since Aug 2025, I write a personal column for *FTChinese* (FT中文网), *[Media Innovation Observatory](https://ftchinese.com/column/007000115)*「昕媒觀察」. 
+
+/assets/images/FTChinese_IMO_202508.png
+
 I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
 
 I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the AI and Digital Journalism International Symposium at the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
@@ -47,7 +51,7 @@ My perspectives on AI and digital media have also been featured in major outlets
 
 - Jan 2019. Member of the Organizing Committee, Workshop Speaker, and Tutor for *The Data and Media Hack*  - A hackathon on the application of digital media, coding, and design. The first media-related hackathon in the Hong Kong region. (The [Event page](http://bu-dmc.hkbu.edu.hk/dmh/)).
 
-- Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University (The [Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).   
+- Nov 2018. *Invitation to Python* A Python Workshop organized by the Data and Media Communication Concentration, 24 Nov 2018, 10:00 - 16:00, CVA 702, Hong Kong Baptist University (The [Workshop Repo](https://github.com/xzzhang2/201811_budmc_Invitation2Py)).
 
 - Oct 2018. Invited plenary speaker, *Can we agree on data-driven journalism? Opinion fragmentation in the representation of data-driven journalism in the Twittersphere* The 3rd Annual Conference on Digital Media Studies 13 – 14 October, 2018, Beijing Normal University, Beijing, China.
 

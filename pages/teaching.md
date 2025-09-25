@@ -15,7 +15,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 
 <ul class="nav">
     <li><a href="#hkbu_rds">1. research supervision (2018 - present)</a></li>
-    <li><a href="#cityu_courese">2. courses @ CityU (2013, 2018, 2024 - present) </a></li>    
+    <li><a href="#cityu_courese">2. courses @ CityU (2013, 2018, 2024 - present) </a></li>  
     <li><a href="#hkbu_course">3. courses @ HKBU (2016 - 23)</a></li>
     <li><a href="#polyu_course">4. courses @ PolyU (2014 - 16)</a></li>
 </ul>
@@ -24,13 +24,14 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 ### <a name="hkbu_rds"></a>1. research supervision (2018 - present)
 
 1. Research students
+ - [Jieying Han](https://scholars.cityu.edu.hk/en/persons/jieyinhan2) (principal supervision, Ph.D., 2025 - ) *in-progress* 
+ - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (co-supervision, Ph.D., 2024 - ) *in-progress* 
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *ABD*
- - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (co-supervision, Ph.D., 2024 - ) *in-progress*
- - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *in-progress* 
- - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - ) *ABD* 
+ - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *ABD* 
+ - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - 2025) *Graduated* 
  - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, PhD researcher at the Tampere University, Finland. 
  - [Zhi Lin](https://scholar.google.com/citations?user=N0hz9gwAAAAJ) (co-supervision, M.Phil., 2019 - 21) *Graduated*, PhD candidate at the University of Texas at Austin, the US.  
- - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Lecturer at Hong Kong Baptist University. 
+ - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Assistant Professor at Hong Kong Shue Yan University. 
 
 2. Research intern and research assistants
  - Min Peng (2024 - 25)
@@ -55,12 +56,12 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 
 |Course code and title | Level |   
 |--- | --- |
-| COM5111 AI and Digital Marketing for Entrepreneurs (elective course for MA in Integrated Marketing Communication | Postgraduate |
-| COM2510 Generative AI for Multimedia Authoring (elective course for BA (Hons) in Media and Communication) | Undergraduate |
+| COM5111 Generative AI for Digital Marketing (elective course for MA in Integrated Marketing Communication | Postgraduate |
+| COM4510 Generative AI for Multimedia Authoring (elective course for BA (Hons) in Media and Communication) | Undergraduate |
 | COM5101 Communication Fundamentals (core course for MA in Communication and New Media) | Postgraduate |  
 | COM3109 Media and Communication in Chinese Contexts (core course for BA (Hons) in Media and Communication) | Undergraduate |
 | COM5507 (guest lecturer in 2018 Fall) Social Media Data Acquisition and Processing core course for MA in Communication and New Media ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)) | Postgraduate |
-| COM3119 International Communication (core course for BA (Hons) in Media and Communication) | Undergraduate | 
+| COM3109 International Communication (core course for BA (Hons) in Media and Communication) | Undergraduate | 
 | COM5502 Multimedia Communication (core course for MA in Communication and New Media) | Postgraduate | 
 
 
@@ -89,7 +90,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 
 
 
-(updated: May 2024) 
+(updated: Sep 2025) 
 
 
 --
