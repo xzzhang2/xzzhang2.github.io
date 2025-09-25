@@ -26,7 +26,7 @@ description: Xinzhi Zhang's publications
 
 2. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
-3. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.]  
+3. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
 
 4. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. [Top 31% (62nd/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
@@ -35,6 +35,7 @@ description: Xinzhi Zhang's publications
 6. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
 5. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
+
 6. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
 
 7. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [Top 13% (26th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
@@ -77,7 +78,7 @@ description: Xinzhi Zhang's publications
 
 17. Lin, W.-Y., **Zhang, X.**\* , & Cao, B. (2018). [How do new media influence youths’ health literacy? Exploring the effects of media channel and content on safer sex literacy](https://doi.org/10.1080/19317611.2018.1509921). *International Journal of Sexual Health. 30*(4), 354-365. doi: 10.1080/19317611.2018.1509921. (**SSCI** - Social Science (interdisciplinary), 2017 JCR IF = 1.014, Routledge Journals, Taylor & Francis Ltd.) 
 
-18. Lin, F. & **Zhang, X.** (2018). [Movement-press dynamics and news diffusion: A typology of activism in digital China](https://www.jstor.org/stable/26435647). *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q2 in SSCI** – Area Studies, 2017 JCR IF = 0.694, The Chinese University Press) 
+18. Lin, F. & **Zhang, X.** (2018). [Movement-press dynamics and news diffusion: A typology of activism in digital China](https://www.jstor.org/stable/26435647). *China Review, 18*(2), 33-63. Link: muse.jhu.edu/article/696528. (**Q2 in SSCI** – Area Studies, 2017 JCR IF = 0.694, The Chinese University Press.) 
 
 19. **Zhang, X.** & Lin, W.-Y. (2018). [Hanging together or not? Impacts of social media use and organisational membership on individual and collective political actions](https://doi.org/10.1177%2F0192512116641842). *International Political Science Review, 39*(2), 273-289. doi: 10.1177/0192512116641842. (**Q2 (top 33%) in SSCI** – Political Science, 2017 JCR IF = 1.321, Sage Publications Ltd., the flagship journal of the International Political Science Association (IPSA)).
 
@@ -135,7 +136,6 @@ description: Xinzhi Zhang's publications
 14. **Zhang, X**. (2014). Book review: A Review of Democracy on trial: Social movements and cultural politics in postauthoritarian Taiwan, by Y.-C. Chuang. *The China Review*. 14(2), 265-269. 
 
 15. **Zhang, X.** (2010). The impact of online social networking on university students’ civic participation: A case of two universities in Southern China. In G. Zhang (Ed.), *Communication in e-Society: Innovation, collaboration, and responsibility* (pp. 95-115). Shanghai: Shanghai People’s Press. [張昕之 (2010)。〈社交網站使用與大學生公民參與行爲之關係：以中國南部兩所高校爲例〉。 張國良主编：《e社會傳播：創新·合作·責任》，頁95-115，上海人民出版社].
-
 
 
 ### <a name="conferences"></a>2. *selected* peer-reviewed international major conference presentations 
