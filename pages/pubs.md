@@ -16,21 +16,23 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. publications (total: 57)
+### <a name="publications"></a>1. publications (total: 58)
 
-#### 1A. peer-reviewed journal articles (43)
+#### 1A. peer-reviewed journal articles (44)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Pu, J.\# & **Zhang, X.**\* (2025). Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub. *Human Machine Communication.* Online first. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]  
+1. Huang, W.\#, Wu, Yang.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.] 
 
-2. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+2. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. doi: 10.30658/hmc.11.3. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]  
 
-3. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
+3. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
-4. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. [Top 31% (62nd/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+4. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
 
-5. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 21% (41th/first 200) in Scopus - Communication. Sage Publications Ltd.] 
+5. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. [Top 31% (62nd/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+
+6. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 21% (41th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
 
 6. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
@@ -140,21 +142,27 @@ description: Xinzhi Zhang's publications
 
 ### <a name="conferences"></a>2. *selected* peer-reviewed international major conference presentations 
 
-1. Pu, J.\# & **Zhang, X.** (2024, Aug). Source and message effects on reactance to conflict reporting: Evidence from a survey experiment in Hong Kong. Paper accepted by the 2024 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), Philadelphia, the U.S., 4 - 8 August 2024. 
+1. Zhu, Y., **Zhang, X.**, & Zhong, B. (2025, June). The code war: GenAI patent race among China, Europe, and the United States (2005–2023). Paper presented at the 75th Annual Meeting of International Communication Association (ICA), Denver, CO., the US. 12 – 16 June 2025. 
 
-2. **Zhang, X.** & Lu, F. (2024, June). The consequences of observing the government-citizen social media interactions: The role of inquiries’ tone and replying agents. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
+2. **Zhang, X.**, Wei, R., & Lo, V.-H. (2025, June). Digital disconnectivity in 2024 U.S. college protests: Effects of news exposure, third-person effect, and polarization. Paper presented at the 75th Annual Meeting of International Communication Association (ICA), Denver, CO., the US. 12 – 16 June 2025. 
 
-3. Goyanes, M., **Zhang, X.**, & Skoric, M. (2024, June). The mechanisms of unfriending: Linking social media news use with unfriending via political discussion frequency and concerns about social threats. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
+3. Huang, W., Wu, Y., Skoric, M., & **Zhang, X.** (2025, June). Chasing quality traffic: Professional journalists’ traffic-oriented strategies on social media in Greater China. Paper presented at the 75th Annual Meeting of International Communication Association (ICA), Denver, CO., the US. 12 – 16 June 2025. 
 
-3. Zhu, Q., Peng, T.-Q., & **Zhang, X.** (2024, June). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
+4. Pu, J.\# & **Zhang, X.** (2024, Aug). Source and message effects on reactance to conflict reporting: Evidence from a survey experiment in Hong Kong. Paper accepted by the 2024 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), Philadelphia, the U.S., 4 - 8 August 2024. 
 
-5. Zhou, Y.-Q., Zhang, M., Gu, Y., & **Zhang, X.** (2024, June). Comments as digital public sphere: Text mining comments of Shenzhen Health Commission. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
+5. **Zhang, X.** & Lu, F. (2024, June). The consequences of observing the government-citizen social media interactions: The role of inquiries’ tone and replying agents. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
 
-6. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
+6. Goyanes, M., **Zhang, X.**, & Skoric, M. (2024, June). The mechanisms of unfriending: Linking social media news use with unfriending via political discussion frequency and concerns about social threats. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
 
-6. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+7. Zhu, Q., Peng, T.-Q., & **Zhang, X.** (2024, June). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
+
+8. Zhou, Y.-Q., Zhang, M., Gu, Y., & **Zhang, X.** (2024, June). Comments as digital public sphere: Text mining comments of Shenzhen Health Commission. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
+
+9. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
+
+10. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
  
-7. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+11. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
 
 8. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
  
@@ -223,7 +231,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: Aug 2025) 
+(updated: Nov 2025) 
 
 
 --

@@ -12,7 +12,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. research grants 
 
- 1. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Hong Kong Research Grants Council (**RGC**). *How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning*. [411,855 HKD]. On-going.
+ 1. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Hong Kong Research Grants Council (**RGC**). *How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning*. [411,855 HKD]. On-going. 
 
  2. May 2021 - Nov 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. *Sci-fi Blockbusters' Representation of Cyborgs and its Impacts on Audiences' Perception of Human-Machine Communication*. [88,200 HKD]. Completed. [The Project Website by the Hong Kong Baptist University Library](https://digital.lib.hkbu.edu.hk/cyborg/). 
 
