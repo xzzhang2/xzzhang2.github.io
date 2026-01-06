@@ -22,7 +22,7 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Huang, W.\#, Wu, Yang.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.] 
+1. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.] 
 
 2. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. doi: 10.30658/hmc.11.3. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]  
 
