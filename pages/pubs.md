@@ -142,31 +142,37 @@ description: Xinzhi Zhang's publications
 
 ### <a name="conferences"></a>2. *selected* peer-reviewed international major conference presentations 
 
-1. Zhu, Y., **Zhang, X.**, & Zhong, B. (2025, June). The code war: GenAI patent race among China, Europe, and the United States (2005–2023). Paper presented at the 75th Annual Meeting of International Communication Association (ICA), Denver, CO., the US. 12 – 16 June 2025. 
+1. **Zhang, X.**, Liu, S., Hancock, J., Ye, W.-M. (2026, June). Algorithmic news curation amid political polarization: Effects of curator type, editorial standards, and sensationalism on news processing. Paper to be presented at the 76th Annual Meeting of International Communication Association (**ICA**), Cape Town, South Africa, 4 – 8 June 2026.
 
-2. **Zhang, X.**, Wei, R., & Lo, V.-H. (2025, June). Digital disconnectivity in 2024 U.S. college protests: Effects of news exposure, third-person effect, and polarization. Paper presented at the 75th Annual Meeting of International Communication Association (ICA), Denver, CO., the US. 12 – 16 June 2025. 
+2. **Zhang, X.**, Wei, R., Pu, J., & Lo, V.-H. (2026, June). Regulating the other side: Divergent pathways from perceived effects of AI disinformation warning labels to regulatory support amid polarization. Paper to be presented at the 76th Annual Meeting of International Communication Association (**ICA**), Cape Town, South Africa, 4 – 8 June 2026. 
 
-3. Huang, W., Wu, Y., Skoric, M., & **Zhang, X.** (2025, June). Chasing quality traffic: Professional journalists’ traffic-oriented strategies on social media in Greater China. Paper presented at the 75th Annual Meeting of International Communication Association (ICA), Denver, CO., the US. 12 – 16 June 2025. 
+3. Zheng, R. #, **Zhang, X.** (2026, June). When perceived usefulness does not matter: Image, ease, and the cultural paradoxes in generative AI adoption in the United States and Hong Kong. Paper to be presented at the 76th Annual Meeting of International Communication Association (**ICA**), Cape Town, South Africa, 4 – 8 June 2026.
 
-4. Pu, J.\# & **Zhang, X.** (2024, Aug). Source and message effects on reactance to conflict reporting: Evidence from a survey experiment in Hong Kong. Paper accepted by the 2024 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), Philadelphia, the U.S., 4 - 8 August 2024. 
+4. Zhu, Y., **Zhang, X.**, & Zhong, B. (2025, June). The code war: GenAI patent race among China, Europe, and the United States (2005–2023). Paper presented at the 75th Annual Meeting of International Communication Association (**ICA**), Denver, CO., the US. 12 – 16 June 2025. 
 
-5. **Zhang, X.** & Lu, F. (2024, June). The consequences of observing the government-citizen social media interactions: The role of inquiries’ tone and replying agents. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
+5. **Zhang, X.**, Wei, R., & Lo, V.-H. (2025, June). Digital disconnectivity in 2024 U.S. college protests: Effects of news exposure, third-person effect, and polarization. Paper presented at the 75th Annual Meeting of International Communication Association (**ICA**), Denver, CO., the US. 12 – 16 June 2025. 
 
-6. Goyanes, M., **Zhang, X.**, & Skoric, M. (2024, June). The mechanisms of unfriending: Linking social media news use with unfriending via political discussion frequency and concerns about social threats. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
+6. Huang, W., Wu, Y., Skoric, M., & **Zhang, X.** (2025, June). Chasing quality traffic: Professional journalists’ traffic-oriented strategies on social media in Greater China. Paper presented at the 75th Annual Meeting of International Communication Association (**ICA**), Denver, CO., the US. 12 – 16 June 2025. 
 
-7. Zhu, Q., Peng, T.-Q., & **Zhang, X.** (2024, June). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
+7. Pu, J.\# & **Zhang, X.** (2024, Aug). Source and message effects on reactance to conflict reporting: Evidence from a survey experiment in Hong Kong. Paper accepted by the 2024 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), Philadelphia, the U.S., 4 - 8 August 2024. 
 
-8. Zhou, Y.-Q., Zhang, M., Gu, Y., & **Zhang, X.** (2024, June). Comments as digital public sphere: Text mining comments of Shenzhen Health Commission. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
+8. **Zhang, X.** & Lu, F. (2024, June). The consequences of observing the government-citizen social media interactions: The role of inquiries’ tone and replying agents. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
 
-9. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
+9. Goyanes, M., **Zhang, X.**, & Skoric, M. (2024, June). The mechanisms of unfriending: Linking social media news use with unfriending via political discussion frequency and concerns about social threats. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
 
-10. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+10. Zhu, Q., Peng, T.-Q., & **Zhang, X.** (2024, June). How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024.
+
+11. Zhou, Y.-Q., Zhang, M., Gu, Y., & **Zhang, X.** (2024, June). Comments as digital public sphere: Text mining comments of Shenzhen Health Commission. Paper presented at the 74th Annual Conference of the International Communication Association (**ICA**), Gold Coast, Australia, 20 – 25 June, 2024. 
+
+12. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2023, Aug). Factors influencing debunking messages’ effectiveness: Comparing Hong Kong, the Netherlands, and the United States. Paper presented at the 2023 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), DC, the U.S., 7 - 11 August 2023. 
+
+13. Guo, S., **Zhang, X.**, Wang, D. (2023, May). Zoom boom and sensor-mediated impression management: The role of expertise and power relations. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
  
-11. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
+14. **Zhang, X.**, Zhu, R. (2023, May). Will political disagreement foster a civic culture? The role of social media self-Withdrawal and network heterogeneity in a polarized context. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023. 
 
-8. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+15. Zhu, R., **Zhang, X.** (2023, May). Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong’s COVID-19 vaccination programme. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
  
-9. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
+16. Gou, Z., Wu, Y., **Zhang, X.**, Wang, C. (2023, May) *Yesterday Once More*: Collective storytelling constitutes the success of digital cultural products on music streaming platforms. Paper presented at the 73rd Annual Conference of the International Communication Association (**ICA**), Toronto, Canada, 25 - 29 May 2023.
 
 10. **Zhang, X.** (2022, August). Expression avoidance and privacy management as dissonance reduction in the face of online disagreement. Paper presented at the 2022 Annual Conference of the Association for Education in Journalism and Mass Communication (**AEJMC**), 3 – 7 August 2022. 
 
