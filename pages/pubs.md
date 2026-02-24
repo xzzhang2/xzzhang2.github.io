@@ -22,7 +22,7 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\*. (2026). The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation. *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2026.2636130. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+1. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\* (2026). The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation. *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2026.2636130. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
 2. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
 
