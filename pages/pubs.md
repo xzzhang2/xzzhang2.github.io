@@ -16,19 +16,21 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. publications (total: 58)
+### <a name="publications"></a>1. publications (total: 59)
 
-#### 1A. peer-reviewed journal articles (44)
+#### 1A. peer-reviewed journal articles (45)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.] 
+1. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\*. (2026). The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation. *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2026.2636130. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
-2. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. doi: 10.30658/hmc.11.3. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]  
+2. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
 
-3. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+3. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. doi: 10.30658/hmc.11.3. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]  
 
-4. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
+4. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+
+5. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
 
 5. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. [Top 31% (62nd/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 

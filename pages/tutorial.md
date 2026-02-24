@@ -11,9 +11,9 @@ I actively contribute as a columnist to leading media outlets, including Radio T
 
 I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
 
-I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the AI and Digital Journalism International Symposium at the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
+I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
 
-My perspectives on AI and digital media have also been featured in major outlets, including Nikkei Asian Review, Phoenix TV, and China Daily. 
+My perspectives on AI-powered media innovation and information integrity have been featured in major media outlets, including Nikkei Asian Review, Radio Television Hong Kong, Phoenix TV, and China Daily (the Hong Kong Edition). 
 
 ---
 
@@ -78,7 +78,7 @@ My perspectives on AI and digital media have also been featured in major outlets
 
 - 8 Jun 2021. *Alibaba-Xinhua venture makes the news for video-hungry Chinese* Interviewed by the *Nikkei Asia*. [Link](https://asia.nikkei.com/Business/Media-Entertainment/Alibaba-Xinhua-venture-makes-the-news-for-video-hungry-Chinese). 
 
-- 9 May 2019. *Techniques and awareness: Journalists of the future*. Interviewed by the *China Daily* on the data journalism education in Hong Kong. 
+- 9 May 2019. *Techniques and awareness: Journalists of the future*. Interviewed by the *China Daily - Hong Kong* on the data journalism education in Hong Kong. 
 
 
 ### <a name="commentaries"></a>3. news commentaries
