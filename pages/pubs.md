@@ -16,45 +16,47 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. publications (total: 59)
+### <a name="publications"></a>1. publications (total: 60)
 
-#### 1A. peer-reviewed journal articles (45)
+#### 1A. peer-reviewed journal articles (46)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\* (2026). The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation. *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2026.2636130. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+1. Wei, R., Guo, J., **Zhang, X.**, & Lo, V.-H. (in press). Hostile media and friendly chambers: Social media polarization and the 2024 U.S. campus protests. *Journal of Broadcasting and Electronic Media*. [Routledge Journals, Taylor & Francis Ltd.]  
 
-2. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
+2. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\* (2026). [The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2636130). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2026.2636130. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-3. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. doi: 10.30658/hmc.11.3. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]  
+3. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. doi: 10.1177/14648849251398655. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
 
-4. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+4. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. doi: 10.30658/hmc.11.3. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]
 
-5. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
+5. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. doi: 10.1080/17512786.2025.2545450. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
-5. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. [Top 31% (62nd/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+6. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. doi: 10.1016/j.chb.2025.108748. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
 
-6. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 21% (41th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
+7. **Zhang, X.** (2025). [Politically motivated retroactive self-censorship on social media: Managing political impression in a politically polarized environment](https://doi.org/10.1080/15205436.2025.2515216). *Mass Communication & Society.* Online first. doi: 10.1080/15205436.2025.2515216. [Top 31% (62nd/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
-6. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
+8. **Zhang, X.**, Peng, T.-Q., & Zhu, Q. (2025). [Social media misinformation wars: How message features, political cynicism, and conspiracy beliefs shape government-led public health debunking effectiveness](https://journals.sagepub.com/doi/10.1177/10776990251334107). *Journalism & Mass Communication Quarterly*. Online first. doi: 10.1177/10776990251334107. [Top 21% (41th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
 
-5. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
+9. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2025). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. Online first. doi: 10.1080/1369118X.2025.2482666. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-6. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
+10. **Zhang, X.** & Lu, F. (2025). [Enhancing public health policy communication through government-citizen social media interactions: The impact of replying agents, inquiry tone, and institutional trust](https://doi.org/10.1002/poi3.70000). *Policy & Internet*. Online first. doi: 10.1002/poi3.70000. [Top 8% (16th/first 200) in Scopus - Public Administration, John Wiley & Sons, Inc.] 
 
-7. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [Top 13% (26th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
+11. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2025). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. Online first. doi: 10.1177/19401612251318838. [Top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
 
-5. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [Top 1% (2nd/200) in Scopus - General Arts and Humanities, Springer Nature Limited.] 
+12. Xue, H., Zhang, J., & **Zhang, X.** (2025). [Facts or feelings? Leveraging emotionality as a fact-checking strategy on social media in the United States](https://journals.sagepub.com/doi/10.1177/20563051251318172). *Social Media + Society*. Online first. doi: 10.1177/20563051251318172. [Top 13% (26th/first 200) in Scopus - Communication, Sage Publications Ltd.] 
 
-6. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [Top 5% in SSCI - Communication, Sage Publications Ltd.] 
+13. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. doi: 10.1057/s41599-024-03636-8. [Top 1% (2nd/200) in Scopus - General Arts and Humanities, Springer Nature Limited.] 
 
-5. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [SSCI - Communication, Routledge Journals, Taylor & Francis Ltd.]
+14. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. doi: 10.1080/21670811.2022.2145329. [Top 5% in SSCI - Communication, Sage Publications Ltd.] 
 
-6. Zhu, R.\# & **Zhang, X.**\* (2023). [Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong](https://academic.oup.com/heapro/article-abstract/38/3/daad053/7189927). *Health Promotion International*. Online first. doi: 10.1093/heapro/daad053. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
+15. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. doi: 10.1080/17512786.2022.2110927. [SSCI - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-5. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research, 49*(2), 139-148. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
+16. Zhu, R.\# & **Zhang, X.**\* (2023). [Public sector’s misinformation debunking during the public health campaign: A case of Hong Kong](https://academic.oup.com/heapro/article-abstract/38/3/daad053/7189927). *Health Promotion International*. Online first. doi: 10.1093/heapro/daad053. [**Q1 in SSCI** - Health Policy & Services, 2021 JCR IF = 3.734, Oxford University Press.] 
 
-6. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
+17. **Zhang, X.** (2023). [Will political disagreement silence political expression? The role of information repertoire filtration and discussion network heterogeneity](https://academic.oup.com/hcr/advance-article-abstract/doi/10.1093/hcr/hqad009/7060048?redirectedFrom=fulltext). *Human Communication Research, 49*(2), 139-148. doi: 10.1093/hcr/hqad009. [**Q1 (top 12%) in SSCI** - Communication, 2021 JCR IF = 5.333, Oxford University Press.] 
+
+18. Zhao, X., Chen, L., Jin, Y., & **Zhang, X.** (2023). [Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003041). *Information Processing & Management, 60*(2), 103203. Online first. doi: 10.1016/j.ipm.2022.103203. [**Q1 (top 14%) in SSCI** – Information Science and Library Science, 2021 JCR IF = 7.466, Elsevier.]
 
 7. **Zhang, X.** (2022). [Expression avoidance and privacy management as dissonance reduction in the face of online disagreement](https://www.sciencedirect.com/science/article/pii/S0736585322001277?dgcid=author). *Telematics and Informatics*. Online first. doi: 10.1016/j.tele.2022.101894. [**Q1 (top 5%) in SSCI** - Information Science and Library Science, 2021 JCR IF = 9.14, Elsevier.] 
 
@@ -239,7 +241,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: Nov 2025) 
+(updated: March 2026) 
 
 
 --

@@ -28,12 +28,12 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
  - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (co-supervision, Ph.D., 2024 - ) *ABD* 
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *ABD*
  - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *ABD* 
- - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - 2025) *Graduated* 
+ - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - 2025) *Graduated*, Assistant Professor at Shenzhen University, China.  
  - [Xuzhen Yang](https://scholar.google.com/citations?hl=en&user=u5nPZF0AAAAJ) (principal supervision, M.Sc. Capstone, 2021 - 2022) *Graduated*, PhD candidate at the Michigan State University, the US.  
  - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, PhD researcher at the Tampere University, Finland. 
  - [Rui (Cara) Zhu](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L9WULrUAAAAJ) (principal supervision, M.Sc. Capstone, 2019 - 2020) *Graduated*, PhD candidate at the Michigan State University, the US. 
  - [Zhi Lin](https://scholar.google.com/citations?user=N0hz9gwAAAAJ) (co-supervision, M.Phil., 2019 - 21) *Graduated*, PhD candidate at the University of Texas at Austin, the US.  
- - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Assistant Professor at Hong Kong Shue Yan University. 
+ - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Assistant Professor at Hong Kong Shue Yan University, Hong Kong SAR.  
 
 2. Research intern and research assistants
  - Min Peng (2024 - 25)
@@ -87,7 +87,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 | SPD2303 Introduction to Communication |
 
 
-(updated: Nov 2025) 
+(updated: March 2026) 
 
 
 --
