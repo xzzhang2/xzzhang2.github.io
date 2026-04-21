@@ -12,11 +12,11 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. research grants 
 
- 1. Sep 2026 - Present. Co-Principal Investigator (**Co-PI**), Collective Research Fund (**CRF**), the Hong Kong Research Grants Council (**RGC**), #C1077-25GF. *Understanding & Fighting Scams: Psychological and Social Perspectives & Effective Interventions*. [5,900,000 HKD]. On-going.    
+ 1. Sep 2026 - Present. Co-Principal Investigator (**Co-PI**), Collective Research Fund (**CRF**), the Hong Kong Research Grants Council (**RGC**), #C1077-25GF. Understanding & Fighting Scams: Psychological and Social Perspectives & Effective Interventions. [5,900,000 HKD]. On-going. [Project abstract](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/crf25_lay_sum.html#C1077-25G) on the RGC webpage.   
 
- 2. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Hong Kong Research Grants Council (**RGC**), #12604324. *How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning*. [411,855 HKD]. On-going. 
+ 2. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Hong Kong Research Grants Council (**RGC**), #12604324. [How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12604324&old_proj_id=null&proj_title=&isname=&ioname=Yuner&institution=&subject=&pages=1&year=&theSubmit=12604324). [411,855 HKD]. On-going. 
 
- 3. May 2021 - Nov 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. *Sci-fi Blockbusters' Representation of Cyborgs and its Impacts on Audiences' Perception of Human-Machine Communication*. [88,200 HKD]. Completed. [The Project Website by the Hong Kong Baptist University Library](https://digital.lib.hkbu.edu.hk/cyborg/). 
+ 3. May 2021 - Nov 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. Sci-fi Blockbusters' Representation of Cyborgs and its Impacts on Audiences' Perception of Human-Machine Communication. [88,200 HKD]. Completed. [The Project Website by the Hong Kong Baptist University Library](https://digital.lib.hkbu.edu.hk/cyborg/). 
 
  4. Jan 2021 - Feb 2022. Principal Investigator (**PI**). Public Policy Research Funding Scheme (**PPR**) from the Government of the Hong Kong SAR, #2020.A2.043.20C. [Hong Kong Media’s Coverage of Political Polarization and its Effects on People’s Political Attitudes and Behaviors.](https://www.cepu.gov.hk/en/PRFS/ppr-reports.html) [356,972 HKD]. Completed. [Final report](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2020.A2.043.20C_Final%20Report_Dr%20Zhang.pdf) on the PPR database by the Chief Executive's Policy Unit of Hong Kong SAR.
 
@@ -62,7 +62,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  8. Sep 2009 - Aug 2013. University Grants Council (UGC) Scholarship, Hong Kong.
 
 
-(updated: March 2026) 
+(updated: April 2026) 
 
 
 --

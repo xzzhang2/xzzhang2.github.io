@@ -8,12 +8,11 @@ I actively contribute as a columnist to leading media outlets, including Radio T
 
 ![FTChinese_cover_page_202508](/assets/images/FTChinese_IMO_202508.png)
 
-
 I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
 
 I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
 
-My perspectives on AI-powered media innovation and information integrity have been featured in major media outlets, including Nikkei Asian Review, Radio Television Hong Kong, Phoenix TV, and China Daily (the Hong Kong Edition). 
+My perspectives on AI-powered media innovation and information integrity have been featured in major media outlets, including Channel News Asia (Singapore), Nikkei Asia (Japen), Radio Television Hong Kong, and Phoenix TV (Hong Kong). 
 
 ---
 
@@ -105,7 +104,7 @@ My perspectives on AI-powered media innovation and information integrity have be
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-(updated: Aug 2025) 
+(updated: March 2026) 
 
 --
 

@@ -8,7 +8,7 @@ I teach interdisciplinary courses on digital media and human communication, mult
 
 I have supervised eight postgraduate students (as the capstone project supervisor) and four research students. Most of them are either continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. My students have won best paper awards at the ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
 
-I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital culture and political beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested in working with our team. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) under my supervision in the 2026/27 academic year. 
+I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital culture and political beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested in working with our team. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) under my supervision in the 2027/28 academic year. 
 
 
 ---
@@ -28,7 +28,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
  - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (co-supervision, Ph.D., 2024 - ) *ABD* 
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *ABD*
  - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *ABD* 
- - [Ruifeng Qie](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/QIE_Ruifeng.pdf) (principal supervision, Ph.D., 2020 - 2025) *Graduated*, Assistant Professor at Shenzhen University, China.  
+ - [Ruifeng Qie](https://cmc.szu.edu.cn/szdw/zljs_js/2.htm) (principal supervision, Ph.D., 2020 - 2025) *Graduated*, Assistant Professor at Shenzhen University, China.  
  - [Xuzhen Yang](https://scholar.google.com/citations?hl=en&user=u5nPZF0AAAAJ) (principal supervision, M.Sc. Capstone, 2021 - 2022) *Graduated*, PhD candidate at the Michigan State University, the US.  
  - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, PhD researcher at the Tampere University, Finland. 
  - [Rui (Cara) Zhu](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L9WULrUAAAAJ) (principal supervision, M.Sc. Capstone, 2019 - 2020) *Graduated*, PhD candidate at the Michigan State University, the US. 
@@ -87,7 +87,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 | SPD2303 Introduction to Communication |
 
 
-(updated: March 2026) 
+(updated: April 2026) 
 
 
 --

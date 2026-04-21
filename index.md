@@ -17,13 +17,13 @@ My work has been funded by the Hong Kong Research Grants Council (**RGC**) and t
 
 Before joining CityUHK in 2024, I was an Associate Professor with tenure in the Department of Journalism and the Department of Interactive Media at the [Hong Kong Baptist University](https://www.hkbu.edu.hk/) (HKBU) and the founding Programme Director (2019 - 23) of [Master of Science in AI and Digital Media](https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-science-msc-in-ai-and-digital-media-approved-programme-under-ugc-s-targeted-tpg-programmes-fellowships-scheme), a pioneering postgraduate program of its kind in the Asia-Pacific region. I have been awarded Best Young Researcher and Best Teaching Award through HKBU's Presidential Award scheme. 
 
-Currently, I serve on the editorial boards of four top journals in media and communication, including [*Human Communication Research*](https://academic.oup.com/hcr), [*Journalism & Mass Communication Quarterly*](https://journals.sagepub.com/home/jmq), [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current), and [*Chinese Journal of Communication*](https://www.tandfonline.com/toc/rcjc20/current).  
+Currently, I serve on the editorial boards of several top journals in media and communication, including [*Communication Research*](https://journals.sagepub.com/home/CRX), [*Human Communication Research*](https://academic.oup.com/hcr), [*Journalism & Mass Communication Quarterly*](https://journals.sagepub.com/home/jmq), and [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current).  
 
 I also actively contribute as a columnist to leading media outlets, including *Radio Television Hong Kong* (RTHK), *Hong Kong Economic Journal*, and *FTChinese* (the Chinese edition of the *Financial Times (UK)*).
 
 I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I was a Visiting Scholar at the Department of Communication at [University of California, Davis](https://www.ucdavis.edu/) in 2022. 
 
 
-(updated: Jan 2026) 
+(updated: April 2026) 
 
 
