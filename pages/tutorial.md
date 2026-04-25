@@ -4,15 +4,15 @@ title: outreach
 description: Xinzhi Zhang's outreach activities and social impacts
 ---
 
-I actively contribute as a columnist to leading media outlets, including Radio Television Hong Kong (RTHK), Hong Kong Economic Journal, and FTChinese (the Chinese edition of the Financial Times). Since Aug 2025, I write a personal column for *FTChinese* (FT中文网), *[Media Innovation Observatory](https://ftchinese.com/column/007000115)*「昕媒觀察」. 
+I actively contribute as a columnist to leading media outlets, including Radio Television Hong Kong (RTHK), Hong Kong Economic Journal, and FTChinese (the Chinese edition of the Financial Times). Since Aug 2025, I write a personal named column for *FTChinese* (FT中文网), *[Media Innovation Observatory](https://ftchinese.com/column/007000115)*「昕媒觀察」. 
 
 ![FTChinese_cover_page_202508](/assets/images/FTChinese_IMO_202508.png)
 
-I have organized and attended several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
+I have co-organized the 19th Chinese Internet Research Conference (CIRC 2022). I have also organized several public events, workshops, and research seminars on the application of digital technologies, social media data analytics, multimedia storytelling, and society well-being. 
 
-I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
+I have held public seminars and invited talks at renowned institutions such as the Social Media Lab at Stanford University, the Department of Communication at the University of California at Davis, the School of Public Health at the University of Hong Kong, and the Korea Advanced Institute of Science and Technology (KAIST). My speaking engagements also include the 10th Macau International Communication Week hosted by the Macau University of Science and Technology, and the “Generative AI Insights” conference at The Chinese University of Hong Kong, to name a few. 
 
-My perspectives on AI-powered media innovation and information integrity have been featured in major media outlets, including Channel News Asia (Singapore), Nikkei Asia (Japen), Radio Television Hong Kong, and Phoenix TV (Hong Kong). 
+My perspectives on AI-powered media innovation and information integrity have been featured in major media outlets, including *Channel News Asia* (Singapore), *Nikkei Asia* (Japan), Radio Television Hong Kong, and Phoenix TV (Hong Kong). 
 
 ---
 
