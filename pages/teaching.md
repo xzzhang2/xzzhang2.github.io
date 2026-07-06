@@ -25,7 +25,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 
 1. Research students 
  - [Jieying Han](https://scholars.cityu.edu.hk/en/persons/jieyinhan2) (principal supervision, Ph.D., 2025 - ) *in-progress* 
- - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (co-supervision, Ph.D., 2024 - ) *ABD* 
+ - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (principal, Ph.D., 2024 - ) *ABD* 
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *ABD*
  - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *ABD* 
  - [Ruifeng Qie](https://cmc.szu.edu.cn/szdw/zljs_js/2.htm) (principal supervision, Ph.D., 2020 - 2025) *Graduated*, Assistant Professor at Shenzhen University, China.  
@@ -87,7 +87,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 | SPD2303 Introduction to Communication |
 
 
-(updated: April 2026) 
+(updated: July 2026) 
 
 
 --

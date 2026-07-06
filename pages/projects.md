@@ -12,9 +12,11 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
 
 ### <a name="researchprojs"></a>1. research grants 
 
- 1. Sep 2026 - Present. Co-Principal Investigator (**Co-PI**), Collective Research Fund (**CRF**), the Hong Kong Research Grants Council (**RGC**), #C1077-25GF. Understanding & Fighting Scams: Psychological and Social Perspectives & Effective Interventions. [5,900,000 HKD]. On-going. [Project abstract](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/crf25_lay_sum.html#C1077-25G) on the RGC webpage.   
+ 1. Sep 2026 - present. Principal Investigator (**PI**), General Research Fund (**GRF**) by the Hong Kong Research Grants Council (**RGC**), #11600926. [Why Robotic Journalists Backfire: How Authorship, Transparency, and Platform Reach Shape Bias Perceptions and Responses to AI-Synthesized News.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11600926&old_proj_id=null&proj_title=&isname=zhang&ioname=xinzhi&institution=&subject=&pages=1&year=&theSubmit=11600926) [521,720 HKD]. On-going. 
 
- 2. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Hong Kong Research Grants Council (**RGC**), #12604324. [How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12604324&old_proj_id=null&proj_title=&isname=&ioname=Yuner&institution=&subject=&pages=1&year=&theSubmit=12604324). [411,855 HKD]. On-going. 
+ 2. May 2026 - Present. Co-Principal Investigator (**Co-PI**), Collective Research Fund (**CRF**), the Hong Kong Research Grants Council (**RGC**), #C1077-25GF. Understanding & Fighting Scams: Psychological and Social Perspectives & Effective Interventions. [5,900,000 HKD]. On-going. [Project abstract.](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/crf25_lay_sum.html#C1077-25G)   
+
+ 3. Sep 2024 – Aug 2026. Co-Investigator (Co-I), General Research Fund (**GRF**), the Hong Kong Research Grants Council (**RGC**), #12604324. [How Does Censorship Drive Conspiratorial Beliefs? The Roles of Information Uncertainty and Motivated Reasoning](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=12604324&old_proj_id=null&proj_title=&isname=&ioname=Yuner&institution=&subject=&pages=1&year=&theSubmit=12604324). [411,855 HKD]. On-going. 
 
  3. May 2021 - Nov 2022. Principal Investigator (**PI**). Digital Scholarship Grant (DSG), Hong Kong Baptist University Library. Sci-fi Blockbusters' Representation of Cyborgs and its Impacts on Audiences' Perception of Human-Machine Communication. [88,200 HKD]. Completed. [The Project Website by the Hong Kong Baptist University Library](https://digital.lib.hkbu.edu.hk/cyborg/). 
 
@@ -62,7 +64,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  8. Sep 2009 - Aug 2013. University Grants Council (UGC) Scholarship, Hong Kong.
 
 
-(updated: April 2026) 
+(updated: July 2026) 
 
 
 --

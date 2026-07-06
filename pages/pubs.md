@@ -22,7 +22,7 @@ description: Xinzhi Zhang's publications
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Wei, R., Guo, J., **Zhang, X.**, & Lo, V.-H. (2026). [Hostile media and friendly chambers: Social media polarization and the 2024 U.S. campus protests](https://doi.org/10.1080/08838151.2026.2642912). *Journal of Broadcasting and Electronic Media*. [Routledge Journals, Taylor & Francis Ltd.]  
+1. Wei, R., Guo, J., **Zhang, X.**, & Lo, V.-H. (2026). [Hostile media and friendly chambers: Social media polarization and the 2024 U.S. campus protests](https://doi.org/10.1080/08838151.2026.2642912). *Journal of Broadcasting and Electronic Media*. [Routledge Journals, Taylor & Francis Ltd.]
 
 2. **Zhang, X.**, Huang, W., & Zhu, J. J. H. (2026). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. 29(1), 1-20. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
