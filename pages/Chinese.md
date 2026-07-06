@@ -4,7 +4,6 @@ title: 中文_Chinese
 description: Xinzhi Zhang's Chinese biography 
 ---
 
-
 您好！歡迎來到我的中文頁面。我是張昕之，現任香港城市大學（CityUHK）媒體與傳播系終身副教授兼研究主任。我的研究領域涵蓋人工智能與新聞生產、政治傳播、以及計算社會科學。我專注於探索人工智能和社交媒體如何改變新聞生產與傳播的過程，以及媒體技術如何影響大眾的公共參與和政府決策。我希望這些研究可以促進社會各群體間多元和開放的對話，同時協助新聞機構、政府機構、和科技企業設計有效的信息發布和溝通策略。 
 
 我的研究曾獲得多項國際科研資助計劃的支持，包括香港特別行政區大學教育資助委員會研究資助局（Hong Kong RGC）的四項優配研究金（GRF）、一項協作研究金（CRF）、和一項港府公共政策研究資助計劃（PPR）項目。 2013年以來，我在匿名評審的國際頂級期刊上發表了60多篇論文，包括傳播學領域重要期刊如《傳播學刊》（*Journal of Communication*）, 《人類傳播研究》（*Human Communication Research* ), 《社交媒體與社會》（*Social Media + Society*）, 《數字新聞學》(*Digital Journalism*) ， 《新聞與大眾傳播季刊》（*Journalism & Mass Communication Quarterly*）, 《信息、傳播與社會》（*Information, Communication & Society*）等，並曾獲得美國新聞與大眾傳播教育協會（AEJMC）和國際傳播學會（ICA）頒發的最佳論文獎。 更多研究成果，請參閱 [Google Scholar](https://scholar.google.com.hk/citations?user=iOFeIDIAAAAJ&hl=en)。
