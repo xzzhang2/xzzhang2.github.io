@@ -23,6 +23,14 @@ My perspectives on AI-powered media innovation and information integrity have be
 
 ### <a name="talks"></a>1. invited plenary speaker at public research seminars  
 
+- Jun 2026. Invited speaker. *TWhy governments are losing the social media disinformation war*. School of Public Health, the University of Hong Kong (HKU). Hong Kong SAR. 
+
+- Dec 2025. Invited speaker. *The future of journalism in the Generative AI era*. Peking University HSBC Business School. Shenzhen, China.  
+
+- May 2025. Invited speaker. *Citizen’s information resilience and disinformation debunking for global governance in the age of GenAI*. Department of Information Management, Peking University (PKU), Beijing, China.  
+
+- May 2025. Invited keynote speaker. *Human-AI collaboration for news production and global governance. The First International Workshop on Human-AI Communication, Psychology, and Social Change*. Shenzhen University. Shenzhen, China. 
+
 - Mar 2025. Invited plenary speaker, *How Generative AI (GenAI) Empowers News Fact-Checking: Challenges and Transformations for Editorial Decision-Makers*. The “Editors-in-Chief Lecture Series”, the Hong Kong Headquarters of Phoenix TV, Hong Kong SAR. 
 
 - Nov 2024. Invited plenary speaker, *The Hype vs. Reality of Generative AI in Newsrooms: Navigating Ethical Pitfalls and Implementation Challenges*. The International Symposium on AI and Journalism, the Korea Advanced Institute of Science and Technology (KAIST), Seoul, South Korea. 
@@ -65,6 +73,8 @@ My perspectives on AI-powered media innovation and information integrity have be
 ### <a name="med_interviews"></a>2. media interviews 
 
 
+- 26 Feb 2026. *The rise of 'Chinamaxxing': Cultural curiosity or TikTok caricature?* Interviewed by Channel NewsAsia (CNA, Singapore). [Link](https://www.channelnewsasia.com/east-asia/chinamaxxing-becoming-chinese-viral-trend-china-culture-5946661).  
+
 - 23 May 2022. *Finding effective ways to debunk misinformation online.* Featured by the Hong Kong Baptist University News (HKBU News). [Link](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/may-2022/0523-finding-effective-ways-to-debunk-misinformation-online.html). 
 
 - 26 Apr 2022. *Getting the right information - Dr Zhang Xinzhi of the Department of Journalism recently conducted a study on the rumour-clarification and debunking practices of the public sector.* Featured by the Hong Kong Baptist University News (HKBU News). [Link](https://bunews.hkbu.edu.hk/news/knowledge/getting-the-right-information). 
@@ -102,7 +112,7 @@ My perspectives on AI-powered media innovation and information integrity have be
 12.	**Zhang, X**. (2009). The media coverage of “Green Dam” software incident in mainland China. Media Digest [Hong Kong: Radio Television Hong Kong], 2009(7), 4-5. Full text: http://rthk.hk/mediadigest/20090715_76_122313.html. [張昕之 (2009)。〈中國內地「綠壩」軟體風波始末：從官方到民眾—七大主角的網路媒介話語博弈〉。 香港電台《傳媒透視》，2009年第7期，頁4-5]
 
 
-(updated: July 2026) 
+(updated: August 2026) 
 
 --
 

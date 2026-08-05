@@ -64,7 +64,7 @@ description: Xinzhi Zhang's research projects, show cases, and grants record
  8. Sep 2009 - Aug 2013. University Grants Council (UGC) Scholarship, Hong Kong.
 
 
-(updated: July 2026) 
+(updated: August 2026) 
 
 
 --
