@@ -23,7 +23,7 @@ My perspectives on AI-powered media innovation and information integrity have be
 
 ### <a name="talks"></a>1. invited plenary speaker at public research seminars  
 
-- Jun 2026. Invited speaker. *TWhy governments are losing the social media disinformation war*. School of Public Health, the University of Hong Kong (HKU). Hong Kong SAR. 
+- Jun 2026. Invited speaker. *Why governments are losing the social media disinformation war*. School of Public Health, the University of Hong Kong (HKU). Hong Kong SAR. 
 
 - Dec 2025. Invited speaker. *The future of journalism in the Generative AI era*. Peking University HSBC Business School. Shenzhen, China.  
 
