@@ -50,7 +50,7 @@ description: Xinzhi Zhang's publications
 
 14. Wang, C.-J., **Zhang, X.**\*, Gou, Z.\#, & Wu, Y.\# (2024). [Yesterday once more: Collective storytelling and public engagement with digital cultural products on the music streaming platform](https://www.nature.com/articles/s41599-024-03636-8). *Humanities and Social Sciences Communications*. 11, 1173. [Top 1% (2nd/200) in Scopus - General Arts and Humanities, Springer Nature Limited.] 
 
-15. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. [Top 5% in SSCI - Communication, Sage Publications Ltd.] 
+15. **Zhang, X.**, Zhu, R.\#, Chen, L., Zhang, Z., & Chen, M.\# (2024). [News from Messenger? A cross-national comparative study of news media’s audience engagement strategies via Facebook Messenger chatbots](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2145329). *Digital Journalism, 12*(3), 336-355. [Top 5% in SSCI - Communication, Routledge Journals, Taylor & Francis Ltd.] 
 
 16. **Zhang, X.** & Zhu, R.\# (2024). [Health journalists’ social media sourcing during the early outbreak of the public health emergency](https://www.tandfonline.com/doi/full/10.1080/17512786.2022.2110927). *Journalism Practice, 18*(7), 1660-1680. [SSCI - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
