@@ -26,11 +26,11 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 1. Research students 
  - [Jieying Han](https://scholars.cityu.edu.hk/en/persons/jieyinhan2) (principal supervision, Ph.D., 2025 - ) *in-progress* 
  - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (principal supervision, Ph.D., 2024 - ) *ABD* 
- - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - ) *ABD*
+ - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - 26) *Graduated*
  - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *ABD* 
- - [Ruifeng Qie](https://cmc.szu.edu.cn/szdw/zljs_js/2.htm) (principal supervision, Ph.D., 2020 - 2025) *Graduated*, Assistant Professor at Shenzhen University, China.  
+ - [Ruifeng Qie](https://cmc.szu.edu.cn/szdw/zljs_js/2.htm) (principal supervision, Ph.D., 2020 - 25) *Graduated*, Assistant Professor at Shenzhen University, China.  
  - [Xuzhen Yang](https://scholar.google.com/citations?hl=en&user=u5nPZF0AAAAJ) (principal supervision, M.Sc. Capstone, 2021 - 2022) *Graduated*, PhD candidate at the Michigan State University, the US.  
- - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, PhD researcher at the Tampere University, Finland. 
+ - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, PhD, Tampere University, Finland, currently Assistant Professor at Beijing Normal-Hong Kong Baptist University, Hong Kong SAR.  
  - [Rui (Cara) Zhu](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L9WULrUAAAAJ) (principal supervision, M.Sc. Capstone, 2019 - 2020) *Graduated*, PhD candidate at the Michigan State University, the US. 
  - [Zhi Lin](https://scholar.google.com/citations?user=N0hz9gwAAAAJ) (co-supervision, M.Phil., 2019 - 21) *Graduated*, PhD candidate at the University of Texas at Austin, the US.  
  - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Assistant Professor at Hong Kong Shue Yan University, Hong Kong SAR.  
@@ -87,7 +87,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 | SPD2303 Introduction to Communication |
 
 
-(updated: August 2026) 
+(updated: Sep 2026) 
 
 
 --
