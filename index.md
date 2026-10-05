@@ -16,12 +16,12 @@ I have been awarded five grants by the Hong Kong Research Grants Council (RGC), 
 
 Before joining CityUHK in 2024, I was an Associate Professor with tenure in the School of Communication at the [Hong Kong Baptist University](https://www.hkbu.edu.hk/) (HKBU) and the founding Programme Director (2019) of [Master of Science in AI and Digital Media](https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-science-msc-in-ai-and-digital-media-approved-programme-under-ugc-s-targeted-tpg-programmes-fellowships-scheme), a pioneering postgraduate program of its kind in the Asia-Pacific region. I received the HKBU Award for Outstanding Young Researchers (2021) and the HKBU Award for Outstanding Performance in Teaching (2022). 
 
-I currently serve on the Editorial Boards of five top journals in media and communication, i.e., [*Communication Research*](https://journals.sagepub.com/home/CRX), [*Human Communication Research*](https://academic.oup.com/hcr), [*Journalism & Mass Communication Quarterly*](https://journals.sagepub.com/home/jmq), [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current), and [*Journal of Broadcasting & Electronic Media*](https://www.tandfonline.com/toc/hbem20/current). I was a guest editor for [*Global Media and China*](https://journals.sagepub.com/home/GCH). Currently, I am the Lead Guest Editor of a forthcoming special issue on LLM Sycophancy and Journalism for *Digital Journalism*. 
+I currently serve on the Editorial Boards of five top journals in media and communication, i.e., [*Communication Research*](https://journals.sagepub.com/home/CRX), [*Human Communication Research*](https://academic.oup.com/hcr), [*Journalism & Mass Communication Quarterly*](https://journals.sagepub.com/home/jmq), [*Digital Journalism*](https://www.tandfonline.com/toc/rdij20/current), and [*Journal of Broadcasting & Electronic Media*](https://www.tandfonline.com/toc/hbem20/current). I was a guest editor for [*Global Media and China*](https://journals.sagepub.com/home/GCH). Currently, I am the Lead Guest Editor of a forthcoming special issue on [LLM Sycophancy and Journalism](https://think.taylorandfrancis.com/special_issues/llm-sycophancy-in-digital-journalism/) for *Digital Journalism*. 
 
 I actively contribute as a columnist to major media outlets, including *Radio Television Hong Kong* (RTHK), *Hong Kong Economic Journal*, and [*FTChinese*](https://www.ftchinese.com/column/007000115) (the Chinese edition of the *Financial Times (UK)*).
 
 I obtained Ph.D. in Media and Communication (2013) and an M.A. *with Distinction* in Communication and New Media (2009) from the [Department of Media and Communication](http://www6.cityu.edu.hk/com/) at [City University of Hong Kong](www.cityu.edu.hk). I was a Visiting Scholar at the Department of Communication at [University of California, Davis](https://www.ucdavis.edu/) in 2022. 
 
-(updated: Sep 2026) 
+(updated: Oct 2026) 
 
 
