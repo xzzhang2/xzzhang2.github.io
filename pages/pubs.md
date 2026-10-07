@@ -16,27 +16,29 @@ description: Xinzhi Zhang's publications
 
 ---
 
-### <a name="publications"></a>1. publications (total: 60)
+### <a name="publications"></a>1. publications (total: 62)
 
-#### 1A. peer-reviewed journal articles (46)
+#### 1A. peer-reviewed journal articles (48)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
-1. Pu, J.\# & **Zhang, X.**\* (in-press). When does multimodal news matter? Evidence from a systematic review and meta-analysis. *Communication Research*. [Top 5% (7th/first 200) in Scopus - Communication. Sage Publications Ltd.]  
+1. Pu, J.\# & **Zhang, X.**\* (in press). When does multimodal news matter? Evidence from a systematic review and meta-analysis. *Communication Research*. [Top 5% (7th/first 200) in Scopus - Communication. Sage Publications Ltd.] 
 
-2. Wei, R., Guo, J., **Zhang, X.**, & Lo, V.-H. (2026). [Hostile media and friendly chambers: Social media polarization and the 2024 U.S. campus protests](https://doi.org/10.1080/08838151.2026.2642912). *Journal of Broadcasting and Electronic Media*. [Routledge Journals, Taylor & Francis Ltd.]
+2. Zhou, Y.-Q., Zhang, M.\#, Pu, J.\#, & **Zhang, X.**\* (in press). Calibrating information and affect across a prolonged public health crisis: A local health commission’s social media curation of government-citizen interactions. *Journal of Health Communication*. [Routledge Journals, Taylor & Francis Ltd.] 
 
-3. **Zhang, X.**, Huang, W.\#, & Zhu, J. J. H. (2026). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. 29(1), 1-20. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
+3. Wei, R., Guo, J., **Zhang, X.**, & Lo, V.-H. (2026). [Hostile media and friendly chambers: Social media polarization and the 2024 U.S. campus protests](https://doi.org/10.1080/08838151.2026.2642912). *Journal of Broadcasting and Electronic Media*. [Routledge Journals, Taylor & Francis Ltd.]
 
-4. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\* (2026). [The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2636130). *Information, Communication & Society*. Online first. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
+4. **Zhang, X.**, Huang, W.\#, & Zhu, J. J. H. (2026). [How journalism researchers navigate the AI hype: research orientations and intervention recommendations](https://doi.org/10.1080/1369118X.2025.2482666). *Information, Communication & Society*. 29(1), 1-20. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-5. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2026). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. 31(2), 497-519. [Top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
+5. Wei, R., Pu, J.\#, Lo, V.-H., & **Zhang, X.**\* (2026). [The (un)desirable shield: Consequences of perceived effects of warning labels on AI-generated political disinformation](https://www.tandfonline.com/doi/full/10.1080/1369118X.2026.2636130). *Information, Communication & Society*. Online first. [Top 9% (18th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]
 
-6. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
+6. Zhu, Q., Peng, T.-Q., & **Zhang, X.**\* (2026). [How do individual and societal factors shape news authentication? Comparing misinformation resilience across Hong Kong, the Netherlands, and the United States](https://journals.sagepub.com/doi/10.1177/19401612251318838). *International Journal of Press/Politics*. 31(2), 497-519. [Top 5% (9th/first 200) in Scopus - Communication. Sage Publications Ltd.]
 
-7. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]
+7. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
 
-8. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
+8. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]
+
+9. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
 9. **Zhang, X.**, Kim, H. K., & Zhou, S. (2025). [Time versus timing in social cognition: How concurrent viewer cues and plot-aligned danmaku affect narrative outcomes on online video platforms](https://doi.org/10.1016/j.chb.2025.108748). *Computers in Human Behavior.* Online first. [Top 1% (1st/first 200) in Scopus - Arts and Humanities, Elsevier.] 
 
@@ -83,6 +85,8 @@ description: Xinzhi Zhang's publications
 30. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. (**Q2 in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
 31. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://www.sciencedirect.com/science/article/pii/S2199853122002542).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. [**Scopus**, Elsevier.]
+
+32. **Zhang, X.** & Lin, W.-Y. (2018). [Stoking the fires of participation: Extending the Gamson hypothesis on social media use and elite-challenging political engagement](https://linkinghub.elsevier.com/retrieve/pii/S074756321730609X). *Computers in Human Behavior*, 79, 217-226. https://doi.org/10.1016/j.chb.2017.10.036. [Q1 (top 12%) in SSCI – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier.]  
 
 32. **Zhang, X.** (2018). [Visualization, technologies, or the public? Exploring the articulation of data-driven journalism in the Twittersphere](https://doi.org/10.1080/21670811.2017.1340094). *Digital Journalism. 6*(6), 737-758. (**Q1** (top 18.2%) in **SSCI** - Communication, 2018 JCR IF = 2.679, Routledge Journals, Taylor & Francis Ltd.)
 
