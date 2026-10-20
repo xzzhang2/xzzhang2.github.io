@@ -8,7 +8,7 @@ I teach interdisciplinary courses on digital media and human communication, mult
 
 I have supervised eight postgraduate students (as the capstone project supervisor) and four research students. Most of them are either continuing doctoral studies (in Hong Kong, Europe, and the US) or working as full-time university faculty members in Hong Kong or mainland China. My students have won best paper awards at the ICA, presented their papers at major international conferences in media and communication, and published papers in top internationally peer-reviewed journals. 
 
-I am looking for PhD students in the areas of (1) digital journalism (news production and presentation), (2) political communication (digital culture and political beliefs), and (3) computational social science (social media data analytics and experiment design). Please email me your CV and credentials if you are interested in working with our team. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) under my supervision in the 2027/28 academic year. 
+**Oct 2026 update**: I am actively seeking highly motivated PhD students for the 2027/28 entry to conduct research in generative AI and digital journalism, political psychology, political communication, and computational social science. Interested applicants must explicitly state their English proficiency. While the College of Liberal Arts and Social Sciences at CityUHK mandates a baseline IELTS score of 6.5 across all sub-categories as outlined in the [SGS guidelines](https://www.cityu.edu.hk/pg/research-degree-programmes/entrance-requirements#collapse-accordion-3546-4), nominations are exceptionally competitive. Candidates in our team are normally expected to demonstrate superior language competence (ideally with all IELTS sub-scores at 7.0 or above), alongside strong academic training in communication and social science research methods (both quantitative and computational will be ideal). Practical experience in international newsrooms, data/computational journalism, or digital tech platforms (particularly with digital marketing, user experience, and/or data analytics capabilities) will be considered a distinct advantage. You are also welcome to apply for the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) under my supervision in the 2027/28 academic year.  
 
 
 ---
@@ -24,6 +24,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 ### <a name="hkbu_rds"></a>1. research supervision (2018 - present)
 
 1. Research students 
+ - [Zihan Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=zzhang3767) (principal supervision, Ph.D., 2026 - ) *in-progress* 
  - [Jieying Han](https://scholars.cityu.edu.hk/en/persons/jieyinhan2) (principal supervision, Ph.D., 2025 - ) *in-progress* 
  - [Siyu Zhang](https://www.cityu.edu.hk/com/Profile2.aspx?u=szhang886) (principal supervision, Ph.D., 2024 - ) *ABD* 
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - 26) *Graduated*
@@ -87,7 +88,7 @@ I am looking for PhD students in the areas of (1) digital journalism (news produ
 | SPD2303 Introduction to Communication |
 
 
-(updated: Sep 2026) 
+(updated: Oct 2026) 
 
 
 --
