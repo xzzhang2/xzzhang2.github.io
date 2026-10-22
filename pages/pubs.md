@@ -36,7 +36,7 @@ description: Xinzhi Zhang's publications
 
 7. Huang, W.\#, Wu, Y.\#, Skoric, M., & **Zhang, X.**\* (2025). [Normalizing platform logic: Motives, strategies and risks of news professionals’ traffic-oriented practices on social media in greater China](https://journals.sagepub.com/doi/abs/10.1177/14648849251398655). *Journalism.* Online first. [Top 11% (22th/first 200) in Scopus - Arts and Humanities, Sage Publications Ltd.]
 
-8. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collective collaboration on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]
+8. Pu, J.\# & **Zhang, X.**\* (2025). [Coding OpenAI in an open-sourced code sharing platform: Exploring the collaboration networks on ChatGPT projects on GitHub](https://doi.org/10.30658/hmc.11.3). *Human Machine Communication.* 11, 39–58. [Top 25% (49th/first 200) in Scopus - Social Sciences, Communication and Social Robotics Labs.]
 
 9. Pu, J.\# & **Zhang, X.**\* (2025). [Source and message effects on reactance to conflict reporting: Evidence from Hong Kong](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2545450). *Journalism Practice.* Online first. [Top 24% (48th/first 200) in Scopus - Communication, Routledge Journals, Taylor & Francis Ltd.]  
 
@@ -247,7 +247,7 @@ description: Xinzhi Zhang's publications
 23. **Zhang, X.** (2011, August). Twenty years of internet and civic engagement: A review beyond hypes and hopes. Paper presented at the Annual Convention of Association for Education in Journalism and Mass Communication (**AEJMC**). St. Louis, the U.S., 9-13 August 2011.
 
 
-(updated: Sep 2026) 
+(updated: October 2026) 
 
 
 --
