@@ -18,7 +18,7 @@ description: Xinzhi Zhang's publications
 
 ### <a name="publications"></a>1. publications (total: 62)
 
-#### 1A. peer-reviewed journal articles (48)
+#### 1A. peer-reviewed journal articles (49)
 
 *(\# denotes students, \* denotes the corresponding author)* 
 
@@ -78,13 +78,15 @@ description: Xinzhi Zhang's publications
 
 27. **Zhang, X.** (2021). [Innovation and conformity in music reproduction: A network analytic approach to contestants’ song covering in reality shows in Mainland China and the US](https://journals.sagepub.com/doi/10.1177/17480485211014372). *International Communication Gazette. 83*(7), 639-661. [**SSCI** - Communication, 2020 JCR IF = 1.859, Sage Publications Ltd.] 
 
-28. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics & Informatics. 50*. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2019 JCR IF = 4.139, Elsevier.]
+28. **Zhang, X.** & Zhong, Z.-J. (2020). [Extending media system dependency theory to informational media use and environmentalism: A cross-national study](https://www.sciencedirect.com/science/article/abs/pii/S073658532030037X?via%3Dihub). *Telematics and Informatics. 50*. [**Q1 (top 12%) in SSCI** – Information Science and Library Science, 2019 JCR IF = 4.139, Elsevier.]
 
 29. **Zhang, X.** & Li, W.\# (2020). [From social media with news: Journalists’ social media use for sourcing and verification](https://doi.org/10.1080/17512786.2019.1689372). *Journalism Practice. 14*(10), 1193-1210. [**Q2 (top 30%) in SSCI** - Communication, 2018 JCR IF = 2.124, Routledge Journals, Taylor & Francis Ltd.]
 
 30. **Zhang, X.** (2020). [Effects of freedom restoration, language variety, and issue type on psychological reactance](https://www.tandfonline.com/doi/full/10.1080/10410236.2019.1631565). *Health Communication. 35*(11), 1316-1327. (**Q2 in SSCI** - Communication, 2018 JCR IF = 1.846, Routledge Journals, Taylor & Francis Ltd).
 
 31. Ho, J. C. F. & **Zhang, X.** (2020). [Strategies of marketing a new media form to the mass market: A text-mining-based case study of virtual reality games](https://www.sciencedirect.com/science/article/pii/S2199853122002542).  *Journal of Open Innovation: Technology, Market, and Complexity.* 2020(6), 1. [**Scopus**, Elsevier.]
+
+12.  Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
 32. **Zhang, X.** & Lin, W.-Y. (2018). [Stoking the fires of participation: Extending the Gamson hypothesis on social media use and elite-challenging political engagement](https://linkinghub.elsevier.com/retrieve/pii/S074756321730609X). *Computers in Human Behavior*, 79, 217-226. https://doi.org/10.1016/j.chb.2017.10.036. [Q1 (top 12%) in SSCI – Psychology (multidisciplinary), 2017 JCR IF = 3.536, Elsevier.]  
 
@@ -135,11 +137,9 @@ description: Xinzhi Zhang's publications
 
 8. Peng, Z., Huang, J., Wang, H., Wang, S., Chu, X., **Zhang, X.**, ... & Xu, J. (2021, April). [BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing](https://arxiv.org/pdf/2101.09653.pdf). In International Conference on Database Systems for Advanced Applications (pp. 381-397). Springer, Cham. 
 
-9. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. 
+9. Lin, W.-Y. & **Zhang, X.** (2020). [Digital politics in mainland China: Participation in an unlikely place](https://www.researchgate.net/publication/342022836_The_role_of_digital_media_in_China_participation_in_an_unlikely_place), in Dutton, W. H. (Ed.), A research agenda for digital politics. Cheltenham, UK: Edward Elgar. pp. 72-84. 
 
 10. Wang, Q.#, **Zhang, X.**, & Man, Z. (2018). Survey of content production in Hong Kong Media. In Li, R. & Huang, Y. (eds), *Hong Kong digital media development report 2018* (pp. 224–247). Hong Kong: Chung Hwa Press.  [王祺樂、張昕之、滿子梵（2018）。〈香港媒體內容生產調查〉。 李文、黃煜主編： 《香港媒體數碼發展報告 2018》， 2018年，頁224 – 247。 香港：中華書局。 (# student co-author).
-
-12.  Zhu, J. J. H., Huang, Y., & **Zhang, X**. (2018). [Dialogue on computational communication research: Origins, theories, methods, and research questions](http://cschinese.com/word/15554202018.pdf). *Communication & Society, 44*, 1–24.  [祝建華、黃煜、**張昕之**（2018）。〈對談計算傳播學：起源、理論、方法與研究問題〉。《傳播與社會學刊》，第44 期，頁1–24].
 
 13. **Zhang, X**. (2017) [Exploring the country co-occurrence network in the Twittersphere at an international economic event](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_25). In: Cheng X., Ma W., Liu H., Shen H., Feng S., Xie X. (eds) *Social Media Processing. SMP 2017. Communications in Computer and Information Science. Vol. 774*, 308-318. Springer, Singapore. doi: 10.1007/978-981-10-6805-8_25 (**EI**, acceptance rate: 20%) 
 

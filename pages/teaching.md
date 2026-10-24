@@ -30,25 +30,15 @@ I have supervised eight postgraduate students (as the capstone project superviso
  - [Jingyi Pu](https://www.cityu.edu.hk/com/Profile2.aspx?u=jingyipu2) (principal supervision, Ph.D., 2020 - 26) *Graduated*
  - [Tianlun Zhou](https://www.comm.hkbu.edu.hk/comd-www/lib/pdf/PhD/ZHOU_Tianlun.pdf) (principal supervision, Ph.D., 2022 - ) *ABD* 
  - [Ruifeng Qie](https://cmc.szu.edu.cn/szdw/zljs_js/2.htm) (principal supervision, Ph.D., 2020 - 25) *Graduated*, Assistant Professor at Shenzhen University, China.  
- - [Xuzhen Yang](https://scholar.google.com/citations?hl=en&user=u5nPZF0AAAAJ) (principal supervision, M.Sc. Capstone, 2021 - 2022) *Graduated*, PhD candidate at the Michigan State University, the US.  
- - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, PhD, Tampere University, Finland, currently Assistant Professor at Beijing Normal-Hong Kong Baptist University, Hong Kong SAR.  
- - [Rui (Cara) Zhu](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L9WULrUAAAAJ) (principal supervision, M.Sc. Capstone, 2019 - 2020) *Graduated*, PhD candidate at the Michigan State University, the US. 
- - [Zhi Lin](https://scholar.google.com/citations?user=N0hz9gwAAAAJ) (co-supervision, M.Phil., 2019 - 21) *Graduated*, PhD candidate at the University of Texas at Austin, the US.  
+ - Jiye Sun (principal supervision, M.Sc. Capstone, 2021 - 2022) *Graduated*, Subsequently PhD student at the Indiana University Bloomington, the US. 
+ - [Xuzhen Yang](https://scholar.google.com/citations?hl=en&user=u5nPZF0AAAAJ) (principal supervision, M.Sc. Capstone, 2021 - 2022) *Graduated*, Subsequently PhD candidate at the Michigan State University, the US.  
+ - [Xiaohang Deng](https://webpages.tuni.fi/gamification/members/dion-deng) (co-supervision, M.Phil., 2020 - 22) *Graduated*, Subsequently PhD, Tampere University, Finland, currently Assistant Professor at Beijing Normal-Hong Kong Baptist University, Hong Kong SAR.  
+ - [Rui (Cara) Zhu](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L9WULrUAAAAJ) (principal supervision, M.Sc. Capstone, 2019 - 2020) *Graduated*, Subsequently PhD candidate at the Michigan State University, the US. 
+ - [Zhi Lin](https://scholar.google.com/citations?user=N0hz9gwAAAAJ) (co-supervision, M.Phil., 2019 - 21) *Graduated*, Subsequently PhD candidate at the University of Texas at Austin, the US.  
  - [Wenshu Li](https://scholar.google.com/citations?user=qfxb7XoAAAAJ) (co-supervision, Ph.D., 2018 - 22) *Graduated*, Assistant Professor at Hong Kong Shue Yan University, Hong Kong SAR.  
 
 2. Research intern and research assistants
- - Min Peng (2024 - 25)
- - Ruilin Zheng (2024 - 25)
- - Yue Hei (Moon) Lam (2023 - 24)
- - Yuanyuan Chang (2021 - 21)
- - Hiu Yan Ping (2021 - 21)
- - Minyi Chen (2019 - 20)
- - Jingwen Ma (2019 - 20)
- - Can He (2018 - 19)
- - Qile Wang (2018 - 19)
- - Jiehu Yuan (2018 - 19)
- - Mengyi Zhang (2017 - 18)
- - Wanting Xu (2017 - 18)
+ - Min Peng (2024 - 25), Ruilin Zheng (2024 - 25), Yue Hei (Moon) Lam (2023 - 24), Yuanyuan Chang (2021 - 21), Hiu Yan Ping (2021 - 21), Minyi Chen (2019 - 20), Jingwen Ma (2019 - 20), Can He (2018 - 19), Qile Wang (2018 - 19),  Jiehu Yuan (2018 - 19), Mengyi Zhang (2017 - 18), Wanting Xu (2017 - 18)
 
 
 ### <a name="cityu_courese"></a>2. courses @ CityU (2014, 2018, 2024 - presesnt)
